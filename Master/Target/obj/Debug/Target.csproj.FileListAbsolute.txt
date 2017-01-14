@@ -1,0 +1,66 @@
+C:\Users\t-orbar\Documents\Visual Studio 2015\Projects\Master\Target\bin\Debug\Target.exe.config
+C:\Users\t-orbar\Documents\Visual Studio 2015\Projects\Master\Target\bin\Debug\Target.exe
+C:\Users\t-orbar\Documents\Visual Studio 2015\Projects\Master\Target\bin\Debug\Target.pdb
+C:\Users\t-orbar\Documents\Visual Studio 2015\Projects\Master\Target\obj\Debug\Target.csprojResolveAssemblyReference.cache
+C:\Users\t-orbar\Documents\Visual Studio 2015\Projects\Master\Target\obj\Debug\Target.exe
+C:\Users\t-orbar\Documents\Visual Studio 2015\Projects\Master\Target\obj\Debug\Target.pdb
+C:\Users\t-orbar\Documents\Visual Studio 2015\Projects\Master\Target\bin\Debug\PostSharp.dll
+C:\Users\t-orbar\Documents\Visual Studio 2015\Projects\Master\Target\bin\Debug\PostSharp.xml
+C:\Users\t-orbar\Documents\Visual Studio 2015\Projects\Master\Target\bin\Debug\Target.pssym
+C:\Users\t-orbar\Documents\Visual Studio 2015\Projects\Master\Target\obj\Debug\Target.exe.postsharp
+C:\Users\t-orbar\Documents\Visual Studio 2015\Projects\Master\Target\obj\Debug\PostSharpHost.config
+C:\Users\t-orbar\Documents\Visual Studio 2015\Projects\Master\Target\bin\Debug\InvariantSynthesis.exe
+C:\Users\t-orbar\Documents\Visual Studio 2015\Projects\Master\Target\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\t-orbar\Documents\Visual Studio 2015\Projects\Master\Target\bin\Debug\weka.dll
+C:\Users\t-orbar\Documents\Visual Studio 2015\Projects\Master\Target\bin\Debug\IKVM.Runtime.dll
+C:\Users\t-orbar\Documents\Visual Studio 2015\Projects\Master\Target\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\t-orbar\Documents\Visual Studio 2015\Projects\Master\Target\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\t-orbar\Documents\Visual Studio 2015\Projects\Master\Target\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\t-orbar\Documents\Visual Studio 2015\Projects\Master\Target\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\t-orbar\Documents\Visual Studio 2015\Projects\Master\Target\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\t-orbar\Documents\Visual Studio 2015\Projects\Master\Target\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\t-orbar\Documents\Visual Studio 2015\Projects\Master\Target\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\t-orbar\Documents\Visual Studio 2015\Projects\Master\Target\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\t-orbar\Documents\Visual Studio 2015\Projects\Master\Target\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\t-orbar\Documents\Visual Studio 2015\Projects\Master\Target\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\t-orbar\Documents\Visual Studio 2015\Projects\Master\Target\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\t-orbar\Documents\Visual Studio 2015\Projects\Master\Target\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\t-orbar\Documents\Visual Studio 2015\Projects\Master\Target\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\t-orbar\Documents\Visual Studio 2015\Projects\Master\Target\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\t-orbar\Documents\Visual Studio 2015\Projects\Master\Target\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\t-orbar\Documents\Visual Studio 2015\Projects\Master\Target\bin\Debug\InvariantSynthesis.pdb
+C:\Users\t-orbar\Documents\Visual Studio 2015\Projects\Master\Target\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\t-orbar\Documents\Visual Studio 2015\Projects\Master\Target\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\UniGit\Thesis\Master\Target\bin\Debug\Target.exe.config
+C:\UniGit\Thesis\Master\Target\obj\Debug\Target.exe
+C:\UniGit\Thesis\Master\Target\obj\Debug\Target.pdb
+C:\UniGit\Thesis\Master\Target\obj\Debug\Target.csprojResolveAssemblyReference.cache
+C:\UniGit\Thesis\Master\Target\bin\Debug\Target.exe
+C:\UniGit\Thesis\Master\Target\bin\Debug\Target.pdb
+C:\UniGit\Thesis\Master\Target\bin\Debug\InvariantSynthesis.exe
+C:\UniGit\Thesis\Master\Target\bin\Debug\PostSharp.dll
+C:\UniGit\Thesis\Master\Target\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\UniGit\Thesis\Master\Target\bin\Debug\weka.dll
+C:\UniGit\Thesis\Master\Target\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\UniGit\Thesis\Master\Target\bin\Debug\IKVM.Runtime.dll
+C:\UniGit\Thesis\Master\Target\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\UniGit\Thesis\Master\Target\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\UniGit\Thesis\Master\Target\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\UniGit\Thesis\Master\Target\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\UniGit\Thesis\Master\Target\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\UniGit\Thesis\Master\Target\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\UniGit\Thesis\Master\Target\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\UniGit\Thesis\Master\Target\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\UniGit\Thesis\Master\Target\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\UniGit\Thesis\Master\Target\bin\Debug\IKVM.Runtime.JNI.dll
+C:\UniGit\Thesis\Master\Target\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\UniGit\Thesis\Master\Target\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\UniGit\Thesis\Master\Target\bin\Debug\IKVM.AWT.WinForms.dll
+C:\UniGit\Thesis\Master\Target\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\UniGit\Thesis\Master\Target\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\UniGit\Thesis\Master\Target\bin\Debug\InvariantSynthesis.pdb
+C:\UniGit\Thesis\Master\Target\bin\Debug\PostSharp.xml
+C:\UniGit\Thesis\Master\Target\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\UniGit\Thesis\Master\Target\bin\Debug\Target.pssym
+C:\UniGit\Thesis\Master\Target\obj\Debug\Target.exe.postsharp
+C:\UniGit\Thesis\Master\Target\obj\Debug\PostSharpHost.config
