@@ -32,6 +32,7 @@ namespace InvariantSynthesis.Utility
 
         public static void WriteLine(string methodName, string line)
         {
+            Tracer.WriteLine($"Entered Csv Logger WriteLine. methodName: {methodName}, line: {line}");
             var p = GetPathForMethod(methodName);
             var f = new FileInfo(p);
             f.Directory.Create();
@@ -39,6 +40,7 @@ namespace InvariantSynthesis.Utility
             {
                 swr.WriteLine(line);
             }
+            Tracer.WriteLine($"Left Csv Logger WriteLine. methodName: {methodName}, line: {line}");
         }
 
         private static string GetPathForMethod(string methodName)
@@ -49,24 +51,6 @@ namespace InvariantSynthesis.Utility
         private static string GetDateFolderName()
         {
             return DateTime.Now.ToString("dd-MM-yyyy");
-        }
-
-        private static void AddClassToAboveRows(string methodName, int count, string _class)
-        {
-            var p = GetPathForMethod(methodName);
-            var f = new FileInfo(p);
-            if (!f.Directory.Exists)
-            {
-                return;
-            }
-            var swr = new ReverseLineReader(GetPathForMethod(methodName));
-            foreach(var line in swr)
-            {
-                if (line.EndsWith(","))
-                {
-                    
-                }
-            }
         }
     }
 }

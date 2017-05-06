@@ -1,5 +1,9 @@
 ﻿using System.Collections.Generic;
+using System.Diagnostics;
+using System.Reflection;
+using System.Security.Policy;
 using System.Text;
+using InvariantSynthesis.LoggedUtility;
 using PostSharp.Aspects;
 using PostSharp.Serialization;
 
@@ -13,9 +17,10 @@ namespace InvariantSynthesis.Utility
     [LinesOfCodeAvoided(6)]
     public sealed class CsvLogMethodAttribute : OnMethodBoundaryAspect
     {
-        private const bool Success = true;
-        private const bool Failure = false;
+        private const char Success = '1';
+        private const char Failure = '0';
         private const char Separator = ',';
+        private static List<string> _testMethodNames = new List<string>(); 
 
         private static List<Trace> buffer = new List<Trace>(); 
             
@@ -27,6 +32,9 @@ namespace InvariantSynthesis.Utility
         {
         }
 
+        public override void OnExit(MethodExecutionArgs args)
+        {
+        }
 
         /// <summary>
         ///     Method invoked after the target method has successfully completed.
@@ -34,15 +42,24 @@ namespace InvariantSynthesis.Utility
         /// <param name="args">Method execution context.</param>
         public override void OnSuccess(MethodExecutionArgs args)
         {
+            Tracer.WriteLine($"OnSuccess: {GetMethodFullName(args)}, Arguments and output: {GetInputsOutputString(args)}");
             var methodName = args.Method.Name;
-            if (!IsAssertMethod(methodName)) //normal method, sample it
+            if (IsFlushMethod(methodName))
             {
+                Tracer.WriteLine($"OnSuccess: {GetMethodFullName(args)} is flush method, flushing buffer");
+                FlushBufferWithClass(methodName);
+            }
+            else if (!IsAssertMethod(methodName)) //normal method, sample it
+            {
+                Tracer.WriteLine($"OnSuccess: {GetMethodFullName(args)} is not assert method");
                 var sb = GetInputsOutputString(args);
-                buffer.Add(new Trace(GetMethodFullName(args), sb.ToString()));
+                var trace = new Trace(GetMethodFullName(args), sb.ToString());
+                buffer.Add(trace);
+                Tracer.WriteLine($"OnSuccess: added to buffer: {trace}");
             }
             else //successful test method, mark all samples with success
             {
-                FlushBufferWithClass(methodName, Success);
+                Tracer.WriteLine($"OnSuccess: {GetMethodFullName(args)} is assert method, do nothing");
             }
         }
 
@@ -52,19 +69,25 @@ namespace InvariantSynthesis.Utility
         /// <param name="args">Method execution context.</param>
         public override void OnException(MethodExecutionArgs args)
         {
+            Tracer.WriteLine($"OnException: {GetMethodFullName(args)}, Arguments and output: {GetInputsOutputString(args)}");
             var methodName = args.Method.Name;
-            if (!IsAssertMethod(methodName)) //normal method, sample it with failure
+            if (IsFlushMethod(methodName))
             {
-                var sb = GetInputsOutputString(args);
-                sb.Append(Failure.ToString());
-                CsvLogger.WriteLine(GetMethodFullName(args), sb.ToString());
+                Tracer.WriteLine($"OnException: {GetMethodFullName(args)} is flush method, flushing buffer");
+                FlushBufferWithClass(methodName);
             }
-            else //successful test method, mark all samples with failure
+            else if (!IsAssertMethod(methodName)) //normal method, sample it
             {
-                FlushBufferWithClass(methodName, Failure);
+                Tracer.WriteLine($"OnException: {GetMethodFullName(args)} is not assert method");
+                var sb = GetInputsOutputString(args, triggeredOnException: true);
+                var trace = new Trace(GetMethodFullName(args), sb.ToString());
+                buffer.Add(trace);
+                Tracer.WriteLine($"OnException: added to buffer: {trace}");
             }
-
-
+            else //Is an assert method, do nothing
+            {
+                Tracer.WriteLine($"OnException: {GetMethodFullName(args)} is assert method, do nothing");
+            }
         }
 
         private static string GetMethodFullName(MethodExecutionArgs args)
@@ -72,7 +95,7 @@ namespace InvariantSynthesis.Utility
             return args.Method.DeclaringType + "." + args.Method.Name;
         }
 
-        private static StringBuilder GetInputsOutputString(MethodExecutionArgs args)
+        private static StringBuilder GetInputsOutputString(MethodExecutionArgs args, bool triggeredOnException = false)
         {
             var c = args.Arguments.Count;
             var sb = new StringBuilder();
@@ -80,33 +103,87 @@ namespace InvariantSynthesis.Utility
             {
                 sb.Append(args.Arguments.GetArgument(i).ToString() + Separator);
             }
-//            sb.Append(args.ReturnValue);
+            if (!triggeredOnException) //log output value normally, void for a void method
+            {
+                sb.Append(args.ReturnValue);
+            }
+            else //exception was thrown, log NaN
+            {
+                sb.Append("NaN");
+            }
             return sb;
         }
 
         private static bool IsAssertMethod(string methodName)
         {
-            return methodName.StartsWith("Inv_");
+            if (_testMethodNames.Count == 0)
+            {
+                var t = (typeof(InvariantSynthesis.LoggedUtility.Assert));
+                MethodInfo[] methods = t.GetMethods();
+                foreach (var method in methods)
+                {
+                    _testMethodNames.Add(method.Name);
+                }
+            }
+            return _testMethodNames.Contains(methodName);
         }
 
-        private static void FlushBufferWithClass(string methodName, bool _class)
+        private static bool IsFlushMethod(string methodName)
+        {
+            return methodName.StartsWith("Inv_AssertAll");
+        }
+
+        private static void FlushBufferWithClass(string methodName)
         {
             foreach (var trace in buffer)
             {
-                CsvLogger.WriteLine(trace.MethodFullName, trace.Line + _class);
+                Tracer.WriteLine($"FlushBufferWithClass: {methodName} flushing buffer with class: {trace.Cluster}");
+                CsvLogger.WriteLine(trace.MethodFullName, trace.Line + ',' + trace.Cluster);
             }
+            Tracer.WriteLine($"FlushBufferWithClass: {methodName} finished flushing");
             buffer = new List<Trace>();
+        }
+
+        public static List<Trace> CollectFreeTraces()
+        {
+            List<Trace> traces = new List<Trace>();
+            foreach (var trace in buffer)
+            {
+                if (!trace.Occupied)
+                {
+                    traces.Add(trace);
+                    trace.Occupied = true;
+                }
+            }
+            return traces;
+        }
+
+        public static void ClassifyTraces(List<Trace> traces, char _class)
+        {
+            foreach (var trace in traces)
+            {
+                trace.Cluster = _class;
+            }
         }
     }
 
-    class Trace
+    public class Trace
     {
+        public readonly char MissingCluster= 'm';
         public Trace(string methodFullName , string line)
         {
             MethodFullName = methodFullName;
             Line = line;
+            Cluster = MissingCluster;
+            Occupied = false;
         }
         public string MethodFullName { get; set; }
         public string Line { get; set; }
+        public char Cluster { get; set; }
+        public bool Occupied { get; set; }
+        public override string ToString()
+        {
+            return $"Name: {MethodFullName}, Line: {Line}, Cluster: {Cluster}";
+        }
     }
 }

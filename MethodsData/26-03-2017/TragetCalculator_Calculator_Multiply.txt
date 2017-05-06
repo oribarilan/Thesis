@@ -1,0 +1,74 @@
+﻿{
+	""_id"": {
+		""$oid"": ""00000000000000000000000""
+	},
+	""lrs"": {
+		""_id"": {
+			""$oid"": ""00000000000000000000000""
+		}
+	},
+	""lrs_id"": {
+		""$oid"": ""00000000000000000000000""
+	},
+	""client_id"": ""00000000000000000000000"",
+	""statement"": {
+		""version"": ""1.0.1"",
+		""actor"": {
+			""objectType"": ""Agent"",
+			""openid"": ""aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa""
+		},
+		""verb"": {
+			""id"": ""aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"",
+			""display"": {
+				""en-US"": ""launched""
+			}
+		},
+		""object"": {
+			""objectType"": ""Activity"",
+			""id"": ""aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"",
+			""definition"": {
+				""type"": ""aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"",
+				""name"": {
+					""he"": ""עברית לדוגמא""
+				}
+			}
+		},
+		""context"": {
+			""registration"": ""123ab1c2-1234-1234-ab1c-1a2b3c4d56f7"",
+			""contextActivities"": {
+				""category"": [{
+						""objectType"": ""Activity"",
+						""id"": ""aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"",
+						""definition"": {
+							""type"": ""aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa""
+						}
+					}
+				]
+			},
+			""extensions"": {
+				""aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"": ""NONE"",
+				""aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"": """",
+				""aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"": ""NONE"",
+				""aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"": ""NONE"",
+				""aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"": ""123ab1c2-1234-1234-ab1c-1a2b3c4d56f7"",
+				""aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"": ""This is a long description aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa""
+			}
+		},
+		""timestamp"": ""2025-01-01T08:12:44.8780424Z"",
+		""id"": ""123ab1c2-1234-1234-ab1c-1a2b3c4d56f7"",
+		""authority"": {
+			""objectType"": ""Agent"",
+			""name"": ""New Client"",
+			""mbox"": ""mailto:some@mail.com""
+		},
+		""stored"": ""2025-01-01T08:12:44.8780424Z""
+	},
+	""active"": true,
+	""voided"": false,
+	""timestamp"": {
+		""$date"": ""2025-01-01T08:12:44.8780424Z""
+	},
+	""stored"": {
+		""$date"": ""2025-01-01T08:12:44.8780424Z""
+	}
+}

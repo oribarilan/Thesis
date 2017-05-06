@@ -1,0 +1,15 @@
+C:\UniGit\Thesis\Master\TragetCalculator\bin\Debug\TragetCalculator.exe.config
+C:\UniGit\Thesis\Master\TragetCalculator\bin\Debug\TragetCalculator.exe
+C:\UniGit\Thesis\Master\TragetCalculator\bin\Debug\TragetCalculator.pdb
+C:\UniGit\Thesis\Master\TragetCalculator\obj\Debug\TragetCalculator.exe
+C:\UniGit\Thesis\Master\TragetCalculator\obj\Debug\TragetCalculator.pdb
+C:\UniGit\Thesis\Master\TragetCalculator\bin\Debug\InvariantSynthesis.exe
+C:\UniGit\Thesis\Master\TragetCalculator\bin\Debug\PostSharp.dll
+C:\UniGit\Thesis\Master\TragetCalculator\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\UniGit\Thesis\Master\TragetCalculator\bin\Debug\InvariantSynthesis.pdb
+C:\UniGit\Thesis\Master\TragetCalculator\bin\Debug\PostSharp.xml
+C:\UniGit\Thesis\Master\TragetCalculator\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\UniGit\Thesis\Master\TragetCalculator\bin\Debug\TragetCalculator.pssym
+C:\UniGit\Thesis\Master\TragetCalculator\obj\Debug\TragetCalculator.csprojResolveAssemblyReference.cache
+C:\UniGit\Thesis\Master\TragetCalculator\obj\Debug\TragetCalculator.exe.postsharp
+C:\UniGit\Thesis\Master\TragetCalculator\obj\Debug\PostSharpHost.config

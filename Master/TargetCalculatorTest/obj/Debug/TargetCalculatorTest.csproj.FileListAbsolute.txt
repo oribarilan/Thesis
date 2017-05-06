@@ -1,0 +1,17 @@
+C:\UniGit\Thesis\Master\TargetCalculatorTest\bin\Debug\TargetCalculatorTest.dll
+C:\UniGit\Thesis\Master\TargetCalculatorTest\bin\Debug\TargetCalculatorTest.pdb
+C:\UniGit\Thesis\Master\TargetCalculatorTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\UniGit\Thesis\Master\TargetCalculatorTest\bin\Debug\TragetCalculator.exe
+C:\UniGit\Thesis\Master\TargetCalculatorTest\bin\Debug\TragetCalculator.pdb
+C:\UniGit\Thesis\Master\TargetCalculatorTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\UniGit\Thesis\Master\TargetCalculatorTest\obj\Debug\TargetCalculatorTest.csprojResolveAssemblyReference.cache
+C:\UniGit\Thesis\Master\TargetCalculatorTest\obj\Debug\TargetCalculatorTest.dll
+C:\UniGit\Thesis\Master\TargetCalculatorTest\obj\Debug\TargetCalculatorTest.pdb
+C:\UniGit\Thesis\Master\TargetCalculatorTest\bin\Debug\TargetCalculatorTest.dll.config
+C:\UniGit\Thesis\Master\TargetCalculatorTest\bin\Debug\InvariantSynthesis.exe
+C:\UniGit\Thesis\Master\TargetCalculatorTest\bin\Debug\PostSharp.dll
+C:\UniGit\Thesis\Master\TargetCalculatorTest\bin\Debug\InvariantSynthesis.pdb
+C:\UniGit\Thesis\Master\TargetCalculatorTest\bin\Debug\PostSharp.xml
+C:\UniGit\Thesis\Master\TargetCalculatorTest\bin\Debug\TargetCalculatorTest.pssym
+C:\UniGit\Thesis\Master\TargetCalculatorTest\obj\Debug\TargetCalculatorTest.dll.postsharp
+C:\UniGit\Thesis\Master\TargetCalculatorTest\obj\Debug\PostSharpHost.config

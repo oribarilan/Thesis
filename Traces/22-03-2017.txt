@@ -1,0 +1,159 @@
+﻿5:52 PM:: OnSuccess: Target.Program.Go, Arguments and output: 0,True
+5:52 PM:: OnSuccess: Target.Program.Go is not assert method
+5:52 PM:: OnSuccess: added to buffer: Name: Target.Program.Go, Line: 0,True
+5:52 PM:: OnException: Target.Program.Go, Arguments and output: 1,
+5:52 PM:: OnException: Target.Program.Go, Arguments and output: 2,
+5:52 PM:: OnException: Target.Program.Go, Arguments and output: 3,
+5:52 PM:: OnException: InvariantSynthesis.LoggedUtility.Assert.Inv_AssertAll, Arguments and output: System.Collections.Generic.List`1[System.Action],
+5:52 PM:: OnException: InvariantSynthesis.LoggedUtility.Assert.Inv_AssertAll is assert method, flushing buffer
+5:52 PM:: FlushBufferWithClass: Inv_AssertAll flushing buffer with class: 0
+5:52 PM:: Entered Csv Logger WriteLine. methodName: Target.Program.Go, line: 0,True,0
+5:52 PM:: Left Csv Logger WriteLine. methodName: Target.Program.Go, line: 0,True,0
+5:52 PM:: FlushBufferWithClass: Inv_AssertAll finished flushing
+5:54 PM:: OnSuccess: Target.Program.Go, Arguments and output: 0,True
+5:54 PM:: OnSuccess: Target.Program.Go is not assert method
+5:54 PM:: OnSuccess: added to buffer: Name: Target.Program.Go, Line: 0,True
+5:54 PM:: OnException: Target.Program.Go, Arguments and output: 1,
+5:54 PM:: OnException: Target.Program.Go is not assert method
+5:54 PM:: OnException: added to buffer: Name: Target.Program.Go, Line: 1,NaN
+5:54 PM:: OnException: Target.Program.Go, Arguments and output: 2,
+5:54 PM:: OnException: Target.Program.Go is not assert method
+5:54 PM:: OnException: added to buffer: Name: Target.Program.Go, Line: 2,NaN
+5:54 PM:: OnException: Target.Program.Go, Arguments and output: 3,
+5:54 PM:: OnException: Target.Program.Go is not assert method
+5:54 PM:: OnException: added to buffer: Name: Target.Program.Go, Line: 3,NaN
+5:54 PM:: OnException: InvariantSynthesis.LoggedUtility.Assert.Inv_AssertAll, Arguments and output: System.Collections.Generic.List`1[System.Action],
+5:54 PM:: OnSuccess: Target.Program.Go, Arguments and output: 0,True
+5:54 PM:: OnSuccess: Target.Program.Go is not assert method
+5:54 PM:: OnSuccess: added to buffer: Name: Target.Program.Go, Line: 0,True
+5:54 PM:: OnException: Target.Program.Go, Arguments and output: 1,
+5:54 PM:: OnException: Target.Program.Go is not assert method
+5:54 PM:: OnException: added to buffer: Name: Target.Program.Go, Line: 1,NaN
+5:54 PM:: OnException: Target.Program.Go, Arguments and output: 2,
+5:54 PM:: OnException: Target.Program.Go is not assert method
+5:54 PM:: OnException: added to buffer: Name: Target.Program.Go, Line: 2,NaN
+5:54 PM:: OnException: Target.Program.Go, Arguments and output: 3,
+5:54 PM:: OnException: Target.Program.Go is not assert method
+5:54 PM:: OnException: added to buffer: Name: Target.Program.Go, Line: 3,NaN
+5:54 PM:: OnException: InvariantSynthesis.LoggedUtility.Assert.Inv_AssertAll, Arguments and output: System.Collections.Generic.List`1[System.Action],
+6:01 PM:: OnSuccess: Target.Program.Go, Arguments and output: 0,True
+6:01 PM:: OnSuccess: Target.Program.Go is not assert method
+6:01 PM:: OnSuccess: added to buffer: Name: Target.Program.Go, Line: 0,True
+6:01 PM:: OnException: Target.Program.Go, Arguments and output: 1,
+6:01 PM:: OnException: Target.Program.Go is not assert method
+6:01 PM:: OnException: added to buffer: Name: Target.Program.Go, Line: 1,NaN
+6:01 PM:: OnException: Target.Program.Go, Arguments and output: 2,
+6:01 PM:: OnException: Target.Program.Go is not assert method
+6:01 PM:: OnException: added to buffer: Name: Target.Program.Go, Line: 2,NaN
+6:01 PM:: OnException: Target.Program.Go, Arguments and output: 3,
+6:01 PM:: OnException: Target.Program.Go is not assert method
+6:01 PM:: OnException: added to buffer: Name: Target.Program.Go, Line: 3,NaN
+6:01 PM:: OnSuccess: InvariantSynthesis.LoggedUtility.Assert.Inv_AssertAll, Arguments and output: System.Collections.Generic.List`1[System.Action],
+6:01 PM:: OnSuccess: InvariantSynthesis.LoggedUtility.Assert.Inv_AssertAll is assert method, flushing buffer
+6:01 PM:: FlushBufferWithClass: Inv_AssertAll flushing buffer with class: 1
+6:01 PM:: Entered Csv Logger WriteLine. methodName: Target.Program.Go, line: 0,True,1
+6:01 PM:: Left Csv Logger WriteLine. methodName: Target.Program.Go, line: 0,True,1
+6:01 PM:: FlushBufferWithClass: Inv_AssertAll flushing buffer with class: 1
+6:01 PM:: Entered Csv Logger WriteLine. methodName: Target.Program.Go, line: 1,NaN,1
+6:01 PM:: Left Csv Logger WriteLine. methodName: Target.Program.Go, line: 1,NaN,1
+6:01 PM:: FlushBufferWithClass: Inv_AssertAll flushing buffer with class: 1
+6:01 PM:: Entered Csv Logger WriteLine. methodName: Target.Program.Go, line: 2,NaN,1
+6:01 PM:: Left Csv Logger WriteLine. methodName: Target.Program.Go, line: 2,NaN,1
+6:01 PM:: FlushBufferWithClass: Inv_AssertAll flushing buffer with class: 1
+6:01 PM:: Entered Csv Logger WriteLine. methodName: Target.Program.Go, line: 3,NaN,1
+6:01 PM:: Left Csv Logger WriteLine. methodName: Target.Program.Go, line: 3,NaN,1
+6:01 PM:: FlushBufferWithClass: Inv_AssertAll finished flushing
+6:03 PM:: OnSuccess: Target.Program.Go, Arguments and output: 0,True
+6:03 PM:: OnSuccess: Target.Program.Go is not assert method
+6:03 PM:: OnSuccess: added to buffer: Name: Target.Program.Go, Line: 0,True
+6:03 PM:: OnException: Target.Program.Go, Arguments and output: 1,
+6:03 PM:: OnException: Target.Program.Go is not assert method
+6:03 PM:: OnException: added to buffer: Name: Target.Program.Go, Line: 1,NaN
+6:03 PM:: OnException: Target.Program.Go, Arguments and output: 2,
+6:03 PM:: OnException: Target.Program.Go is not assert method
+6:03 PM:: OnException: added to buffer: Name: Target.Program.Go, Line: 2,NaN
+6:03 PM:: OnException: Target.Program.Go, Arguments and output: 3,
+6:03 PM:: OnException: Target.Program.Go is not assert method
+6:03 PM:: OnException: added to buffer: Name: Target.Program.Go, Line: 3,NaN
+6:04 PM:: OnSuccess: InvariantSynthesis.LoggedUtility.Assert.Inv_AssertAll, Arguments and output: System.Collections.Generic.List`1[System.Action],
+6:04 PM:: OnSuccess: InvariantSynthesis.LoggedUtility.Assert.Inv_AssertAll is assert method, flushing buffer
+6:04 PM:: FlushBufferWithClass: Inv_AssertAll flushing buffer with class: 1
+6:04 PM:: Entered Csv Logger WriteLine. methodName: Target.Program.Go, line: 0,True,1
+6:04 PM:: Left Csv Logger WriteLine. methodName: Target.Program.Go, line: 0,True,1
+6:04 PM:: FlushBufferWithClass: Inv_AssertAll flushing buffer with class: 1
+6:04 PM:: Entered Csv Logger WriteLine. methodName: Target.Program.Go, line: 1,NaN,1
+6:04 PM:: Left Csv Logger WriteLine. methodName: Target.Program.Go, line: 1,NaN,1
+6:04 PM:: FlushBufferWithClass: Inv_AssertAll flushing buffer with class: 1
+6:04 PM:: Entered Csv Logger WriteLine. methodName: Target.Program.Go, line: 2,NaN,1
+6:04 PM:: Left Csv Logger WriteLine. methodName: Target.Program.Go, line: 2,NaN,1
+6:04 PM:: FlushBufferWithClass: Inv_AssertAll flushing buffer with class: 1
+6:04 PM:: Entered Csv Logger WriteLine. methodName: Target.Program.Go, line: 3,NaN,1
+6:04 PM:: Left Csv Logger WriteLine. methodName: Target.Program.Go, line: 3,NaN,1
+6:04 PM:: FlushBufferWithClass: Inv_AssertAll finished flushing
+6:06 PM:: OnSuccess: Target.Program.Go, Arguments and output: 0,True
+6:06 PM:: OnSuccess: Target.Program.Go is not assert method
+6:06 PM:: OnSuccess: added to buffer: Name: Target.Program.Go, Line: 0,True
+6:06 PM:: OnException: Target.Program.Go, Arguments and output: 1,
+6:06 PM:: OnException: Target.Program.Go is not assert method
+6:06 PM:: OnException: added to buffer: Name: Target.Program.Go, Line: 1,NaN
+6:07 PM:: OnException: Target.Program.Go, Arguments and output: 2,
+6:07 PM:: OnException: Target.Program.Go is not assert method
+6:07 PM:: OnException: added to buffer: Name: Target.Program.Go, Line: 2,NaN
+6:07 PM:: OnException: Target.Program.Go, Arguments and output: 3,
+6:07 PM:: OnException: Target.Program.Go is not assert method
+6:07 PM:: OnException: added to buffer: Name: Target.Program.Go, Line: 3,NaN
+6:07 PM:: OnSuccess: InvariantSynthesis.LoggedUtility.Assert.Inv_ThrowsException, Arguments and output: System.Action,
+6:07 PM:: OnSuccess: InvariantSynthesis.LoggedUtility.Assert.Inv_ThrowsException is assert method, flushing buffer
+6:07 PM:: FlushBufferWithClass: Inv_ThrowsException flushing buffer with class: 1
+6:07 PM:: Entered Csv Logger WriteLine. methodName: Target.Program.Go, line: 0,True,1
+6:07 PM:: Left Csv Logger WriteLine. methodName: Target.Program.Go, line: 0,True,1
+6:07 PM:: FlushBufferWithClass: Inv_ThrowsException flushing buffer with class: 1
+6:07 PM:: Entered Csv Logger WriteLine. methodName: Target.Program.Go, line: 1,NaN,1
+6:07 PM:: Left Csv Logger WriteLine. methodName: Target.Program.Go, line: 1,NaN,1
+6:07 PM:: FlushBufferWithClass: Inv_ThrowsException flushing buffer with class: 1
+6:07 PM:: Entered Csv Logger WriteLine. methodName: Target.Program.Go, line: 2,NaN,1
+6:07 PM:: Left Csv Logger WriteLine. methodName: Target.Program.Go, line: 2,NaN,1
+6:07 PM:: FlushBufferWithClass: Inv_ThrowsException flushing buffer with class: 1
+6:07 PM:: Entered Csv Logger WriteLine. methodName: Target.Program.Go, line: 3,NaN,1
+6:07 PM:: Left Csv Logger WriteLine. methodName: Target.Program.Go, line: 3,NaN,1
+6:07 PM:: FlushBufferWithClass: Inv_ThrowsException finished flushing
+6:08 PM:: OnSuccess: Target.Program.Go, Arguments and output: 0,True
+6:08 PM:: OnSuccess: Target.Program.Go is not assert method
+6:08 PM:: OnSuccess: added to buffer: Name: Target.Program.Go, Line: 0,True
+6:08 PM:: OnException: Target.Program.Go, Arguments and output: 1,
+6:08 PM:: OnException: Target.Program.Go is not assert method
+6:08 PM:: OnException: added to buffer: Name: Target.Program.Go, Line: 1,NaN
+6:08 PM:: OnException: Target.Program.Go, Arguments and output: 2,
+6:08 PM:: OnException: Target.Program.Go is not assert method
+6:08 PM:: OnException: added to buffer: Name: Target.Program.Go, Line: 2,NaN
+6:08 PM:: OnException: Target.Program.Go, Arguments and output: 3,
+6:08 PM:: OnException: Target.Program.Go is not assert method
+6:08 PM:: OnException: added to buffer: Name: Target.Program.Go, Line: 3,NaN
+6:08 PM:: OnSuccess: InvariantSynthesis.LoggedUtility.Assert.Inv_AssertAll, Arguments and output: System.Collections.Generic.List`1[System.Action],
+6:08 PM:: OnSuccess: InvariantSynthesis.LoggedUtility.Assert.Inv_AssertAll is assert method, flushing buffer
+6:08 PM:: FlushBufferWithClass: Inv_AssertAll flushing buffer with class: 1
+6:08 PM:: Entered Csv Logger WriteLine. methodName: Target.Program.Go, line: 0,True,1
+6:08 PM:: Left Csv Logger WriteLine. methodName: Target.Program.Go, line: 0,True,1
+6:08 PM:: FlushBufferWithClass: Inv_AssertAll flushing buffer with class: 1
+6:08 PM:: Entered Csv Logger WriteLine. methodName: Target.Program.Go, line: 1,NaN,1
+6:08 PM:: Left Csv Logger WriteLine. methodName: Target.Program.Go, line: 1,NaN,1
+6:08 PM:: FlushBufferWithClass: Inv_AssertAll flushing buffer with class: 1
+6:08 PM:: Entered Csv Logger WriteLine. methodName: Target.Program.Go, line: 2,NaN,1
+6:08 PM:: Left Csv Logger WriteLine. methodName: Target.Program.Go, line: 2,NaN,1
+6:08 PM:: FlushBufferWithClass: Inv_AssertAll flushing buffer with class: 1
+6:08 PM:: Entered Csv Logger WriteLine. methodName: Target.Program.Go, line: 3,NaN,1
+6:08 PM:: Left Csv Logger WriteLine. methodName: Target.Program.Go, line: 3,NaN,1
+6:08 PM:: FlushBufferWithClass: Inv_AssertAll finished flushing
+6:10 PM:: OnSuccess: Target.Program.Go, Arguments and output: 0,True
+6:10 PM:: OnSuccess: Target.Program.Go is not assert method
+6:10 PM:: OnSuccess: added to buffer: Name: Target.Program.Go, Line: 0,True
+6:10 PM:: OnException: Target.Program.Go, Arguments and output: 1,
+6:10 PM:: OnException: Target.Program.Go is not assert method
+6:10 PM:: OnException: added to buffer: Name: Target.Program.Go, Line: 1,NaN
+6:10 PM:: OnException: Target.Program.Go, Arguments and output: 2,
+6:10 PM:: OnException: Target.Program.Go is not assert method
+6:10 PM:: OnException: added to buffer: Name: Target.Program.Go, Line: 2,NaN
+6:10 PM:: OnException: Target.Program.Go, Arguments and output: 3,
+6:10 PM:: OnException: Target.Program.Go is not assert method
+6:10 PM:: OnException: added to buffer: Name: Target.Program.Go, Line: 3,NaN
+6:10 PM:: OnSuccess: InvariantSynthesis.LoggedUtility.Assert.Inv_AssertAll, Arguments and output: System.Collections.Generic.List`1[System.Action],

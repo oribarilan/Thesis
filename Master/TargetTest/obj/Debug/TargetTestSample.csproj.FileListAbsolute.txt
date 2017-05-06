@@ -1,0 +1,16 @@
+C:\UniGit\Thesis\Master\TargetTest\bin\Debug\TargetTest.dll
+C:\UniGit\Thesis\Master\TargetTest\bin\Debug\TargetTest.pdb
+C:\UniGit\Thesis\Master\TargetTest\bin\Debug\InvariantSynthesis.exe
+C:\UniGit\Thesis\Master\TargetTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\UniGit\Thesis\Master\TargetTest\bin\Debug\PostSharp.dll
+C:\UniGit\Thesis\Master\TargetTest\bin\Debug\Target.exe
+C:\UniGit\Thesis\Master\TargetTest\bin\Debug\InvariantSynthesis.pdb
+C:\UniGit\Thesis\Master\TargetTest\bin\Debug\Target.pdb
+C:\UniGit\Thesis\Master\TargetTest\bin\Debug\PostSharp.xml
+C:\UniGit\Thesis\Master\TargetTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\UniGit\Thesis\Master\TargetTest\bin\Debug\TargetTest.pssym
+C:\UniGit\Thesis\Master\TargetTest\obj\Debug\TargetTestSample.csprojResolveAssemblyReference.cache
+C:\UniGit\Thesis\Master\TargetTest\obj\Debug\TargetTest.dll.postsharp
+C:\UniGit\Thesis\Master\TargetTest\obj\Debug\TargetTest.dll
+C:\UniGit\Thesis\Master\TargetTest\obj\Debug\TargetTest.pdb
+C:\UniGit\Thesis\Master\TargetTest\obj\Debug\PostSharpHost.config
