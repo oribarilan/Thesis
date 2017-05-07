@@ -16,7 +16,6 @@ class Barinel:
     def __init__(self):
         self.M_matrix = []
         self.e_vector = []
-        self.prior_probs = []
         self.diagnoses = []
 
 
@@ -24,26 +23,11 @@ class Barinel:
         self.M_matrix = M
         self.e_vector = e
 
-    def set_prior_probs(self, probs):
-        self.prior_probs=probs
-
-
-    def non_uniform_prior(self, diag):
-        comps = diag.get_diag()
-        prob = 1
-        for i in range(len(comps)):
-            prob *= self.prior_probs[comps[i]]
-        return prob
-
     def generate_probs(self):
         new_diagnoses = []
         probs_sum = 0.0
         for diag in self.diagnoses:
-            dk = 0.0
-            if (self.prior_probs == []):
-                dk = math.pow(prior_p,len(diag.get_diag())) #assuming same prior prob. for every component.
-            else:
-                dk = self.non_uniform_prior(diag)
+            dk = math.pow(prior_p,len(diag.get_diag())) #assuming same prior prob. for every component.
             tf = TF.TF(self.M_matrix,self.e_vector,diag.get_diag())
             e_dk = tf.maximize()
             diag.probability=e_dk * dk #temporary probability
@@ -71,13 +55,11 @@ class Barinel:
 def load_file_with_header( file):
     with open(file,"r") as f:
         lines = list(csv.reader(f))
-        probs=[float(x) for x in lines[0]]
-        comps_num=len(probs)
-        tests = lines[1:]
-        erorr_vector = [int(t[comps_num]) for t in  tests]
-        Matrix = [[int(float(y)) for y in x[:comps_num]] for x in  tests]
+        comps_num=len(lines[0])-1
+        tests = lines[0:]
+        erorr_vector = [int(t[comps_num]) for t in tests]
+        Matrix = [[int(float(y)) for y in x[:comps_num]] for x in tests]
         ans = Barinel()
-        ans.set_prior_probs(probs)
         ans.set_matrix_error(Matrix,erorr_vector)
         return ans
 
