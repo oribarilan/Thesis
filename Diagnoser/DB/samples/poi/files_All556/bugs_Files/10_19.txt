@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
+Bugged
+0,1
+BugsIds
+-1,53568,52583,53707,54731,55661,54696
+TestsCount
+11
+pack
+"['src\\scratchpad\\testcases\\org\\apache\\poi\\hslf\\extractor', 'src\\ooxml\\java\\org\\apache', 'src\\ooxml\\testcases\\org\\apache\\poi\\xslf\\extractor', 'src\\scratchpad\\src\\org', 'src\\java\\org\\apache\\poi\\ss']"
+testsChoosedNames
+Trace_org.apache.poi.hmef.TestCompressedRTF@testFirstTwoBlocks_1439118517966,Trace_org.apache.poi.hsmf.datatypes.TestTypes@testName_1439118606339,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439121102291,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439121016236,Trace_org.apache.poi.hwpf.usermodel.TestProblems@testSprmAIOOB_1439121824130,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testFo_1439121365235,Trace_org.apache.poi.ss.usermodel.BaseTestWorkbook@testGetSetActiveSheet_1439125218920,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439118815960,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439121077309,Trace_org.apache.poi.ss.usermodel.BaseTestWorkbook@testCloneSheet_1439126339628,Trace_org.apache.poi.xslf.usermodel.TestXSLFSimpleShape@testShadowEffects_1439124129519
+FileNames
+src\scratchpad\src\org\apache\poi\hslf\usermodel\SlideShow.java,src\scratchpad\src\org\apache\poi\hwpf\converter\AbstractWordConverter.java,src\java\org\apache\poi\ddf\AbstractEscherOptRecord.java,src\java\org\apache\poi\ddf\EscherClientAnchorRecord.java,src\java\org\apache\poi\ddf\EscherProperty.java,src\java\org\apache\poi\hpsf\ClassID.java,src\java\org\apache\poi\poifs\filesystem\DocumentInputStream.java,src\java\org\apache\poi\util\BitField.java,src\java\org\apache\poi\util\IOUtils.java,src\java\org\apache\poi\util\POILogFactory.java,src\scratchpad\src\org\apache\poi\hslf\record\CString.java,src\scratchpad\src\org\apache\poi\hslf\record\Record.java,src\scratchpad\src\org\apache\poi\hslf\record\RecordTypes.java,src\scratchpad\src\org\apache\poi\hwpf\model\FieldsDocumentPart.java,src\testcases\org\apache\poi\POIDataSamples.java

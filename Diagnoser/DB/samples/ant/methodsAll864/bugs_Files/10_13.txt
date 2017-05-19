@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9
+Bugged
+0,1,2
+BugsIds
+-1,51035,50515,50716,50507,51086,50716
+TestsCount
+11
+pack
+"['main\\org\\apache\\tools\\ant\\taskdefs\\optional\\depend', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional\\depend\\constantpool', 'main\\org\\apache\\tools\\ant\\util', 'main\\org\\apache\\tools\\ant\\launch', 'main\\org\\apache\\tools\\ant\\taskdefs\\condition']"
+testsChoosedNames
+Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438960382615,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961444910,Trace_org.apache.tools.ant.types.selectors.DependSelectorTest@testMergeMapper2_1438962275559,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438960944029,Trace_org.apache.tools.ant.taskdefs.EchoTest@testLogBlankEcho_1438961035741,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961219575,Trace_org.apache.tools.ant.taskdefs.optional.junit.JUnitTaskTest@testCrash_1438961729390,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961341017,Trace_org.apache.tools.ant.launch.LocatorTest@testUnixNetworkPath_1438960382626,Trace_org.apache.tools.ant.taskdefs.FailTest@testIf_1438961081132,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961845265
+FileNames
+src\main\org\apache\tools\ant\Target.java$execute,src\main\org\apache\tools\ant\taskdefs\Delete.java$execute,src\main\org\apache\tools\ant\taskdefs\MacroDef.java$addConfiguredAttribute,src\main\org\apache\tools\ant\AntTypeDefinition.java$getName,src\main\org\apache\tools\ant\BuildEvent.java$setException,src\main\org\apache\tools\ant\launch\Locator.java$decodeUri,src\main\org\apache\tools\ant\launch\Locator.java$fromJarURI,src\main\org\apache\tools\ant\taskdefs\MatchingTask.java$setProject,src\main\org\apache\tools\ant\taskdefs\condition\Os.java$isFamily,src\main\org\apache\tools\ant\taskdefs\optional\junit\JUnitTestRunner.java$access$000

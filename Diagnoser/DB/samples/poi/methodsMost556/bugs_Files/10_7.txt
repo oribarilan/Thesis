@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
+Bugged
+0
+BugsIds
+-1,55292,55294,53282,53568,53965,54524
+TestsCount
+11
+pack
+"['src\\ooxml\\java\\org\\apache\\poi\\xssf\\usermodel', 'src\\java\\org\\apache\\poi\\ss\\format', 'src\\java\\org\\apache\\poi\\hssf\\record', 'src\\ooxml\\testcases', 'src\\java\\org\\apache\\poi\\ss\\formula\\udf']"
+testsChoosedNames
+Trace_org.apache.poi.xslf.usermodel.TestXSLFColor@testSRgb_1439124037903,Trace_org.apache.poi.util.TestIdentifierManager@testLongLimits_1439122121326,Trace_org.apache.poi.xssf.usermodel.TestXSSFDialogSheet@testIsSetDisplayFormulas_1439125960120,Trace_org.apache.poi.xwpf.usermodel.TestXWPFSmartTag@testSmartTags_1439126531791,Trace_org.apache.poi.xssf.usermodel.TestXSSFSheet@testSetRowGroupCollapsed_1439126235464,Trace_org.apache.poi.xssf.streaming.TestSXSSFCell@testSetTypeStringOnFormulaCell_1439125011669,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439118867552,Trace_org.apache.poi.xssf.usermodel.TestXSSFPictureData@testRead_1439126066146,Trace_org.apache.poi.xssf.usermodel.TestXSSFWorkbook@testRecalcId_1439126336463,Trace_org.apache.poi.xwpf.usermodel.TestXWPFHeader@testSetWatermark_1439126503902,Trace_org.apache.poi.xssf.usermodel.TestXSSFColor@testIndexedColour_1439125902530
+FileNames
+src\ooxml\java\org\apache\poi\xssf\usermodel\helpers\ColumnHelper.java$addCleanColIntoCols,src\java\org\apache\poi\ss\SpreadsheetVersion.java$getLastColumnIndex,src\java\org\apache\poi\ss\SpreadsheetVersion.java$getLastColumnName,src\java\org\apache\poi\ss\usermodel\DataFormatter.java$addFormat,src\java\org\apache\poi\ss\usermodel\DataFormatter.java$cleanFormatForNumber,src\java\org\apache\poi\ss\util\CellReference.java$convertColStringToIndex,src\java\org\apache\poi\ss\util\CellReference.java$getCol,src\java\org\apache\poi\ss\util\CellReference.java$getRow,src\ooxml\java\org\apache\poi\POIXMLDocument.java$getProperties,src\ooxml\java\org\apache\poi\POIXMLDocumentPart.java$read,src\ooxml\java\org\apache\poi\POIXMLProperties.java$getCoreProperties,src\ooxml\java\org\apache\poi\openxml4j\opc\PackagePart.java$getRelationshipsByType,src\ooxml\java\org\apache\poi\openxml4j\opc\internal\PackagePropertiesPart.java$getCategoryProperty,src\ooxml\java\org\apache\poi\util\PackageHelper.java$open,src\ooxml\java\org\apache\poi\xssf\model\SharedStringsTable.java$readFrom,src\ooxml\java\org\apache\poi\xssf\model\StylesTable.java$readFrom,src\ooxml\java\org\apache\poi\xssf\usermodel\XSSFFactory.java$getInstance,src\ooxml\java\org\apache\poi\xssf\usermodel\XSSFSheet.java$getRow,src\ooxml\java\org\apache\poi\xssf\usermodel\XSSFSheet.java$initRows,src\testcases\org\apache\poi\POIDataSamples.java$getFile,src\testcases\org\apache\poi\hssf\HSSFTestDataSamples.java$openSampleFileStream

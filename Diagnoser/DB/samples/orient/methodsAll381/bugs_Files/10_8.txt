@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6
+Bugged
+0,1
+BugsIds
+-1,3136,3588,3121,3498,2828,2999
+TestsCount
+10
+pack
+"['src\\main\\java\\com\\orientechnologies\\orient\\core\\storage\\impl\\local\\eh', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\metadata\\schema', 'src\\main\\java\\com\\orientechnologies\\common\\profiler', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\command\\traverse', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\type\\tree']"
+testsChoosedNames
+Trace_com.orientechnologies.orient.core.record.impl.ODocumentFieldConversionTest@testCollectionDecimalCoversion_1438528835620,Trace_com.orientechnologies.orient.core.index.OPropertyListIndexDefinitionTest@testProcessChangeEventRemoveTwoTimes_1438529265072,Trace_com.orientechnologies.orient.core.index.OPropertyRidBagAbstractIndexDefinitionTest@testProcessChangeEventAddOnce_1438527576832,Trace_com.orientechnologies.orient.core.index.sbtree.local.SBTreeCompositeKeyTest@testIterateEntriesNonInclusive_1438528524110,Trace_com.orientechnologies.orient.core.sql.OCommandExecutorSQLSelectTest@testExpandOnEmbedded_1438528437269,Trace_com.orientechnologies.orient.core.index.OSimpleKeyIndexDefinitionTest@testWrongParamType_1438527728728,Trace_com.orientechnologies.orient.core.index.OPropertyRidBagAbstractIndexDefinitionTest@testCreateValueTwoParameters_1438527576713,Trace_com.orientechnologies.orient.core.record.impl.DirtyFinderTest@testNestedLazySetDocument_1438528732718,Trace_com.orientechnologies.orient.core.index.OPropertyMapIndexDefinitionTest@testProcessChangeEventUpdateValueWithConversion_1438529400699,Trace_com.orientechnologies.orient.core.index.OPropertyMapIndexDefinitionTest@testCreateValueByValueSingleParameterArrayParams_1438529374540
+FileNames
+core\src\main\java\com\orientechnologies\common\concur\lock\OReadersWriterSpinLock.java$acquireReadLock,core\src\main\java\com\orientechnologies\common\listener\OListenerManger.java$getListenersCopy,core\src\main\java\com\orientechnologies\orient\core\Orient.java$instance,core\src\main\java\com\orientechnologies\orient\core\db\ODatabaseRecordThreadLocal.java$remove,core\src\main\java\com\orientechnologies\orient\core\db\record\OMultiValueChangeEvent.java$getChangeType,core\src\main\java\com\orientechnologies\orient\core\db\record\OMultiValueChangeEvent.java$getValue,core\src\main\java\com\orientechnologies\orient\core\index\hashindex\local\cache\OWOWCache.java$access$1200

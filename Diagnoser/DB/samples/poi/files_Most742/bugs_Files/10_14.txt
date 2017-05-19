@@ -1,0 +1,14 @@
+Files
+0,1,2,3
+Bugged
+0
+BugsIds
+-1,55081,55001,54210,53372,55047,55560
+TestsCount
+4
+pack
+"['src\\java\\org\\apache\\poi\\ddf', 'src\\testcases\\org\\apache\\poi', 'src\\scratchpad\\src\\org\\apache\\poi\\hslf', 'src\\scratchpad\\testcases', 'src\\ooxml\\java\\org\\apache\\poi\\openxml4j\\opc\\internal']"
+testsChoosedNames
+Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439121200640,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439119065302,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439121132438,Trace_org.apache.poi.ss.format.TestCellFormatPart@testNumberApproxFormat_1439122055938
+FileNames
+src\ooxml\java\org\apache\poi\xslf\usermodel\XSLFTextShape.java,src\ooxml\java\org\apache\poi\POIXMLDocument.java,src\ooxml\java\org\apache\poi\xslf\model\ParagraphPropertyFetcher.java,src\testcases\org\apache\poi\POIDataSamples.java

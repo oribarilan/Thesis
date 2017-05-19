@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4
+Bugged
+0
+BugsIds
+-1,401140,409078,402861,290631,402409,409056
+TestsCount
+3
+pack
+"['org.eclipse.cdt.core\\parser\\org\\eclipse\\cdt\\internal\\core\\pdom\\dom\\c', 'org.eclipse.cdt.core.tests\\model\\org\\eclipse\\cdt\\core\\language\\settings\\providers', 'org.eclipse.cdt.managedbuilder.core\\src\\org\\eclipse\\cdt\\managedbuilder\\language\\settings\\providers', 'org.eclipse.cdt.core\\model\\org\\eclipse\\cdt\\core\\language\\settings\\providers', 'org.eclipse.cdt.core.tests\\parser\\org\\eclipse\\cdt\\core\\parser\\tests']"
+testsChoosedNames
+Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2Tests@testBasicFunction_1439132153928,Trace_org.eclipse.cdt.core.parser.tests.ast2.CompleteParser2Tests@testBug44925_1439132789296,Trace_org.eclipse.cdt.core.settings.model.CConfigurationDescriptionReferenceTests@testDependencyOrder_1439133386780,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2CPPTests@testBug87705_1439132606921
+FileNames
+core\org.eclipse.cdt.core\model\org\eclipse\cdt\internal\core\language\settings\providers\LanguageSettingsScannerInfoProvider.java$convertToLocations,build\org.eclipse.cdt.managedbuilder.core\src\org\eclipse\cdt\managedbuilder\core\ManagedBuildManager.java$doSetLoaddedInfo,core\org.eclipse.cdt.core.tests\model\org\eclipse\cdt\core\language\settings\providers\LanguageSettingsScannerInfoProviderTests.java$getLanguages,core\org.eclipse.cdt.core.tests\model\org\eclipse\cdt\core\language\settings\providers\LanguageSettingsScannerInfoProviderTests.java$setBuilderCWD,core\org.eclipse.cdt.core\model\org\eclipse\cdt\core\model\CoreModel.java$getRegistedContentTypeId

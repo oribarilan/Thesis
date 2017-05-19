@@ -1,0 +1,14 @@
+Files
+0,1,2,3
+Bugged
+0
+BugsIds
+-1,3342,3113,2616,2676,3073,3174
+TestsCount
+7
+pack
+"['src\\main\\java\\com\\orientechnologies\\orient\\core\\type\\tree', 'src\\main\\java\\com\\orientechnologies\\common\\parser', 'src\\test\\java\\com\\orientechnologies\\common\\concur\\lock', 'src\\main\\java\\com\\orientechnologies\\common\\concur\\resource', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\index']"
+testsChoosedNames
+Trace_com.orientechnologies.orient.core.record.impl.DirtyFinderTest@testNestedLazyMapDocument_1438528732708,Trace_com.orientechnologies.orient.core.index.hashindex.local.cache.ConcurrentLRUListConcurrentTest@testAddRemoveSameEntries_1438527777208,Trace_com.orientechnologies.orient.core.sql.parser.OSelectStatementTest@testNamedParam_1438529803670,Trace_com.orientechnologies.orient.core.index.OPropertyRidBagAbstractIndexDefinitionTest@testProcessChangeEventAddRemove_1438527576881,Trace_com.orientechnologies.orient.core.metadata.schema.OClassImplTest@testCreatePropertyCastableColection_1438529891148,Trace_com.orientechnologies.orient.core.metadata.schema.OClassImplTest@testSetUncastableType_1438529936479,Trace_com.orientechnologies.orient.core.index.OPropertyMapIndexDefinitionTest@testProcessChangeEventRemoveValue_1438529400653
+FileNames
+core\src\main\java\com\orientechnologies\orient\core\index\hashindex\local\cache\OWOWCache.java,core\src\main\java\com\orientechnologies\orient\core\db\record\ORecordLazyMap.java,core\src\main\java\com\orientechnologies\orient\core\metadata\schema\OSchemaShared.java,core\src\main\java\com\orientechnologies\orient\core\record\ORecordInternal.java

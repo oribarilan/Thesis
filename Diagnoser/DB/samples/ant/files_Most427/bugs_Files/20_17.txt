@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+Bugged
+0
+BugsIds
+-1,31667,51462,51044,50888,41986,51668
+TestsCount
+10
+pack
+"['main\\org\\apache\\tools\\ant\\taskdefs\\optional\\depend\\constantpool', 'main\\org\\apache\\tools\\ant\\types', 'main\\org\\apache\\tools\\ant\\launch', 'main\\org\\apache\\tools\\ant\\taskdefs', 'main\\org\\apache\\tools\\ant\\filters']"
+testsChoosedNames
+Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438962304513,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438962257301,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961773084,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438960904639,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961705066,Trace_org.apache.tools.ant.taskdefs.CopyfileTest@test1_1438960980615,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438960399404,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438962309320,Trace_org.apache.tools.ant.taskdefs.JavaTest@testFlushedInput_1438961207825,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438962245934,Trace_org.apache.tools.ant.taskdefs.TStampTest@testPrefix_1438961485391,Trace_org.apache.tools.ant.taskdefs.JavacTest@testCompilerAttribute_1438961219528,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438960353208
+FileNames
+src\main\org\apache\tools\ant\taskdefs\Copy.java,src\main\org\apache\tools\ant\AntClassLoader.java,src\main\org\apache\tools\ant\AntTypeDefinition.java,src\main\org\apache\tools\ant\DirectoryScanner.java,src\main\org\apache\tools\ant\PropertyHelper.java,src\main\org\apache\tools\ant\Task.java,src\main\org\apache\tools\ant\property\ParseProperties.java,src\main\org\apache\tools\ant\taskdefs\Available.java,src\main\org\apache\tools\ant\taskdefs\Delete.java,src\main\org\apache\tools\ant\taskdefs\MacroDef.java,src\main\org\apache\tools\ant\taskdefs\MatchingTask.java,src\main\org\apache\tools\ant\taskdefs\ResourceCount.java,src\main\org\apache\tools\ant\taskdefs\condition\Not.java,src\main\org\apache\tools\ant\taskdefs\condition\Os.java,src\main\org\apache\tools\ant\types\FilterSetCollection.java,src\main\org\apache\tools\ant\types\resources\BaseResourceCollectionContainer.java,src\main\org\apache\tools\ant\types\resources\FileResourceIterator.java,src\main\org\apache\tools\ant\types\resources\Union.java,src\main\org\apache\tools\zip\ZipFile.java

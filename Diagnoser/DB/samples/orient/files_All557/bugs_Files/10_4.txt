@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10
+Bugged
+0,1,2
+BugsIds
+-1,2968,3109,2721,3412,3197,2676
+TestsCount
+11
+pack
+"['src\\main\\java\\com\\orientechnologies\\orient\\core\\index\\sbtreebonsai\\local', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\db\\record', 'src\\test\\java\\com\\orientechnologies\\common\\serialization', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\index', 'src\\main\\java\\com\\orientechnologies\\common\\directmemory']"
+testsChoosedNames
+Trace_com.orientechnologies.orient.core.metadata.schema.OClassImplTest@testChangeTypeProperty_1438529884321,Trace_com.orientechnologies.orient.core.sql.OChainedIndexProxyFindBestIndexTest@testPriorityNonCompositeOverComposite_1438527703633,Trace_com.orientechnologies.orient.core.sql.OCommandExecutorSQLSelectTest@testNewline_1438528437746,Trace_com.orientechnologies.orient.core.record.impl.ODocumentFieldConversionTest@testCollectionIntegerCoversion_1438528835664,Trace_com.orientechnologies.orient.core.metadata.schema.OClassImplTest@testCreatePropertyFailOnExistingDataLinkMap_1438529913969,Trace_com.orientechnologies.orient.core.index.sbtree.local.SBTreeNonLeafBucketTest@testShrink_1438528802993,Trace_com.orientechnologies.orient.core.index.hashindex.local.cache.ReadWriteDiskCacheTest@testReadFourItems_1438527580430,Trace_com.orientechnologies.orient.core.record.impl.ODocumentTest@testKeepSchemafullFieldTypeSerialization_1438529516696,Trace_com.orientechnologies.orient.core.metadata.schema.TestMultiSuperClasses@testSql_1438530181830,Trace_com.orientechnologies.common.serialization.types.DecimalSerializerTest@testNativeDirectMemoryCompatibility_1438528836472,Trace_com.orientechnologies.orient.core.index.OPropertyRidBagAbstractIndexDefinitionTest@testProcessChangeEventAddTwoValues_1438527576965
+FileNames
+core\src\main\java\com\orientechnologies\orient\core\Orient.java,core\src\main\java\com\orientechnologies\orient\core\db\document\ODatabaseDocumentTx.java,core\src\main\java\com\orientechnologies\orient\core\sql\OChainedIndexProxy.java,core\src\main\java\com\orientechnologies\common\directmemory\ODirectMemoryFactory.java,core\src\main\java\com\orientechnologies\common\directmemory\OUnsafeMemoryJava7.java,core\src\main\java\com\orientechnologies\common\serialization\OUnsafeBinaryConverter.java,core\src\main\java\com\orientechnologies\common\serialization\types\OIntegerSerializer.java,core\src\main\java\com\orientechnologies\common\serialization\types\OLongSerializer.java,core\src\main\java\com\orientechnologies\orient\core\index\hashindex\local\cache\OCacheEntry.java,core\src\main\java\com\orientechnologies\orient\core\index\hashindex\local\cache\OCachePointer.java,core\src\main\java\com\orientechnologies\orient\core\metadata\schema\OType.java

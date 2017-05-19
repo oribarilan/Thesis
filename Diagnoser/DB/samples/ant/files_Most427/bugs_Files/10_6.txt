@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7
+Bugged
+0
+BugsIds
+-1,50716,48633,50888,52382,51668,50513
+TestsCount
+6
+pack
+"['main\\org\\apache\\tools\\ant\\types', 'main\\org\\apache\\tools\\ant\\filters', 'main\\org\\apache\\tools\\ant\\launch', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional\\junit', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional']"
+testsChoosedNames
+Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438962228113,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438962256541,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438962325771,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961259567,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438962256776,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438962306136,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438962327560
+FileNames
+src\main\org\apache\tools\ant\taskdefs\optional\TraXLiaison.java,src\main\org\apache\tools\ant\DirectoryScanner.java,src\main\org\apache\tools\ant\taskdefs\Delete.java,src\main\org\apache\tools\ant\taskdefs\Property.java,src\main\org\apache\tools\ant\types\AbstractFileSet.java,src\main\org\apache\tools\ant\types\Mapper.java,src\main\org\apache\tools\ant\types\resources\BaseResourceCollectionContainer.java,src\main\org\apache\tools\ant\util\JAXPUtils.java

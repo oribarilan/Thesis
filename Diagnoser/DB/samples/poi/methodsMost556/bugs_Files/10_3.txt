@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11
+Bugged
+0
+BugsIds
+-1,55650,55024,49940,53271,53965,54849
+TestsCount
+9
+pack
+"['src\\testcases\\org\\apache\\poi\\ss\\formula\\functions', 'src\\ooxml\\java\\org\\apache\\poi\\openxml4j', 'src\\testcases\\org', 'src\\ooxml\\java\\org\\apache\\poi', 'src\\ooxml\\java\\org\\apache\\poi\\xssf\\model']"
+testsChoosedNames
+Trace_org.apache.poi.hslf.model.TestTextRun@testGetRichText_1439118546953,Trace_org.apache.poi.hwpf.usermodel.TestLists@testWriteRead_1439121812084,Trace_org.apache.poi.hslf.usermodel.TestPictures@testJPEG_1439118563569,Trace_org.apache.poi.xssf.usermodel.TestXSSFDialogSheet@testGetAllHeadersFooters_1439125959816,Trace_org.apache.poi.xssf.usermodel.helpers.TestColumnHelper@testGetOrCreateColumn_1439126350582,Trace_org.apache.poi.xslf.usermodel.TestXSLFTextParagraph@testThemeInheritance_1439124725900,Trace_org.apache.poi.hwpf.usermodel.TestBugs@testBug53380_3_1439121796987,Trace_org.apache.poi.TestPOIXMLDocument@testXLSX_1439121931495,Trace_org.apache.poi.hwpf.converter.TestWordToHtmlConverter@testTableMerges_1439121672653
+FileNames
+src\ooxml\java\org\apache\poi\xwpf\usermodel\XWPFParagraph.java$buildRunsInOrderFromXml,src\java\org\apache\poi\util\IOUtils.java$calculateChecksum,src\ooxml\java\org\apache\poi\POIXMLDocument.java$getPackage,src\ooxml\java\org\apache\poi\POIXMLDocument.java$getProperties,src\ooxml\java\org\apache\poi\POIXMLDocumentPart.java$incrementRelationCounter,src\ooxml\java\org\apache\poi\POIXMLDocumentPart.java$read,src\ooxml\java\org\apache\poi\POIXMLProperties.java$getCoreProperties,src\ooxml\java\org\apache\poi\POIXMLRelation.java$getContentType,src\ooxml\java\org\apache\poi\POIXMLRelation.java$getFileName,src\ooxml\java\org\apache\poi\POIXMLRelation.java$getRelation,src\ooxml\java\org\apache\poi\POIXMLRelation.java$getRelationClass,src\testcases\org\apache\poi\POIDataSamples.java$getDocumentInstance

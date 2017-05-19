@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+Bugged
+0
+BugsIds
+-1,50515,51668,50543,50513,50866,52382
+TestsCount
+11
+pack
+"['main\\org\\apache\\tools\\ant\\taskdefs\\condition', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional\\junit', 'main\\org\\apache\\tools\\ant', 'main\\org\\apache\\tools\\ant\\taskdefs\\email', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional']"
+testsChoosedNames
+Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961394126,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438960259814,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438960528661,Trace_org.apache.tools.ant.taskdefs.JarTest@testIndexJarsPlusJarMarker_1438961189953,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438960355207,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438960321235,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438962326018,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438960882425,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438960278866,Trace_org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunnerTest@testNoSuite_1438961772904,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961093894
+FileNames
+src\main\org\apache\tools\ant\launch\Locator.java$decodeUri,src\main\org\apache\tools\ant\AntTypeDefinition.java$create,src\main\org\apache\tools\ant\AntTypeDefinition.java$getClassName,src\main\org\apache\tools\ant\BuildEvent.java$setException,src\main\org\apache\tools\ant\IntrospectionHelper.java$addText,src\main\org\apache\tools\ant\Project.java$executeSortedTargets,src\main\org\apache\tools\ant\Project.java$getProperty,src\main\org\apache\tools\ant\Project.java$setDefault,src\main\org\apache\tools\ant\Target.java$getName,src\main\org\apache\tools\ant\Task.java$log,src\main\org\apache\tools\ant\taskdefs\Mkdir.java$execute,src\main\org\apache\tools\ant\taskdefs\Touch.java$checkConfiguration,src\main\org\apache\tools\ant\taskdefs\optional\junit\JUnitTestRunner.java$access$000,src\main\org\apache\tools\ant\taskdefs\optional\junit\JUnitTestRunner.java$startTest,src\main\org\apache\tools\ant\types\DataType.java$checkAttributesAllowed,src\main\org\apache\tools\ant\types\DataType.java$isReference,src\main\org\apache\tools\ant\types\resources\FileResource.java$getName,src\main\org\apache\tools\ant\util\FileUtils.java$close,src\main\org\apache\tools\ant\util\FileUtils.java$dissect,src\main\org\apache\tools\ant\util\FileUtils.java$isContextRelativePath

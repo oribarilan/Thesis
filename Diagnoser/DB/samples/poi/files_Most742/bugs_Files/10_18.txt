@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11
+Bugged
+0
+BugsIds
+-1,55361,54607,55742,48528,54607,55024
+TestsCount
+11
+pack
+"['src\\ooxml\\testcases\\org\\apache\\poi', 'src\\java\\org\\apache\\poi\\ss\\formula\\functions', 'src\\ooxml\\testcases\\org\\apache', 'src\\testcases\\org\\apache\\poi\\ss', 'src\\ooxml\\java\\org\\apache\\poi\\xssf\\usermodel']"
+testsChoosedNames
+Trace_org.apache.poi.ss.usermodel.BaseTestWorkbook@testSetSheetOrder_1439125219034,Trace_org.apache.poi.xwpf.usermodel.TestXWPFRun@testSetFontFamily_52288_1439126530725,Trace_org.apache.poi.xssf.usermodel.TestXSSFRichTextString@testApplyFont_lowlevel_1439126068015,Trace_org.apache.poi.ss.usermodel.BaseTestWorkbook@testSetSheetName_1439125205017,Trace_org.apache.poi.openxml4j.opc.TestPackageThumbnail@testSetProperties_1439122047630,Trace_org.apache.poi.xssf.streaming.TestSXSSFWorkbook@testWorkbookDispose_1439125205271,Trace_org.apache.poi.xslf.usermodel.TestXSLFAutoShape@testTextBodyProperies_1439124024816,Trace_org.apache.poi.xssf.usermodel.TestXSSFDialogSheet@testGetSetHorizontallyCentered_1439125959532,Trace_org.apache.poi.xssf.util.TestEvilUnclosedBRFixingInputStream@testOK_1439126353711,Trace_org.apache.poi.xssf.extractor.TestXSSFExportToXML@testMultiTable_1439124884028,Trace_org.apache.poi.xssf.usermodel.extensions.TestXSSFCellFill@testGetFillForegroundColor_1439126349511
+FileNames
+src\ooxml\testcases\org\apache\poi\xssf\usermodel\TestXSSFSheet.java,src\java\org\apache\poi\ss\usermodel\FontFamily.java,src\ooxml\java\org\apache\poi\openxml4j\opc\StreamHelper.java,src\ooxml\java\org\apache\poi\openxml4j\opc\ZipPackagePart.java,src\ooxml\java\org\apache\poi\openxml4j\opc\internal\MemoryPackagePartOutputStream.java,src\ooxml\java\org\apache\poi\openxml4j\util\Nullable.java,src\ooxml\java\org\apache\poi\openxml4j\util\ZipInputStreamZipEntrySource.java,src\ooxml\java\org\apache\poi\util\PackageHelper.java,src\ooxml\java\org\apache\poi\xssf\model\SharedStringsTable.java,src\ooxml\java\org\apache\poi\xssf\model\StylesTable.java,src\ooxml\java\org\apache\poi\xssf\util\CTColComparator.java,src\ooxml\testcases\org\apache\poi\xssf\XSSFITestDataProvider.java

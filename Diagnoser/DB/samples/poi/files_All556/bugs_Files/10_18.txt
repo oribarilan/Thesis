@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11,12
+Bugged
+0,1
+BugsIds
+-1,53979,55361,53302,53650,54111,54137
+TestsCount
+11
+pack
+"['src', 'src\\ooxml\\testcases\\org\\apache\\poi\\xssf', 'src\\ooxml\\java\\org', 'src\\scratchpad\\testcases\\org\\apache\\poi\\hwpf\\converter', 'src\\ooxml\\java\\org\\apache\\poi\\openxml4j\\opc']"
+testsChoosedNames
+Trace_org.apache.poi.hslf.record.TestSlideAtom@testSSlideLayoutAtom_1439118551176,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439121070544,Trace_org.apache.poi.ss.usermodel.BaseTestCell@testToString_1439125884089,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testHtml_1439121622304,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testFo_1439121300882,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439119074422,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testText_1439121264475,Trace_org.apache.poi.hwpf.usermodel.TestLists@testIndentedText_1439121812272,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439121201826,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testFo_1439121334890,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439121111654
+FileNames
+src\java\org\apache\poi\hssf\model\InternalSheet.java,src\ooxml\java\org\apache\poi\xssf\streaming\SXSSFSheet.java,src\java\org\apache\poi\POIDocument.java,src\java\org\apache\poi\hpsf\ClassID.java,src\java\org\apache\poi\ss\SpreadsheetVersion.java,src\java\org\apache\poi\ss\usermodel\DateUtil.java,src\java\org\apache\poi\ss\usermodel\FontFamily.java,src\java\org\apache\poi\util\BitField.java,src\java\org\apache\poi\util\StringUtil.java,src\ooxml\java\org\apache\poi\POIXMLDocument.java,src\ooxml\java\org\apache\poi\openxml4j\opc\PackagePartName.java,src\ooxml\java\org\apache\poi\xssf\usermodel\XSSFCreationHelper.java,src\scratchpad\src\org\apache\poi\hwpf\converter\HtmlDocumentFacade.java

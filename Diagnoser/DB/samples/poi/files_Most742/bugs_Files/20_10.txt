@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+Bugged
+0,1
+BugsIds
+-1,49940,55647,55650,54676,53475,47090
+TestsCount
+12
+pack
+"['src\\scratchpad\\testcases\\org\\apache\\poi\\hsmf', 'src\\scratchpad\\src\\org\\apache\\poi\\hdgf\\chunks', 'src\\scratchpad\\src\\org\\apache\\poi\\hslf\\model', 'src\\java\\org\\apache\\poi\\util', 'src\\ooxml\\testcases\\org']"
+testsChoosedNames
+Trace_org.apache.poi.xssf.usermodel.TestXSSFSheet@testSetForceFormulaRecalculation_1439126204269,Trace_org.apache.poi.ss.usermodel.BaseTestCell@testSetValues_1439125885035,Trace_org.apache.poi.xslf.usermodel.TestXMLSlideShow@testContainsMainContentType_1439124010596,Trace_org.apache.poi.xwpf.usermodel.TestXWPFDocument@testAllPictureFormats_1439126479918,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testHtml_1439121487640,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testHtml_1439121432896,Trace_org.apache.poi.hslf.model.TestSlides@testAddSlides2to3_1439118545562,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439118875008,Trace_org.apache.poi.ss.usermodel.BaseTestCell@testToString_1439125884089,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testFo_1439121295021,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439121117149,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439118840349
+FileNames
+src\ooxml\testcases\org\apache\poi\xssf\usermodel\TestXSSFCellStyle.java,src\ooxml\testcases\org\apache\poi\xssf\usermodel\TestXSSFWorkbook.java,src\java\org\apache\poi\ss\usermodel\FontFamily.java,src\java\org\apache\poi\ss\util\CellReference.java,src\ooxml\java\org\apache\poi\POIXMLDocument.java,src\ooxml\java\org\apache\poi\POIXMLDocumentPart.java,src\ooxml\java\org\apache\poi\POIXMLProperties.java,src\ooxml\java\org\apache\poi\openxml4j\opc\ZipPackagePart.java,src\ooxml\java\org\apache\poi\util\PackageHelper.java,src\ooxml\java\org\apache\poi\xssf\model\SharedStringsTable.java,src\ooxml\java\org\apache\poi\xssf\model\StylesTable.java,src\ooxml\java\org\apache\poi\xssf\usermodel\XSSFCellStyle.java,src\ooxml\java\org\apache\poi\xssf\usermodel\XSSFFactory.java,src\ooxml\java\org\apache\poi\xssf\usermodel\XSSFRelation.java,src\ooxml\java\org\apache\poi\xssf\usermodel\XSSFSheet.java,src\ooxml\java\org\apache\poi\xssf\usermodel\extensions\XSSFCellBorder.java,src\ooxml\java\org\apache\poi\xssf\usermodel\extensions\XSSFCellFill.java,src\ooxml\java\org\apache\poi\xssf\util\CTColComparator.java,src\ooxml\testcases\org\apache\poi\xssf\XSSFTestDataSamples.java,src\testcases\org\apache\poi\POIDataSamples.java

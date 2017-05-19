@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7
+Bugged
+0,1,2
+BugsIds
+-1,54849,55066,53446,55361,54982,53588
+TestsCount
+11
+pack
+"['src\\java\\org\\apache\\poi\\hssf\\eventusermodel', 'src\\java\\org\\apache\\poi\\ss\\util', 'src\\java\\org\\apache\\poi\\ss\\formula\\udf', 'src\\scratchpad\\testcases\\org\\apache\\poi\\hslf', 'src\\ooxml\\testcases\\org\\apache\\poi\\xwpf']"
+testsChoosedNames
+Trace_org.apache.poi.ss.usermodel.BaseTestSheetUpdateArrayFormulas@testModifyArrayCells_mergeCells_1439126265073,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439118788543,Trace_org.apache.poi.xssf.usermodel.TestXSSFSheet@testGetActiveCell_1439126233732,Trace_org.apache.poi.hslf.extractor.TestExtractor@testWithComments_1439118531192,Trace_org.apache.poi.ss.usermodel.BaseTestSheet@testColumnWidth_1439125092888,Trace_org.apache.poi.ss.usermodel.BaseTestRow@testGetCellPolicy_1439125086221,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439121121115,Trace_org.apache.poi.ss.usermodel.BaseTestSheet@testCloneSheetMultipleTimes_1439126249490,Trace_org.apache.poi.hslf.model.TestOleEmbedding@testOleEmbedding2003_1439118535775,Trace_org.apache.poi.xssf.TestWorkbookProtection@testShouldWriteWindowsLock_1439124802665,Trace_org.apache.poi.hslf.usermodel.TestAddingSlides@testRemoving_1439118553011
+FileNames
+src\ooxml\java\org\apache\poi\xwpf\usermodel\XWPFDocument.java,src\ooxml\java\org\apache\poi\xwpf\usermodel\XWPFPicture.java,src\ooxml\java\org\apache\poi\xwpf\usermodel\XWPFTable.java,src\java\org\apache\poi\util\IOUtils.java,src\ooxml\java\org\apache\poi\POIXMLDocument.java,src\ooxml\java\org\apache\poi\POIXMLDocumentPart.java,src\ooxml\java\org\apache\poi\openxml4j\opc\ZipPackagePart.java,src\testcases\org\apache\poi\POIDataSamples.java

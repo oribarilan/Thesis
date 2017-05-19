@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11
+Bugged
+0
+BugsIds
+-1,54849,0,53165,53515,52211,52583
+TestsCount
+8
+pack
+"['src\\java\\org\\apache\\poi\\hssf\\record\\aggregates', 'src\\ooxml\\java\\org\\apache\\poi\\openxml4j\\opc\\internal', 'src\\scratchpad\\src\\org\\apache\\poi', 'src\\ooxml\\testcases\\org\\apache\\poi\\xssf\\streaming', 'src\\ooxml\\java\\org\\apache\\poi\\xwpf\\usermodel']"
+testsChoosedNames
+Trace_org.apache.poi.hslf.record.TestHeadersFootersContainer@testReadNotesHeadersFootersContainer_1439118550673,Trace_org.apache.poi.xssf.streaming.TestSXSSFWorkbook@testGZipSheetdataWriter_1439125099433,Trace_org.apache.poi.hslf.record.TestInteractiveInfo@testRecordType_1439118550699,Trace_org.apache.poi.xssf.usermodel.TestXSSFCellStyle@testDefaultStyles_1439125891880,Trace_org.apache.poi.xssf.TestWorkbookProtection@testShouldWriteWindowsLock_1439124802665,Trace_org.apache.poi.hwpf.model.TestRevisionMarkAuthorTable@testMultipleAuthors_1439121758173,Trace_org.apache.poi.xssf.usermodel.TestXSSFBugs@test50786_1439125494823,Trace_org.apache.poi.hslf.model.TestShapes@testTextBoxWriteBytes_1439118539580
+FileNames
+src\ooxml\java\org\apache\poi\xwpf\usermodel\XWPFParagraph.java$buildRunsInOrderFromXml,src\ooxml\java\org\apache\poi\POIXMLDocument.java$getPackage,src\ooxml\java\org\apache\poi\POIXMLDocumentPart.java$incrementRelationCounter,src\ooxml\java\org\apache\poi\POIXMLDocumentPart.java$read,src\ooxml\java\org\apache\poi\POIXMLRelation.java$getContentType,src\ooxml\java\org\apache\poi\POIXMLRelation.java$getRelation,src\ooxml\java\org\apache\poi\openxml4j\opc\PackagePart.java$getContentType,src\ooxml\java\org\apache\poi\util\PackageHelper.java$open,src\ooxml\java\org\apache\poi\xwpf\model\XWPFHeaderFooterPolicy.java$assignFooter,src\ooxml\java\org\apache\poi\xwpf\usermodel\XWPFDocument.java$enforceCommentsProtection,src\testcases\org\apache\poi\POIDataSamples.java$getDocumentInstance,src\testcases\org\apache\poi\POIDataSamples.java$getFile

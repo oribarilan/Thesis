@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10
+Bugged
+0,1
+BugsIds
+-1,55560,53434,55041,52311,55649,52400
+TestsCount
+11
+pack
+"['src\\scratchpad\\testcases\\org\\apache\\poi', 'src\\ooxml\\testcases', 'src\\java\\org\\apache\\poi\\ss\\formula\\eval', 'src\\ooxml\\testcases\\org\\apache\\poi\\xssf\\extractor', 'src\\testcases\\org']"
+testsChoosedNames
+Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testText_1439121423154,Trace_org.apache.poi.ss.usermodel.BaseTestRow@testLastCellNumIsCorrectAfterAddCell_bug43901_1439125085290,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439118875008,Trace_org.apache.poi.hwpf.usermodel.TestRangeDelete@testDocStructure_1439121825538,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testHtml_1439121446553,Trace_org.apache.poi.hslf.record.TestTxInteractiveInfoAtom@testCreate_1439118551463,Trace_org.apache.poi.xslf.usermodel.TestXSLFSlideShow@testRemoveSlide_1439124668600,Trace_org.apache.poi.ss.usermodel.BaseTestWorkbook@testUnicodeInAll_1439126345599,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439119553697,Trace_org.apache.poi.xssf.model.TestCommentsTable@testExisting_1439124988412,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439119739535
+FileNames
+src\scratchpad\src\org\apache\poi\hwpf\converter\AbstractWordUtils.java,src\scratchpad\src\org\apache\poi\hwpf\model\types\GrfhicAbstractType.java,src\java\org\apache\poi\hpsf\ClassID.java,src\java\org\apache\poi\hpsf\SummaryInformation.java,src\java\org\apache\poi\ss\SpreadsheetVersion.java,src\java\org\apache\poi\util\BitFieldFactory.java,src\java\org\apache\poi\util\IOUtils.java,src\java\org\apache\poi\util\LittleEndian.java,src\java\org\apache\poi\util\POILogFactory.java,src\java\org\apache\poi\util\StringUtil.java,src\scratchpad\src\org\apache\poi\hwpf\HWPFDocument.java

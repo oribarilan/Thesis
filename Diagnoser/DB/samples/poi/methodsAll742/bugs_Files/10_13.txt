@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+Bugged
+0,1
+BugsIds
+-1,54436,54469,53446,52583,55294,55036
+TestsCount
+11
+pack
+"['src\\java\\org\\apache\\poi\\ss\\usermodel', 'src\\scratchpad\\src', 'src\\java\\org\\apache\\poi\\ss\\formula', 'src\\scratchpad\\src\\org\\apache\\poi\\hwpf\\sprm', 'src\\ooxml']"
+testsChoosedNames
+Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testFo_1439121311302,Trace_org.apache.poi.xssf.extractor.TestXSSFExportToXML@testXPathOrdering_1439124886701,Trace_org.apache.poi.hdgf.streams.TestStreamBugs@testOpen_1439118515933,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439119539978,Trace_org.apache.poi.hslf.record.TestStyleTextPropAtom@testLoadWriteD_1439118551328,Trace_org.apache.poi.hwpf.usermodel.TestPictures@testPicturesInHeader_1439121821193,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439121207075,Trace_org.apache.poi.xslf.usermodel.TestXSLFSimpleShape@testDefaultProperties_1439124134905,Trace_org.apache.poi.xwpf.extractor.TestXWPFWordExtractor@testDrawings_1439126411838,Trace_org.apache.poi.xwpf.usermodel.TestXWPFDocument@testFindPackagePictureData_1439126482282,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439121102955
+FileNames
+src\java\org\apache\poi\util\PngUtils.java$matchesPngHeader,src\ooxml\java\org\apache\poi\xssf\usermodel\helpers\ColumnHelper.java$addCleanColIntoCols,src\java\org\apache\poi\POIDocument.java$getPropertySet,src\java\org\apache\poi\hpsf\ClassID.java$read,src\java\org\apache\poi\poifs\filesystem\DirectoryNode.java$createDirectory,src\java\org\apache\poi\poifs\filesystem\DirectoryNode.java$createDocumentInputStream,src\java\org\apache\poi\poifs\storage\SmallDocumentBlock.java$getDataInputBlock,src\java\org\apache\poi\ss\util\CellReference.java$getCol,src\java\org\apache\poi\util\BitField.java$getRawValue,src\java\org\apache\poi\util\BitField.java$set,src\java\org\apache\poi\util\LittleEndian.java$getUnsignedByte,src\java\org\apache\poi\util\LittleEndian.java$putShort,src\java\org\apache\poi\util\POILogFactory.java$getLogger,src\ooxml\java\org\apache\poi\POIXMLDocumentPart.java$incrementRelationCounter,src\ooxml\java\org\apache\poi\util\PackageHelper.java$open,src\testcases\org\apache\poi\POIDataSamples.java$getFile,src\testcases\org\apache\poi\POIDataSamples.java$openResourceAsStream

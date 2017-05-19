@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7
+Bugged
+0,1
+BugsIds
+-1,48495,49658,54206,52233,55341,53950
+TestsCount
+7
+pack
+"['src\\ooxml\\testcases\\org\\apache\\poi', 'src\\java\\org\\apache\\poi\\ddf', 'src\\testcases', 'src\\scratchpad\\src\\org\\apache\\poi\\hslf\\record', 'src\\ooxml\\java\\org']"
+testsChoosedNames
+Trace_org.apache.poi.ss.usermodel.BaseTestCell@testFormulaStyle_1439125885719,Trace_org.apache.poi.xslf.usermodel.TestXSLFShape@testReadTextShapes_1439124102640,Trace_org.apache.poi.hwpf.model.TestStyleSheet@testReadWrite_1439121759353,Trace_org.apache.poi.xwpf.usermodel.TestXWPFPictureData@testNew_1439126521334,Trace_org.apache.poi.ss.usermodel.BaseTestSheet@testCloneSheetMultipleTimes_1439126249490,Trace_org.apache.poi.hdgf.TestHDGFCore@testV6NonUtf16LE_1439118507181,Trace_org.apache.poi.openxml4j.opc.TestRelationships@testCreateExcelHyperlinkRelations_1439122048720
+FileNames
+src\ooxml\java\org\apache\poi\xssf\usermodel\XSSFSheet.java,src\ooxml\java\org\apache\poi\xssf\usermodel\XSSFWorkbook.java,src\java\org\apache\poi\ss\usermodel\FontUnderline.java,src\ooxml\java\org\apache\poi\POIXMLProperties.java,src\ooxml\java\org\apache\poi\openxml4j\opc\StreamHelper.java,src\ooxml\java\org\apache\poi\openxml4j\opc\ZipPackagePart.java,src\ooxml\java\org\apache\poi\openxml4j\opc\internal\MemoryPackagePart.java,src\ooxml\java\org\apache\poi\openxml4j\util\Nullable.java

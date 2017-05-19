@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9
+Bugged
+0,1
+BugsIds
+-1,53950,53568,55768,55658,54982,55733
+TestsCount
+11
+pack
+"['src\\ooxml\\java\\org\\apache\\poi\\xssf\\streaming', 'src\\java\\org\\apache\\poi\\poifs\\filesystem', 'src\\ooxml\\java\\org\\apache\\poi', 'src\\scratchpad\\src\\org\\apache\\poi\\hwpf\\usermodel', 'src\\scratchpad\\src\\org\\apache\\poi\\hslf\\blip']"
+testsChoosedNames
+Trace_org.apache.poi.ss.usermodel.BaseTestSheet@testSetRepeatingRowsAndColumns_1439125089727,Trace_org.apache.poi.openxml4j.opc.compliance.TestOPCComplianceCoreProperties@testDoNotUseCompatibilityMarkup_1439122049361,Trace_org.apache.poi.hwpf.converter.TestWordToFoConverter@testInnerTable_1439121657642,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439121014211,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testHtml_1439121295076,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439121131108,Trace_org.apache.poi.hwpf.usermodel.TestBug50075@test_1439121765640,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testFo_1439121494678,Trace_org.apache.poi.hslf.model.TestTextRun@testAddTextRun_1439118547488,Trace_org.apache.poi.hwpf.usermodel.TestLists@testBasics_1439121812793,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testText_1439121394895
+FileNames
+src\ooxml\java\org\apache\poi\xwpf\extractor\XWPFWordExtractor.java$extractFooters,src\ooxml\testcases\org\apache\poi\xssf\extractor\TestXSSFExcelExtractor.java$testGetComplexText,src\java\org\apache\poi\ss\usermodel\DataFormatter.java$addFormat,src\java\org\apache\poi\ss\usermodel\DataFormatter.java$isWholeNumber,src\java\org\apache\poi\ss\util\CellReference.java$convertColStringToIndex,src\ooxml\java\org\apache\poi\POIXMLDocumentPart.java$incrementRelationCounter,src\ooxml\java\org\apache\poi\POIXMLRelation.java$getRelation,src\ooxml\java\org\apache\poi\openxml4j\opc\OPCPackage.java$containPart,src\testcases\org\apache\poi\POIDataSamples.java$getDocumentInstance,src\testcases\org\apache\poi\POIDataSamples.java$getFile

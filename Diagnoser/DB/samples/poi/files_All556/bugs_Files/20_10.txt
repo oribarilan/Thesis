@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8
+Bugged
+0,1,2,3
+BugsIds
+-1,53500,53389,53028,55047,55649,54070
+TestsCount
+9
+pack
+"['src\\ooxml\\java\\org\\apache\\poi\\xwpf\\extractor', 'src\\scratchpad\\testcases\\org\\apache\\poi\\hwpf\\usermodel', 'src\\java\\org\\apache\\poi\\ss\\formula\\constant', 'src\\testcases\\org', 'src\\testcases\\org\\apache\\poi']"
+testsChoosedNames
+Trace_org.apache.poi.hwpf.converter.TestWordToHtmlConverter@testBug48075_1439121659127,Trace_org.apache.poi.xwpf.TestDocumentProtection@testShouldEnforceForFillingForms_1439126357935,Trace_org.apache.poi.hsmf.extractor.TestOutlookTextExtractor@testSimple_1439118607435,Trace_org.apache.poi.xssf.usermodel.TestXSSFChartSheet@testXSSFFactory_1439125900837,Trace_org.apache.poi.xssf.TestSheetProtection@testWriteAutoFilter_1439124794896,Trace_org.apache.poi.hwpf.model.TestPAPBinTable@testReadWrite_1439121758067,Trace_org.apache.poi.ss.usermodel.BaseTestSheet@testProtectSheet_1439126252539,Trace_org.apache.poi.TestPOIXMLDocument@testRelationOrder_1439121933822,Trace_org.apache.poi.ss.usermodel.BaseTestSheetHiding@testTextSheets_1439125321767,Trace_org.apache.poi.ss.usermodel.BaseTestCell@testChangeTypeFormulaToBoolean_1439125885330
+FileNames
+src\java\org\apache\poi\ss\util\CellReference.java,src\ooxml\java\org\apache\poi\xssf\streaming\SXSSFSheet.java,src\ooxml\java\org\apache\poi\xssf\usermodel\XSSFSheet.java,src\testcases\org\apache\poi\ss\usermodel\BaseTestSheet.java,src\ooxml\java\org\apache\poi\POIXMLDocument.java,src\ooxml\java\org\apache\poi\POIXMLProperties.java,src\ooxml\java\org\apache\poi\util\PackageHelper.java,src\ooxml\testcases\org\apache\poi\xssf\XSSFITestDataProvider.java,src\ooxml\testcases\org\apache\poi\xssf\XSSFTestDataSamples.java

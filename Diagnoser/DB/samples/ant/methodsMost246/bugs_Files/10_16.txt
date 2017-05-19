@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10
+Bugged
+0,1
+BugsIds
+-1,0,0,50543,0,0,51044
+TestsCount
+7
+pack
+"['main\\org\\apache\\tools\\ant\\taskdefs\\cvslib', 'main\\org\\apache\\tools\\ant\\launch', 'main\\org\\apache\\tools\\ant\\taskdefs\\condition', 'main\\org\\apache\\tools\\ant\\filters', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional\\depend\\constantpool']"
+testsChoosedNames
+Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961485548,Trace_org.apache.tools.ant.taskdefs.condition.EqualsTest@testTrim_1438961614615,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961179958,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438960250632,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438962257070,Trace_org.apache.tools.ant.taskdefs.AntlibTest@testNsCurrent_1438960429579,Trace_org.apache.tools.ant.taskdefs.SignJarTest@testSigFile_1438961448189,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961379134,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961655227,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438960382602,Trace_org.apache.tools.ant.taskdefs.DeleteTest@test14_1438960993958
+FileNames
+src\main\org\apache\tools\ant\AntTypeDefinition.java$getTypeClass,src\main\org\apache\tools\ant\launch\Locator.java$decodeUri,src\main\org\apache\tools\ant\BuildEvent.java$setException,src\main\org\apache\tools\ant\Project.java$getProject,src\main\org\apache\tools\ant\Project.java$setBasedir,src\main\org\apache\tools\ant\ProjectComponent.java$getProject,src\main\org\apache\tools\ant\taskdefs\optional\junit\JUnitTestRunner.java$access$000,src\main\org\apache\tools\ant\types\DataType.java$dieOnCircularReference,src\main\org\apache\tools\ant\types\resources\FileResource.java$hashCode,src\main\org\apache\tools\ant\util\FileUtils.java$toURI,src\tests\junit\org\apache\tools\ant\taskdefs\condition\TypeFoundTest.java$setUp

@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6
+Bugged
+0,1,2
+BugsIds
+-1,1603,2489,2772,2697,2721,3412
+TestsCount
+9
+pack
+"['src\\test\\java\\com\\orientechnologies\\orient\\core\\index\\hashindex\\local\\cache', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\storage\\impl\\local\\paginated\\atomicoperations', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\index\\hashindex\\local', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\storage\\impl\\local\\paginated\\base', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\index\\engine']"
+testsChoosedNames
+Trace_com.orientechnologies.orient.core.metadata.schema.OClassImplTest@testRenameProperty_1438529930093,Trace_com.orientechnologies.orient.core.record.impl.ODocumentSerializationPersistentTest@testRidBagInEmbeddedDocument_1438529475976,Trace_com.orientechnologies.orient.core.index.hashindex.local.cache.LRUListTest@testAdd9128Remove4564_1438528568797,Trace_com.orientechnologies.orient.core.index.OCompositeIndexDefinitionTest@testDocumentToIndexWrongField_1438528468938,Trace_com.orientechnologies.orient.core.metadata.schema.AlterPropertyTest@testPropertyRenamingReload_1438529490843,Trace_com.orientechnologies.orient.core.index.hashindex.local.cache.ReadWriteDiskCacheTest@testCheckSumIsBroken_1438527577966,Trace_com.orientechnologies.orient.core.index.OPropertyListIndexDefinitionTest@testProcessChangeEventAddTwoValues_1438529265038,Trace_com.orientechnologies.orient.core.index.sbtree.local.SBTreeLeafBucketTest@testRemove_1438528672440,Trace_com.orientechnologies.orient.core.sql.parser.OSelectStatementTest@testUnwind_1438529804229
+FileNames
+core\src\main\java\com\orientechnologies\orient\core\command\OCommandExecutorAbstract.java$getDatabase,core\src\main\java\com\orientechnologies\orient\core\db\ODatabaseRecordThreadLocal.java$get,core\src\main\java\com\orientechnologies\orient\core\db\record\ridbag\embedded\OEmbeddedRidBag.java$deserialize,core\src\main\java\com\orientechnologies\common\directmemory\ODirectMemoryPointer.java$getByte,core\src\main\java\com\orientechnologies\common\directmemory\ODirectMemoryPointer.java$getLong,core\src\main\java\com\orientechnologies\orient\core\index\hashindex\local\cache\OCacheEntry.java$getFileId,core\src\main\java\com\orientechnologies\orient\core\index\hashindex\local\cache\OCachePointer.java$getDataPointer

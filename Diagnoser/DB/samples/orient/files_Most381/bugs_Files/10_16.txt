@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10
+Bugged
+0,1
+BugsIds
+-1,3119,3002,3174,2934,3151,2761
+TestsCount
+11
+pack
+"['src\\main\\java\\com\\orientechnologies\\orient\\core\\index\\sbtree', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\db\\document', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\metadata', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\storage\\impl\\memory', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\serialization\\serializer']"
+testsChoosedNames
+Trace_com.orientechnologies.orient.core.sql.OCommandExecutorSQLUpdateTest@testUpdateContentParse_1438528588495,Trace_com.orientechnologies.orient.core.index.OSimpleKeyIndexDefinitionTest@testCreateValueCompositeKeyNullParamList_1438527717002,Trace_com.orientechnologies.orient.core.index.OPropertyListIndexDefinitionTest@testProcessChangeEventRemoveTwoTimesAddOnce_1438529265083,Trace_com.orientechnologies.orient.core.index.sbtree.local.SBTreeCompositeKeyTest@testIterateEntriesNonInclusive_1438528524110,Trace_com.orientechnologies.orient.core.index.OCompositeIndexDefinitionTest@testCreateValueDefinitionsMoreThanParams_1438528468740,Trace_com.orientechnologies.orient.core.record.impl.ODocumentSchemalessBinarySerializationTest@testEmbeddedListOfEmbeddedMap_1438529234311,Trace_com.orientechnologies.orient.core.index.OPropertyListIndexDefinitionTest@testProcessChangeEventUpdate_1438529265095,Trace_com.orientechnologies.orient.core.db.record.TrackedSetTest@testSetSerialization_1438532845090,Trace_com.orientechnologies.orient.core.record.impl.ODocumentSchemalessSerializationTest@testSimpleLiteralList_1438529374334,Trace_com.orientechnologies.orient.core.index.OPropertyIndexDefinitionTest@testClassName_1438529174528,Trace_com.orientechnologies.orient.core.db.record.ridbag.sbtree.ORidBagAtomicUpdateTest@testAddTwoAdditionalNewDocuments_1438529949265
+FileNames
+core\src\main\java\com\orientechnologies\orient\core\index\sbtree\local\OSBTree.java,core\src\main\java\com\orientechnologies\orient\core\metadata\schema\OType.java,core\src\main\java\com\orientechnologies\orient\core\db\record\OMultiValueChangeEvent.java,core\src\main\java\com\orientechnologies\orient\core\db\record\OTrackedMap.java,core\src\main\java\com\orientechnologies\orient\core\db\record\OTrackedSet.java,core\src\main\java\com\orientechnologies\orient\core\index\OAbstractIndexDefinitionMultiValue.java,core\src\main\java\com\orientechnologies\orient\core\index\OPropertyIndexDefinition.java,core\src\main\java\com\orientechnologies\orient\core\index\OSimpleKeyIndexDefinition.java,core\src\main\java\com\orientechnologies\orient\core\index\hashindex\local\cache\OWOWCache.java,core\src\main\java\com\orientechnologies\orient\core\record\ORecordInternal.java,core\src\test\java\com\orientechnologies\orient\core\index\OPropertyListIndexDefinitionTest.java

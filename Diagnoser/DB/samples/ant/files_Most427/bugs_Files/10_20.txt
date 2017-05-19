@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4
+Bugged
+0,1
+BugsIds
+-1,50507,52554,50960,50576,48789,50578
+TestsCount
+11
+pack
+"['main\\org\\apache\\tools\\ant\\taskdefs\\optional\\junit', 'main\\org\\apache\\tools\\ant\\taskdefs', 'main\\org\\apache\\tools\\ant\\util', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional\\depend', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional\\depend\\constantpool']"
+testsChoosedNames
+Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438962235418,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438960876172,Trace_org.apache.tools.ant.taskdefs.ConditionTest@testFilesmatchSameEol_1438960933200,Trace_org.apache.tools.ant.taskdefs.ImportTest@testImportInSequential_1438961155675,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438962250986,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961555434,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438960457114,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961482307,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961245471,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961298891,Trace_org.apache.tools.ant.types.selectors.ContainsSelectorTest@testSelectionBehaviour_1438962261187
+FileNames
+src\main\org\apache\tools\ant\taskdefs\compilers\DefaultCompilerAdapter.java,src\main\org\apache\tools\ant\util\LineOrientedOutputStream.java,src\main\org\apache\tools\ant\taskdefs\Echo.java,src\main\org\apache\tools\ant\taskdefs\MatchingTask.java,src\main\org\apache\tools\ant\types\FilterSetCollection.java

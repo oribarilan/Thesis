@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8
+Bugged
+0
+BugsIds
+-1,3263,3412,2841,2417,2953,2845
+TestsCount
+11
+pack
+"['src\\main\\java\\com\\orientechnologies\\orient\\core\\storage\\impl\\memory', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\type\\tree', 'src\\test\\java\\com\\orientechnologies\\orient\\core\\storage\\impl\\local\\paginated', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\index\\hashindex\\local\\cache', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\fetch']"
+testsChoosedNames
+Trace_com.orientechnologies.orient.core.index.hashindex.local.cache.LRUListTest@testAddElevenRemoveLRU_1438528392111,Trace_com.orientechnologies.orient.core.index.OPropertyRidBagAbstractIndexDefinitionTest@testProcessChangeEventRemoveTwoTimesAddOnce_1438527577022,Trace_com.orientechnologies.orient.core.db.record.ridbag.sbtree.ORidBagAtomicUpdateTest@testRandomChangedInTxWithCME_1438529953853,Trace_com.orientechnologies.orient.core.index.hashindex.local.cache.ReadWriteDiskCacheTest@testIfAllPagesAreUsedExceptionShouldBeThrown_1438527580056,Trace_com.orientechnologies.orient.core.index.OCompositeIndexDefinitionTest@testDocumentToIndexRidBagValueSuccessfulTwo_1438528468910,Trace_com.orientechnologies.orient.core.db.record.DocumentJavaSerializationTest@testCsvBinarySerialization_1438529454685,Trace_com.orientechnologies.orient.core.index.OPropertyMapIndexDefinitionTest@testCreateWrongSingleValueByValue_1438529374600,Trace_com.orientechnologies.orient.core.db.record.ORecordLazySetTest@testIteratorConvertToRecord_1438529845308,Trace_com.orientechnologies.orient.core.record.impl.ODocumentFieldConversionTest@testCollectionIntegerCoversion_1438528835664,Trace_com.orientechnologies.orient.core.record.impl.ODocumentSchemalessBinarySerializationTest@testDocumentWithCostum_1438529234283,Trace_com.orientechnologies.common.serialization.types.DateSerializerTest@testNativeDirectMemoryCompatibility_1438528732659
+FileNames
+core\src\main\java\com\orientechnologies\orient\core\index\hashindex\local\cache\OWOWCache.java,core\src\main\java\com\orientechnologies\common\concur\lock\ODistributedCounter.java,core\src\main\java\com\orientechnologies\common\directmemory\OUnsafeMemoryJava7.java,core\src\main\java\com\orientechnologies\common\serialization\types\OIntegerSerializer.java,core\src\main\java\com\orientechnologies\common\serialization\types\OLongSerializer.java,core\src\main\java\com\orientechnologies\orient\core\index\hashindex\local\cache\ConcurrentLRUList.java,core\src\main\java\com\orientechnologies\orient\core\serialization\serializer\binary\impl\OLinkSerializer.java,core\src\test\java\com\orientechnologies\orient\core\index\hashindex\local\cache\ConcurrentLRUListTest.java,core\src\test\java\com\orientechnologies\orient\core\index\hashindex\local\cache\LRUListTest.java

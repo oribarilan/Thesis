@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10
+Bugged
+0
+BugsIds
+-1,2916,2953,3113,3204,2841,2829
+TestsCount
+11
+pack
+"['src\\main\\java\\com\\orientechnologies\\orient\\core\\intent', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\sql\\operator', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\index\\hashindex\\local', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\type\\tree', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\db']"
+testsChoosedNames
+Trace_com.orientechnologies.orient.core.db.hook.HookChangeValidationTest@testHookCreateChangeTx_1438528859332,Trace_com.orientechnologies.common.serialization.types.FloatSerializerTest@testSerialize_1438529344676,Trace_com.orientechnologies.orient.core.index.OPropertyListIndexDefinitionTest@testProcessChangeEventAddTwoTimesInvValue_1438529265027,Trace_com.orientechnologies.orient.core.index.OPropertyIndexDefinitionTest@testGetDocumentValueToIndex_1438529185038,Trace_com.orientechnologies.orient.core.db.record.TrackedListTest@testRemoveIndexThree_1438532719622,Trace_com.orientechnologies.common.serialization.types.StringSerializerTest@testSerialize_1438529857947,Trace_com.orientechnologies.orient.core.index.sbtreebonsai.local.OSBTreeBonsaiLeafBucketTest@testSearch_1438529185280,Trace_com.orientechnologies.orient.core.db.record.TrackedSetTest@testClearThree_1438532845012,Trace_com.orientechnologies.orient.core.index.sbtree.local.SBTreeCompositeKeyTest@testIterateValuesMinorNonInclusive_1438528525005,Trace_com.orientechnologies.common.util.OMultiKeyTest@testEmptyKeyEquals_1438528372460,Trace_com.orientechnologies.orient.core.record.impl.ODocumentSchemalessBinarySerializationTest@testSimpleEmbeddedDoc_1438529264648
+FileNames
+core\src\main\java\com\orientechnologies\orient\core\index\hashindex\local\cache\OWOWCache.java,core\src\main\java\com\orientechnologies\common\collection\OIterableObjectArray.java,core\src\main\java\com\orientechnologies\common\concur\lock\ODistributedCounter.java,core\src\main\java\com\orientechnologies\orient\core\db\record\OTrackedList.java,core\src\main\java\com\orientechnologies\orient\core\db\record\OTrackedSet.java,core\src\main\java\com\orientechnologies\orient\core\index\OPropertyIndexDefinition.java,core\src\main\java\com\orientechnologies\orient\core\index\OSimpleKeyIndexDefinition.java,core\src\main\java\com\orientechnologies\orient\core\metadata\schema\OSchemaShared.java,core\src\main\java\com\orientechnologies\orient\core\metadata\schema\OType.java,core\src\main\java\com\orientechnologies\orient\core\record\ORecordInternal.java,core\src\test\java\com\orientechnologies\common\serialization\types\FloatSerializerTest.java

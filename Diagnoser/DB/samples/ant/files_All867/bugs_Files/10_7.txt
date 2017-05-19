@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5
+Bugged
+0,1
+BugsIds
+-1,50513,51668,50716,48633,50716,50888
+TestsCount
+9
+pack
+"['main\\org\\apache\\tools\\ant\\taskdefs\\optional\\i18n', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional\\depend\\constantpool', 'main\\org\\apache\\tools\\ant\\launch', 'main\\org\\apache\\tools\\ant\\taskdefs\\cvslib']"
+testsChoosedNames
+Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961219564,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961572298,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961474747,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438960953720,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961824350,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438962245836,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438962308459,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961504066,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438962270392
+FileNames
+src\main\org\apache\tools\ant\Main.java,src\main\org\apache\tools\ant\taskdefs\optional\junit\JUnitTestRunner.java,src\main\org\apache\tools\ant\launch\Locator.java,src\main\org\apache\tools\ant\util\JAXPUtils.java,src\tests\junit\org\apache\tools\ant\taskdefs\SubAntTest.java,src\tests\junit\org\apache\tools\ant\taskdefs\XmlPropertyTest.java

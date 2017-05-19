@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11,12,13
+Bugged
+0
+BugsIds
+-1,41986,51086,48789,52554,50576,51462
+TestsCount
+8
+pack
+"['main\\org\\apache\\tools\\ant\\filters', 'main\\org\\apache\\tools\\ant\\taskdefs', 'main\\org\\apache\\tools\\ant\\util', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional', 'main\\org\\apache\\tools\\ant\\taskdefs\\condition']"
+testsChoosedNames
+Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961543292,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961413803,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961651177,Trace_org.apache.tools.ant.types.RedirectorElementTest@testRefid_1438962239838,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961783695,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961572298,Trace_org.apache.tools.ant.taskdefs.optional.junit.TestListenerWrapper@testAssumptionFailure_1438961783702,Trace_org.apache.tools.ant.taskdefs.DeleteTest@test16_1438961002266,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438960956671,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961607943,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438960923883
+FileNames
+src\main\org\apache\tools\ant\util\GlobPatternMapper.java,src\main\org\apache\tools\ant\AntClassLoader.java,src\main\org\apache\tools\ant\BuildException.java,src\main\org\apache\tools\ant\DirectoryScanner.java,src\main\org\apache\tools\ant\IntrospectionHelper.java,src\main\org\apache\tools\ant\Location.java,src\main\org\apache\tools\ant\PathTokenizer.java,src\main\org\apache\tools\ant\taskdefs\Available.java,src\main\org\apache\tools\ant\taskdefs\Execute.java,src\main\org\apache\tools\ant\taskdefs\Exit.java,src\main\org\apache\tools\ant\taskdefs\LogStreamHandler.java,src\main\org\apache\tools\ant\taskdefs\MacroInstance.java,src\main\org\apache\tools\ant\taskdefs\Mkdir.java,src\tests\junit\org\apache\tools\ant\taskdefs\RmicAdvancedTest.java

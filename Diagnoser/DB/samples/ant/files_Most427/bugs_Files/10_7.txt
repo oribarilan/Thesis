@@ -1,0 +1,14 @@
+Files
+0,1,2,3
+Bugged
+0,1
+BugsIds
+-1,51947,45786,48633,50543,50866,51086
+TestsCount
+3
+pack
+"['main\\org\\apache\\tools\\ant\\launch', 'main\\org\\apache\\tools\\ant\\util', 'main\\org\\apache\\tools\\ant\\taskdefs\\condition', 'main\\org\\apache\\tools\\ant', 'main\\org\\apache\\tools\\ant\\filters']"
+testsChoosedNames
+Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961298890,Trace_org.apache.tools.ant.taskdefs.SignJarTest@testURLKeystoreHTTP_1438961439973,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438960393769,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438960293824,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961453999,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961834403,Trace_org.apache.tools.ant.util.FileUtilsTest@testNormalize_1438962306148,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438962320570,Trace_org.apache.tools.ant.LocationTest@testPlainTask_1438960312518,Trace_org.apache.tools.ant.taskdefs.optional.junit.JUnitTestListenerTest@testNoFullLogOutputByDefault_1438961765992,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961289980
+FileNames
+src\main\org\apache\tools\ant\launch\Locator.java,src\main\org\apache\tools\ant\util\FileUtils.java,src\main\org\apache\tools\ant\AntClassLoader.java,src\main\org\apache\tools\ant\ProjectComponent.java

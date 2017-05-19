@@ -1,0 +1,10 @@
+[Priors]
+[0.61, 0.61]
+[Bugs]
+0
+1
+[InitialTests]
+0
+[TestDetails]
+0;[0];[0];1
+1;[1];[1];1

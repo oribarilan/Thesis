@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9
+Bugged
+0,1
+BugsIds
+-1,53205,55079,55080,55041,53182,55055
+TestsCount
+11
+pack
+"['src\\scratchpad\\src\\org', 'src\\scratchpad\\testcases\\org\\apache\\poi\\hwpf', 'src\\java\\org\\apache\\poi\\ss\\formula\\functions', 'src\\scratchpad\\testcases', 'src\\ooxml\\testcases\\org\\apache\\poi\\xssf\\model']"
+testsChoosedNames
+Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439118945093,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439118944771,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439118788015,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439118678097,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439121129850,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testFo_1439121323089,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439119523874,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439121016607,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439121024126,Trace_org.apache.poi.hwpf.converter.TestWordToFoConverter@testEndnote_1439121657123,Trace_org.apache.poi.hsmf.TestOutlook30FileRead@testReadSubject_1439118605177
+FileNames
+src\scratchpad\src\org\apache\poi\hdgf\chunks\Chunk.java$processCommands,src\scratchpad\src\org\apache\poi\hwpf\sprm\CharacterSprmUncompressor.java$uncompressCHP,src\java\org\apache\poi\poifs\filesystem\DirectoryNode.java$createDirectory,src\java\org\apache\poi\poifs\filesystem\POIFSDocument.java$convertRawBlocksToSmallBlocks,src\java\org\apache\poi\poifs\storage\SmallDocumentBlock.java$getDataInputBlock,src\java\org\apache\poi\util\BitField.java$getShortValue,src\java\org\apache\poi\util\BitField.java$set,src\java\org\apache\poi\util\LittleEndian.java$getUnsignedByte,src\java\org\apache\poi\util\StringUtil.java$getFromUnicodeLE,src\testcases\org\apache\poi\POIDataSamples.java$getFile

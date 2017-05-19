@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10
+Bugged
+0
+BugsIds
+-1,55729,53389,53965,52991,55142,54696
+TestsCount
+11
+pack
+"['src\\testcases\\org\\apache\\poi\\ss\\usermodel', 'src\\scratchpad\\src\\org\\apache\\poi\\hdgf\\streams', 'src\\ooxml\\testcases\\org\\apache\\poi\\xssf\\extractor', 'src\\scratchpad\\testcases\\org', 'src\\ooxml\\java\\org']"
+testsChoosedNames
+Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439121116608,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439121014763,Trace_org.apache.poi.util.TestIdentifierManager@testReserve_1439122121334,Trace_org.apache.poi.ss.usermodel.BaseTestWorkbook@testCloneSheet_1439126339628,Trace_org.apache.poi.hslf.record.TestInteractiveInfoAtom@testChange_1439118550717,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439119549637,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439118621826,Trace_org.apache.poi.xssf.usermodel.TestXSSFFont@testScheme_1439125974239,Trace_org.apache.poi.xssf.usermodel.TestXSSFWorkbook@testGetNumCellStyles_1439126273980,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439119721506,Trace_org.apache.poi.hslf.record.TestTxInteractiveInfoAtom@testCreate_1439118551463
+FileNames
+src\java\org\apache\poi\ss\usermodel\DataFormatter.java,src\java\org\apache\poi\POIDocument.java,src\java\org\apache\poi\hpsf\ClassID.java,src\java\org\apache\poi\hssf\model\LinkTable.java,src\java\org\apache\poi\hssf\record\ColumnInfoRecord.java,src\java\org\apache\poi\poifs\storage\DocumentBlock.java,src\java\org\apache\poi\ss\SpreadsheetVersion.java,src\java\org\apache\poi\util\BitField.java,src\java\org\apache\poi\util\IOUtils.java,src\java\org\apache\poi\util\LittleEndian.java,src\java\org\apache\poi\util\NullLogger.java

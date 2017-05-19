@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6
+Bugged
+0
+BugsIds
+-1,55361,54607,53360,55369,49940,54982
+TestsCount
+7
+pack
+"['src\\ooxml\\testcases', 'src\\ooxml', 'src\\scratchpad\\testcases\\org\\apache', 'src\\ooxml\\java\\org\\apache\\poi\\xwpf', 'src']"
+testsChoosedNames
+Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439118827299,Trace_org.apache.poi.TestPOIXMLDocument@testXLSX_1439121931495,Trace_org.apache.poi.hwpf.usermodel.TestRangeReplacement@testDocStructure_1439121826420,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439119540460,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439119540715,Trace_org.apache.poi.xwpf.usermodel.TestXWPFTable@testSetGetVBorders_1439126541637,Trace_org.apache.poi.hwpf.usermodel.TestPictures@testCroppedPictures_1439121823081
+FileNames
+src\ooxml\java\org\apache\poi\xssf\streaming\SheetDataWriter.java,src\java\org\apache\poi\ss\SpreadsheetVersion.java,src\java\org\apache\poi\ss\util\CellReference.java,src\ooxml\java\org\apache\poi\POIXMLDocument.java,src\ooxml\java\org\apache\poi\POIXMLRelation.java,src\ooxml\java\org\apache\poi\openxml4j\opc\StreamHelper.java,src\ooxml\java\org\apache\poi\xssf\usermodel\XSSFCreationHelper.java

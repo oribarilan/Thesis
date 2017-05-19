@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11
+Bugged
+0
+BugsIds
+-1,51044,50543,41986,50507,51462,50960
+TestsCount
+11
+pack
+"['main\\org\\apache\\tools\\ant\\launch', 'main\\org\\apache\\tools\\ant', 'main\\org\\apache\\tools\\ant\\taskdefs\\email', 'main\\org\\apache\\tools\\ant\\taskdefs\\cvslib', 'main\\org\\apache\\tools\\ant\\filters']"
+testsChoosedNames
+Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961726622,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961653894,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961310138,Trace_org.apache.tools.ant.taskdefs.FixCrLfTest@test8_1438961120997,Trace_org.apache.tools.ant.types.ResourceOutputTest@testpropertyoutput2_1438962245928,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961653895,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961653322,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438960883246,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961270243,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961678278,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438962305752
+FileNames
+src\main\org\apache\tools\ant\launch\Locator.java$decodeUri,src\main\org\apache\tools\ant\AntTypeDefinition.java$getName,src\main\org\apache\tools\ant\AntTypeDefinition.java$isRestrict,src\main\org\apache\tools\ant\BuildEvent.java$getMessage,src\main\org\apache\tools\ant\BuildEvent.java$setException,src\main\org\apache\tools\ant\Project.java$getTargets,src\main\org\apache\tools\ant\RuntimeConfigurable.java$addChild,src\main\org\apache\tools\ant\property\LocalProperties.java$set,src\main\org\apache\tools\ant\taskdefs\optional\junit\JUnitTestRunner.java$access$000,src\main\org\apache\tools\ant\types\DataType.java$checkAttributesAllowed,src\main\org\apache\tools\ant\util\FileUtils.java$close,src\tests\junit\org\apache\tools\ant\taskdefs\optional\EchoPropertiesTest.java$setUp

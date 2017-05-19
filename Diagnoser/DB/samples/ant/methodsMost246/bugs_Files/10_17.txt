@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11,12,13
+Bugged
+0,1
+BugsIds
+-1,45786,51044,50513,41986,50507,51668
+TestsCount
+5
+pack
+"['main\\org\\apache\\tools\\ant\\taskdefs\\optional\\depend\\constantpool', 'main\\org\\apache\\tools\\ant\\taskdefs\\cvslib', 'main\\org\\apache\\tools\\ant', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional\\depend', 'main\\org\\apache\\tools\\ant\\launch']"
+testsChoosedNames
+Trace_org.apache.tools.ant.taskdefs.TStampTest@testPrefix_1438961485391,Trace_org.apache.tools.ant.taskdefs.UntarTest@testEncoding_1438961537101,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961391725,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961658523,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961371259,Trace_org.apache.tools.ant.types.AbstractFileSetTest@testCircularReferenceCheck_1438962246194
+FileNames
+src\main\org\apache\tools\ant\taskdefs\Copy.java$execute,src\main\org\apache\tools\ant\taskdefs\optional\TraXLiaison.java$getFactory,src\main\org\apache\tools\ant\AntTypeDefinition.java$getClassName,src\main\org\apache\tools\ant\AntTypeDefinition.java$getExposedClass,src\main\org\apache\tools\ant\AntTypeDefinition.java$getName,src\main\org\apache\tools\ant\ComponentHelper.java$getComponentClass,src\main\org\apache\tools\ant\DirectoryScanner.java$accountForIncludedFile,src\main\org\apache\tools\ant\IntrospectionHelper.java$addText,src\main\org\apache\tools\ant\Task.java$getTaskType,src\main\org\apache\tools\ant\Task.java$log,src\main\org\apache\tools\ant\taskdefs\Delete.java$delete,src\main\org\apache\tools\ant\types\resources\FileResource.java$toString,src\main\org\apache\tools\ant\util\FileUtils.java$getFileTimestampGranularity,src\main\org\apache\tools\ant\util\ResourceUtils.java$copyWithFilterChainsOrTranscoding

@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21
+Bugged
+0
+BugsIds
+-1,55733,54436,54696,54524,53568,55026
+TestsCount
+10
+pack
+"['src\\scratchpad\\src\\org\\apache\\poi\\hdgf\\chunks', 'src\\ooxml\\testcases\\org\\apache\\poi\\openxml4j\\opc', 'src\\ooxml\\java\\org', 'src\\ooxml\\testcases\\org\\apache\\poi\\xssf\\usermodel', 'src\\ooxml\\java\\org\\apache\\poi\\xslf']"
+testsChoosedNames
+Trace_org.apache.poi.xssf.usermodel.TestXSSFFormulaEvaluation@testSharedFormulas_evaluateInCell_1439125979889,Trace_org.apache.poi.xssf.TestSheetProtection@testWriteFormatCells_1439124792202,Trace_org.apache.poi.xslf.usermodel.TestXSLFChart@testFillChartTemplate_1439124033324,Trace_org.apache.poi.ss.usermodel.BaseTestSheetHiding@testTextSheets_1439125321767,Trace_org.apache.poi.openxml4j.opc.compliance.TestOPCCompliancePartName@testPartNameComparaison_1439122049673,Trace_org.apache.poi.xssf.usermodel.TestXSSFWorkbook@testGetFontAt_1439126277841,Trace_org.apache.poi.ss.usermodel.BaseTestSheet@testCloneSheet_1439125088037,Trace_org.apache.poi.openxml4j.opc.TestPackageCoreProperties@testSetProperties_1439122047197,Trace_org.apache.poi.util.TestIdentifierManager@testLongLimits_1439122121326,Trace_org.apache.poi.xssf.usermodel.TestXSSFCellStyle@testGetFillForegroundColor_1439125891195
+FileNames
+src\ooxml\java\org\apache\poi\xwpf\extractor\XWPFWordExtractor.java$getText,src\java\org\apache\poi\POIDocument.java$getPropertySet,src\java\org\apache\poi\ss\SpreadsheetVersion.java$getLastColumnIndex,src\java\org\apache\poi\ss\SpreadsheetVersion.java$getLastColumnName,src\java\org\apache\poi\ss\util\CellReference.java$convertColStringToIndex,src\java\org\apache\poi\util\BitField.java$getRawValue,src\ooxml\java\org\apache\poi\POIXMLDocument.java$getCorePart,src\ooxml\java\org\apache\poi\POIXMLDocumentPart.java$read,src\ooxml\java\org\apache\poi\POIXMLRelation.java$getContentType,src\ooxml\java\org\apache\poi\POIXMLRelation.java$getRelation,src\ooxml\java\org\apache\poi\openxml4j\opc\PackagePart.java$getContentType,src\ooxml\java\org\apache\poi\openxml4j\util\ZipFileZipEntrySource.java$getEntries,src\ooxml\java\org\apache\poi\xssf\model\SharedStringsTable.java$getEntryAt,src\ooxml\java\org\apache\poi\xssf\model\SharedStringsTable.java$getKey,src\ooxml\java\org\apache\poi\xssf\model\SharedStringsTable.java$readFrom,src\ooxml\java\org\apache\poi\xssf\model\StylesTable.java$getCellStyleXfAt,src\ooxml\java\org\apache\poi\xssf\usermodel\XSSFCell.java$getBaseCellType,src\ooxml\java\org\apache\poi\xssf\usermodel\XSSFCell.java$getCTCell,src\ooxml\java\org\apache\poi\xssf\usermodel\XSSFRichTextString.java$getString,src\ooxml\java\org\apache\poi\xssf\usermodel\XSSFRichTextString.java$setStylesTableReference,src\ooxml\java\org\apache\poi\xssf\usermodel\XSSFSheet.java$initRows,src\ooxml\java\org\apache\poi\xssf\usermodel\extensions\XSSFCellBorder.java$setThemesTable

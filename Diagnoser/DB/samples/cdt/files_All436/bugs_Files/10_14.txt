@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8
+Bugged
+0,1
+BugsIds
+-1,402177,402878,357442,400020,375226,45203
+TestsCount
+11
+pack
+"['org.eclipse.cdt.core\\parser\\org\\eclipse\\cdt\\core\\parser', 'org.eclipse.cdt.managedbuilder.core\\src\\org\\eclipse\\cdt\\managedbuilder\\internal\\envvar', 'org.eclipse.cdt.core\\parser\\org\\eclipse\\cdt\\core\\parser\\util', 'org.eclipse.cdt.core.tests\\misc\\org\\eclipse\\cdt\\core\\internal\\errorparsers\\tests', 'org.eclipse.cdt.core.tests\\parser\\org\\eclipse\\cdt\\internal\\pdom\\tests']"
+testsChoosedNames
+Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2TemplateTests@testDistinctDeferredInstances_264367_1439132722465,Trace_org.eclipse.cdt.core.parser.tests.ast2.CompleteParser2Tests@testSimpleVariable_1439132785446,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2CPPSpecTest@test4_4s4_1439132858666,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2CPPSpecTest@test3_1s3_1439132830395,Trace_org.eclipse.cdt.core.parser.tests.scanner.ExpansionExplorerTests@testLineNumber_1439131956982,Trace_org.eclipse.cdt.core.parser.tests.ast2.CompleteParser2Tests@testQualifiedLookup_1439132787149,Trace_org.eclipse.cdt.core.parser.tests.scanner.LocationMapTests@testUndefine_1439131920879,Trace_org.eclipse.cdt.core.parser.tests.ast2.QuickParser2Tests@testBug43110_1439132783304,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2CPPTests@testNameHiding_1439132616250,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2CPPTests@test1043290_1439132598309,Trace_org.eclipse.cdt.core.parser.tests.ast2.QuickParser2Tests@testBug73524_1439132784052
+FileNames
+core\org.eclipse.cdt.core.tests\parser\org\eclipse\cdt\core\parser\tests\ast2\AST2TemplateTests.java,core\org.eclipse.cdt.core.tests\parser\org\eclipse\cdt\core\parser\tests\ast2\AST2TestBase.java,core\org.eclipse.cdt.core.tests\parser\org\eclipse\cdt\core\parser\tests\ast2\AST2Tests.java,core\org.eclipse.cdt.core.tests\suite\org\eclipse\cdt\core\testplugin\util\BaseTestCase.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\core\parser\util\ArrayUtil.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\core\parser\util\CharArrayObjectMap.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\core\parser\util\HashTable.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\core\parser\util\ObjectMap.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\internal\core\pdom\JobChangeListener.java

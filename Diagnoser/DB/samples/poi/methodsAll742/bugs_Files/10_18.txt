@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10
+Bugged
+0
+BugsIds
+-1,53650,54880,53784,52991,52628,52311
+TestsCount
+11
+pack
+"['src\\java\\org\\apache\\poi\\poifs\\filesystem', 'src\\scratchpad\\testcases\\org\\apache\\poi\\hslf', 'src\\scratchpad\\testcases\\org', 'src\\ooxml\\java\\org\\apache\\poi\\xssf\\streaming', 'src\\scratchpad\\src\\org\\apache\\poi\\hmef\\attribute']"
+testsChoosedNames
+Trace_org.apache.poi.hwpf.usermodel.TestTableRow@testOuterTableCellsDetection_1439121826843,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439118879719,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439119759172,Trace_org.apache.poi.hslf.record.TestCString@testChange_1439118549774,Trace_org.apache.poi.hslf.record.TestComment2000Atom@testGetDate_1439118549858,Trace_org.apache.poi.hslf.record.TestComment2000Atom@testChange_1439118549854,Trace_org.apache.poi.hwpf.model.TestRevisionMarkAuthorTable@testEmptyDocument_1439121758146,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testHtml_1439121432896,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439119720594,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testHtml_1439121339925,Trace_org.apache.poi.hslf.usermodel.TestBugs@test41384_1439118559284
+FileNames
+src\java\org\apache\poi\hpsf\VariantSupport.java$writeUnsupportedTypeMessage,src\java\org\apache\poi\POIDocument.java$getPropertySet,src\java\org\apache\poi\hpsf\Blob.java$getSize,src\java\org\apache\poi\hpsf\Property.java$readDictionary,src\java\org\apache\poi\hssf\record\BoolErrRecord.java$getBooleanValue,src\java\org\apache\poi\poifs\storage\DocumentBlock.java$getDataInputBlock,src\java\org\apache\poi\ss\SpreadsheetVersion.java$getLastRowIndex,src\java\org\apache\poi\util\BitField.java$clear,src\java\org\apache\poi\util\BitField.java$getShortValue,src\java\org\apache\poi\util\BitField.java$set,src\java\org\apache\poi\util\IOUtils.java$closeQuietly

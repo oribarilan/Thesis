@@ -1,0 +1,14 @@
+Files
+0,1,2,3
+Bugged
+0,1
+BugsIds
+-1,52382,50507,50716,50716,51668,50716
+TestsCount
+11
+pack
+"['main\\org\\apache\\tools\\ant\\taskdefs\\optional\\i18n', 'main\\org\\apache\\tools\\ant\\util', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional\\depend\\constantpool', 'main\\org\\apache\\tools\\ant\\taskdefs\\email', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional\\junit']"
+testsChoosedNames
+Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961772901,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438960926048,Trace_org.apache.tools.ant.types.FileListTest@testEmptyElementIfIsReference_1438961829166,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438960382846,Trace_org.apache.tools.ant.types.FilterSetTest@testNestedFilterSets_1438961837400,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961650615,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961152272,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438962308138,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961824060,Trace_org.apache.tools.ant.taskdefs.condition.IsReachableTest@testIpv4localhost_1438961624058,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961603874
+FileNames
+src\main\org\apache\tools\ant\IntrospectionHelper.java,src\main\org\apache\tools\ant\taskdefs\optional\junit\JUnitTestRunner.java,src\main\org\apache\tools\ant\taskdefs\optional\junit\JUnitVersionHelper.java,src\main\org\apache\tools\ant\util\VectorSet.java

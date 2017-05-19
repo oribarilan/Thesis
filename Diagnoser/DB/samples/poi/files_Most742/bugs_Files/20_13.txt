@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8
+Bugged
+0
+BugsIds
+-1,53282,54524,53446,53182,54436,53043
+TestsCount
+19
+pack
+"['src\\scratchpad\\testcases\\org\\apache', 'src\\scratchpad\\src\\org\\apache\\poi', 'src\\java\\org\\apache\\poi\\ss\\util', 'src\\ooxml\\testcases\\org', 'src\\scratchpad\\src\\org\\apache\\poi\\hmef']"
+testsChoosedNames
+Trace_org.apache.poi.xwpf.usermodel.TestXWPFPictureData@testNew_1439126521334,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439119727299,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439118815685,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testFo_1439121617804,Trace_org.apache.poi.ss.usermodel.BaseTestSheet@testColumnBreaks_1439125094949,Trace_org.apache.poi.ss.usermodel.BaseTestCell@testDefaultStyleProperties_1439125887920,Trace_org.apache.poi.hdgf.pointers.TestPointerFactory@testCreateV5_1439118515847,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testHtml_1439121437980,Trace_org.apache.poi.xssf.usermodel.TestXSSFBugs@test47815_1439125451675,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439121134009,Trace_org.apache.poi.xwpf.usermodel.TestXWPFHeader@testSimpleHeader_1439126502222,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439121025704,Trace_org.apache.poi.xssf.usermodel.TestXSSFDialogSheet@testGetSetHorizontallyCentered_1439125959532,Trace_org.apache.poi.hwpf.usermodel.TestHWPFOldDocument@testWord6Sections2_1439121798933,Trace_org.apache.poi.hsmf.datatypes.TestMAPIProperty@testGet_1439118606316,Trace_org.apache.poi.xssf.usermodel.TestXSSFPictureData@testRead_1439126066146,Trace_org.apache.poi.hslf.record.TestTextCharsAtom@testTextB_1439118551408,Trace_org.apache.poi.hwpf.converter.TestWordToHtmlConverter@testBug46817_1439121661986,Trace_org.apache.poi.openxml4j.opc.compliance.TestOPCCompliancePartName@testEmptyPartNameFailure_1439122049678
+FileNames
+src\scratchpad\src\org\apache\poi\hwpf\sprm\CharacterSprmUncompressor.java,src\java\org\apache\poi\POIDocument.java,src\java\org\apache\poi\ddf\AbstractEscherOptRecord.java,src\java\org\apache\poi\ddf\EscherClientAnchorRecord.java,src\java\org\apache\poi\hpsf\SummaryInformation.java,src\java\org\apache\poi\util\BitFieldFactory.java,src\java\org\apache\poi\util\POILogFactory.java,src\scratchpad\src\org\apache\poi\hwpf\HWPFDocument.java,src\scratchpad\src\org\apache\poi\hwpf\HWPFDocumentCore.java

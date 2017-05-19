@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10
+Bugged
+0
+BugsIds
+-1,52991,53176,54099,55066,54210,55369
+TestsCount
+15
+pack
+"['src\\ooxml\\java\\org\\apache\\poi\\xssf\\streaming', 'src\\ooxml\\java\\org\\apache\\poi\\xwpf', 'src\\ooxml\\testcases\\org\\apache\\poi\\xwpf\\usermodel', 'src\\scratchpad\\src\\org\\apache\\poi\\hslf\\record', 'src\\ooxml\\java\\org\\apache\\poi\\xslf']"
+testsChoosedNames
+Trace_org.apache.poi.ss.usermodel.BaseTestRow@testRemoveCell_1439125085364,Trace_org.apache.poi.hslf.record.TestExHyperlink@testRecordType_1439118550236,Trace_org.apache.poi.hslf.model.TestBackground@testReadBackground_1439118533957,Trace_org.apache.poi.hslf.record.TestComment2000@testText_1439118549809,Trace_org.apache.poi.xwpf.TestDocumentProtection@testShouldReadEnforcementProperties_1439126354845,Trace_org.apache.poi.hslf.extractor.TestExtractor@testMissingCoreRecords_1439118530272,Trace_org.apache.poi.TestPOIXMLProperties@testCustomProperties_1439121938604,Trace_org.apache.poi.hslf.record.TestDocumentEncryptionAtom@testRecordType_1439118550207,Trace_org.apache.poi.hslf.extractor.TestExtractor@testWithComments_1439118531192,Trace_org.apache.poi.ss.usermodel.BaseTestWorkbook@testGetSetActiveSheet_1439125218920,Trace_org.apache.poi.ss.usermodel.BaseTestWorkbook@testPrintArea_1439125222427,Trace_org.apache.poi.hslf.model.TestTextRun@testChangeTextInRichTextRun_1439118547352,Trace_org.apache.poi.xslf.usermodel.TestXSLFGroupShape@testRemoveShapes_1439124051415,Trace_org.apache.poi.hslf.record.TestComment2000@testChange_1439118549828,Trace_org.apache.poi.xslf.extractor.TestXSLFPowerPointExtractor@testGetComments_1439122162971
+FileNames
+src\ooxml\java\org\apache\poi\xssf\streaming\SheetDataWriter.java,src\java\org\apache\poi\ss\SpreadsheetVersion.java,src\java\org\apache\poi\ss\usermodel\FontFamily.java,src\java\org\apache\poi\ss\util\CellReference.java,src\ooxml\java\org\apache\poi\POIXMLDocument.java,src\ooxml\java\org\apache\poi\POIXMLProperties.java,src\ooxml\java\org\apache\poi\openxml4j\opc\StreamHelper.java,src\ooxml\java\org\apache\poi\util\PackageHelper.java,src\ooxml\java\org\apache\poi\xssf\usermodel\XSSFRow.java,src\ooxml\testcases\org\apache\poi\xssf\streaming\TestSXSSFRow.java,src\ooxml\testcases\org\apache\poi\xssf\streaming\TestSXSSFSheet.java

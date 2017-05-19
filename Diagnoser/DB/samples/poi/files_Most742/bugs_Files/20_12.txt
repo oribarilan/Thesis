@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6
+Bugged
+0,1
+BugsIds
+-1,54731,55768,55294,53271,53965,53965
+TestsCount
+15
+pack
+"['src\\ooxml\\java\\org\\apache', 'src\\ooxml\\testcases\\org\\apache\\poi\\xssf\\usermodel\\charts', 'src\\java\\org\\apache\\poi\\poifs', 'src\\java\\org\\apache\\poi\\util', 'src\\ooxml\\java\\org\\apache\\poi\\xssf']"
+testsChoosedNames
+Trace_org.apache.poi.xwpf.usermodel.TestXWPFParagraph@testSetGetPageBreak_1439126512232,Trace_org.apache.poi.xslf.usermodel.TestXSLFTable@testRead_1439124682619,Trace_org.apache.poi.ss.usermodel.BaseTestCell@testSetTypeStringOnFormulaCell_1439125885157,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439119720092,Trace_org.apache.poi.xslf.usermodel.TestXSLFSlideShow@testSlideMasters_1439124665803,Trace_org.apache.poi.xwpf.TestDocumentProtection@testShouldEnforceForFillingForms_1439126357935,Trace_org.apache.poi.TestPOIDocumentScratchpad@testReadProperties2_1439118500304,Trace_org.apache.poi.xwpf.usermodel.TestXWPFParagraph@testBookmarks_1439126514469,Trace_org.apache.poi.openxml4j.opc.compliance.TestOPCComplianceCoreProperties@testLimitedXSITypeAttribute_PresentWithUnauthorizedValue_1439122049546,Trace_org.apache.poi.hslf.model.TestFreeform@testRectangle_1439118534133,Trace_org.apache.poi.xssf.TestSheetProtection@testWriteInsertRows_1439124796002,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testFo_1439121507216,Trace_org.apache.poi.hwpf.usermodel.TestProblems@testWriteProperties_1439121823309,Trace_org.apache.poi.hpbf.model.TestQuillContents@testHyperlinkDifferentVersions_1439118520360,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439119067888,Trace_org.apache.poi.hslf.model.TestSlides@testAddSlides2to3_1439118545562,Trace_org.apache.poi.xwpf.usermodel.TestXWPFDocument@testGetAllPictures_1439126483220,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439119720363,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439119604414
+FileNames
+src\java\org\apache\poi\ss\util\CellReference.java,src\ooxml\java\org\apache\poi\openxml4j\opc\OPCPackage.java,src\java\org\apache\poi\util\NullLogger.java,src\ooxml\java\org\apache\poi\POIXMLProperties.java,src\ooxml\java\org\apache\poi\openxml4j\opc\ZipPackagePart.java,src\ooxml\java\org\apache\poi\xwpf\usermodel\XWPFDocument.java,src\testcases\org\apache\poi\POIDataSamples.java

@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6
+Bugged
+0,1
+BugsIds
+-1,401093,402085,401479,382423,402854,45203
+TestsCount
+11
+pack
+"['org.eclipse.cdt.core\\parser\\org\\eclipse\\cdt\\internal\\core\\pdom\\db', 'org.eclipse.cdt.core\\model\\org\\eclipse\\cdt\\core\\settings\\model\\util', 'org.eclipse.cdt.managedbuilder.core\\src\\org\\eclipse\\cdt\\managedbuilder\\language\\settings\\providers', 'org.eclipse.cdt.core.tests\\suite\\org\\eclipse\\cdt\\core\\testplugin', 'org.eclipse.cdt.core.tests\\parser\\org\\eclipse\\cdt\\core\\parser\\tests\\ast2']"
+testsChoosedNames
+Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2Tests@testBug107150b_1439132160719,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2Tests@testEnumerationForwards_1439132160390,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2Tests@test1043290_1439132011462,Trace_org.eclipse.cdt.internal.index.tests.IndexCompositeTests@testTripleLinear_1439137625080,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2CPPTests@testScopedEnums_305975f_1439132635360,Trace_org.eclipse.cdt.core.parser.tests.ast2.QuickParser2Tests@testBug36594_1439132782002,Trace_org.eclipse.cdt.core.model.tests.CModelBuilderBugsTest@testModelBuilderBug262785_1439133452504,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2TemplateTests@testBug90678_1439132762364,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2TemplateTests@testSyntaxFailureInstantiatingFunctionTemplate_365981a_1439132758563,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2CPPSpecTest@test11_5s1_1439132843326,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2CPPSpecTest@test5_3_4s6_1439132832639
+FileNames
+core\org.eclipse.cdt.core.tests\parser\org\eclipse\cdt\core\parser\tests\ast2\AST2TestBase.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\internal\core\dom\parser\cpp\CPPPointerType.java,core\org.eclipse.cdt.core.tests\suite\org\eclipse\cdt\core\testplugin\CTestPlugin.java,core\org.eclipse.cdt.core.tests\suite\org\eclipse\cdt\core\testplugin\util\BaseTestCase.java,core\org.eclipse.cdt.core.tests\suite\org\eclipse\cdt\core\testplugin\util\TestSourceReader.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\internal\core\dom\parser\ASTEnumerator.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\internal\core\pdom\JobChangeListener.java

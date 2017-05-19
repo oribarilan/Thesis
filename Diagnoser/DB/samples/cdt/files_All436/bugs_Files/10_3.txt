@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9
+Bugged
+0,1
+BugsIds
+-1,409094,408314,401479,401140,401093,409056
+TestsCount
+11
+pack
+"['org.eclipse.cdt.core.tests\\parser\\org\\eclipse\\cdt\\core\\parser\\tests', 'org.eclipse.cdt.core\\parser\\org\\eclipse\\cdt\\internal\\core\\dom\\parser\\cpp', 'org.eclipse.cdt.managedbuilder.core\\src\\org\\eclipse\\cdt\\managedbuilder\\language\\settings\\providers', 'org.eclipse.cdt.core.tests\\parser\\org\\eclipse\\cdt\\internal\\pdom\\tests', 'org.eclipse.cdt.core\\parser\\org\\eclipse\\cdt\\internal\\core\\pdom\\dom\\cpp']"
+testsChoosedNames
+Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2Tests@testScalabilityOfLargeTrivialInitializer_253690_1439132022056,Trace_org.eclipse.cdt.core.parser.tests.ast2.GCCTests@testGCC20000205_1439132594450,Trace_org.eclipse.cdt.core.model.tests.DeclaratorsTests@testDeclarators_0004_1439133292945,Trace_org.eclipse.cdt.core.parser.tests.ast2.CompleteParser2Tests@testBug45697_1439132789597,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2Tests@testSimpleFunctionCall_1439132156159,Trace_org.eclipse.cdt.core.language.settings.providers.LanguageSettingsPersistenceProjectTests@testWorkspacePersistence_ModifiedExtensionProvider_1439133459418,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2TemplateTests@testBug98784_1439132762252,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2CPPTests@testPMKoenig_2_1439132618181,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2CPPSpecTest@test3_3_1s4_1439132858400,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2TemplateTests@testTemplatedAliasDeclarationTemplateArgument_1439132743913,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2CSpecTest@test6_10_3_5s9_1439132864517
+FileNames
+core\org.eclipse.cdt.core.tests\parser\org\eclipse\cdt\core\parser\tests\ast2\AST2Tests.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\internal\core\dom\parser\c\CVisitor.java,core\org.eclipse.cdt.core.tests\parser\org\eclipse\cdt\core\parser\tests\ASTComparer.java,core\org.eclipse.cdt.core.tests\suite\org\eclipse\cdt\core\testplugin\CTestPlugin.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\core\dom\parser\c\GCCScannerExtensionConfiguration.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\core\dom\parser\cpp\GPPScannerExtensionConfiguration.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\core\parser\util\CharArrayObjectMap.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\internal\core\parser\scanner\LocationCtxContainer.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\internal\core\pdom\JobChangeListener.java,core\org.eclipse.cdt.core\utils\org\eclipse\cdt\utils\envvar\PrefsStorableEnvironment.java

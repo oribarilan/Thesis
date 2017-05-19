@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7
+Bugged
+0,1
+BugsIds
+-1,3140,3151,3162,2485,3157,2924
+TestsCount
+11
+pack
+"['src\\main\\java\\com\\orientechnologies\\common\\concur\\resource', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\record', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\iterator', 'src\\test\\java\\com\\orientechnologies\\common\\console', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\serialization\\serializer\\record']"
+testsChoosedNames
+Trace_com.orientechnologies.orient.core.metadata.schema.OClassImplTest@testChangePropertyName_1438529872173,Trace_com.orientechnologies.orient.core.index.OPropertyIndexDefinitionTest@testClassName_1438529174528,Trace_com.orientechnologies.orient.core.record.impl.DirtyFinderTest@testNestedLazyListDocument_1438528732699,Trace_com.orientechnologies.common.console.ODFACommandStreamTest@testNextCommandQuotes_1438528335757,Trace_com.orientechnologies.orient.core.metadata.schema.OClassImplTest@testFindById_1438529921762,Trace_com.orientechnologies.orient.core.metadata.schema.OClassImplTest@testCreatePropertyCastable_1438529886504,Trace_com.orientechnologies.orient.core.index.OCompositeIndexSQLInsertTest@testIndexOfStrings_1438528654615,Trace_com.orientechnologies.orient.core.db.record.DocumentTest@testFromMapNotSaved_1438529515742,Trace_com.orientechnologies.orient.core.index.OCompositeIndexDefinitionTest@testDocumentToIndexRidBagValueSuccessfulTwo_1438528468910,Trace_com.orientechnologies.orient.core.record.impl.ODocumentSchemalessBinarySerializationTest@testSerializableValue_1438529264418,Trace_com.orientechnologies.orient.core.sql.OChainedIndexProxyFindBestIndexTest@testDoNotUseCompositeHashIndex_1438527699839
+FileNames
+core\src\main\java\com\orientechnologies\common\parser\OBaseParser.java,core\src\main\java\com\orientechnologies\orient\core\metadata\function\OFunctionLibraryImpl.java,core\src\main\java\com\orientechnologies\orient\core\index\hashindex\local\cache\OWOWCache.java,core\src\main\java\com\orientechnologies\orient\core\record\ORecordAbstract.java,core\src\main\java\com\orientechnologies\orient\core\record\impl\ORecordBytes.java,core\src\main\java\com\orientechnologies\orient\core\serialization\serializer\record\binary\BytesContainer.java,core\src\main\java\com\orientechnologies\orient\core\serialization\serializer\record\binary\OVarIntSerializer.java,core\src\main\java\com\orientechnologies\orient\core\sql\operator\OQueryOperatorEquality.java

@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7
+Bugged
+0,1
+BugsIds
+-1,2660,3313,2853,3174,2711,3109
+TestsCount
+8
+pack
+"['src\\main\\java\\com\\orientechnologies\\orient\\core\\index', 'src\\main\\java\\com\\orientechnologies\\common\\directmemory', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\fetch\\json', 'src\\main\\java\\com\\orientechnologies\\common\\serialization', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\record\\impl']"
+testsChoosedNames
+Trace_com.orientechnologies.orient.core.record.impl.ODocumentSchemalessBinarySerializationTest@testMapOfWrongData_1438529264409,Trace_com.orientechnologies.orient.core.index.OCompositeKeyTest@testCompareNullAtTheEnd_1438528732772,Trace_com.orientechnologies.orient.core.metadata.schema.TestMultiSuperClasses@testParametersImpactGoodScenario_1438530175955,Trace_com.orientechnologies.common.serialization.types.DecimalSerializerTest@testNativeDirectMemoryCompatibility_1438528836472,Trace_com.orientechnologies.orient.core.index.OPropertyListIndexDefinitionTest@testProcessChangeEventAddTwiceRemoveOnce_1438529265004,Trace_com.orientechnologies.orient.core.db.record.TrackedMapTest@testReturnOriginalStateTwo_1438532800487,Trace_com.orientechnologies.orient.core.index.hashindex.local.cache.LRUListTest@testAddThreePutMiddleToTop_1438528569855,Trace_com.orientechnologies.orient.core.sql.parser.OSelectStatementTest@testIn_1438529803421,Trace_com.orientechnologies.orient.core.sql.OCommandExecutorSQLSelectTest@testOrderByRid_1438528444937,Trace_com.orientechnologies.orient.core.index.OCompositeKeyTest@testCompareToPartiallySecondCase_1438528732808
+FileNames
+core\src\main\java\com\orientechnologies\orient\core\record\impl\ODocument.java,core\src\main\java\com\orientechnologies\orient\core\record\impl\ODocumentHelper.java,core\src\main\java\com\orientechnologies\orient\core\db\record\OMultiValueChangeEvent.java,core\src\main\java\com\orientechnologies\orient\core\db\record\ORecordLazySet.java,core\src\main\java\com\orientechnologies\orient\core\index\OAbstractIndexDefinitionMultiValue.java,core\src\main\java\com\orientechnologies\orient\core\metadata\schema\OType.java,core\src\main\java\com\orientechnologies\orient\core\record\ORecordAbstract.java,core\src\main\java\com\orientechnologies\orient\core\version\OVersionFactory.java

@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+Bugged
+0,1,2
+BugsIds
+-1,51086,50716,50716,50716,50716,50507
+TestsCount
+10
+pack
+"['main\\org\\apache\\tools\\ant\\util', 'main\\org\\apache\\tools\\ant\\taskdefs\\email', 'main\\org\\apache\\tools\\ant\\taskdefs\\condition', 'main\\org\\apache\\tools\\ant\\types', 'main\\org\\apache\\tools\\ant\\taskdefs\\cvslib']"
+testsChoosedNames
+Trace_org.apache.tools.ant.taskdefs.InputTest@test2_1438961159588,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961655227,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438960226657,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438962246191,Trace_org.apache.tools.ant.taskdefs.optional.SchemaValidateTest@testNSMapping_1438961685694,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961577584,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438960266378,Trace_org.apache.tools.ant.taskdefs.ManifestClassPathTest@testParentLevel2TooDeep_1438961281689,Trace_org.apache.tools.ant.taskdefs.ZipTest@test6_1438961589480,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438962287311
+FileNames
+src\main\org\apache\tools\ant\IntrospectionHelper.java$findMatchingMethod,src\main\org\apache\tools\ant\Target.java$execute,src\main\org\apache\tools\ant\util\FileUtils.java$normalize,src\main\org\apache\tools\ant\AntClassLoader.java$access$000,src\main\org\apache\tools\ant\AntTypeDefinition.java$getName,src\main\org\apache\tools\ant\BuildEvent.java$setException,src\main\org\apache\tools\ant\ComponentHelper.java$getClassLoader,src\main\org\apache\tools\ant\Project.java$access$000,src\main\org\apache\tools\ant\Project.java$getInputHandler,src\main\org\apache\tools\ant\Project.java$getProject,src\main\org\apache\tools\ant\Project.java$setBaseDir,src\main\org\apache\tools\ant\Project.java$setDefault,src\main\org\apache\tools\ant\Project.java$setName,src\main\org\apache\tools\ant\ProjectComponent.java$getProject,src\main\org\apache\tools\ant\ProjectComponent.java$setProject,src\main\org\apache\tools\ant\taskdefs\MatchingTask.java$setProject,src\main\org\apache\tools\ant\types\DataType.java$checkAttributesAllowed,src\main\org\apache\tools\ant\types\DataType.java$dieOnCircularReference,src\main\org\apache\tools\ant\util\FileUtils.java$toURI,src\main\org\apache\tools\ant\util\VectorSet.java$doAdd

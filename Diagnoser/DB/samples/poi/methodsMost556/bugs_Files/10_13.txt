@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8
+Bugged
+0,1
+BugsIds
+-1,53475,54524,47563,53043,55294,55650
+TestsCount
+8
+pack
+"['src\\scratchpad\\src\\org', 'src\\ooxml\\java\\org\\apache\\poi\\xslf\\usermodel', 'src\\ooxml\\java\\org', 'src\\ooxml\\testcases\\org\\apache', 'src\\scratchpad\\testcases']"
+testsChoosedNames
+Trace_org.apache.poi.hslf.record.TestInteractiveInfoAtom@testChange_1439118550717,Trace_org.apache.poi.xssf.usermodel.TestXSSFColor@testRGBColour_1439125902962,Trace_org.apache.poi.xwpf.usermodel.TestXWPFDocument@testRegisterPackagePictureData_1439126464252,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testFo_1439121507216,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439119554979,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439118840349,Trace_org.apache.poi.hwpf.converter.TestWordToHtmlConverter@testPicturesEscher_1439121673001,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439120894196
+FileNames
+src\ooxml\java\org\apache\poi\xssf\model\StylesTable.java$getCellStyleXfAt,src\ooxml\java\org\apache\poi\xssf\usermodel\helpers\ColumnHelper.java$addCleanColIntoCols,src\java\org\apache\poi\ss\SpreadsheetVersion.java$getLastColumnIndex,src\java\org\apache\poi\ss\SpreadsheetVersion.java$getLastRowIndex,src\ooxml\java\org\apache\poi\POIXMLDocumentPart.java$incrementRelationCounter,src\ooxml\java\org\apache\poi\POIXMLDocumentPart.java$read,src\ooxml\java\org\apache\poi\POIXMLRelation.java$getContentType,src\ooxml\java\org\apache\poi\openxml4j\opc\PackagePartName.java$throwExceptionIfAbsoluteUri,src\testcases\org\apache\poi\POIDataSamples.java$getFile

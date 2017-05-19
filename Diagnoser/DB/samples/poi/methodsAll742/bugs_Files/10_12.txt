@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7
+Bugged
+0
+BugsIds
+-1,55745,53205,55768,53950,53043,52233
+TestsCount
+11
+pack
+"['src\\ooxml\\java\\org\\apache\\poi\\xssf', 'src\\scratchpad\\src\\org\\apache\\poi\\hdgf\\chunks', 'src\\scratchpad\\src\\org\\apache\\poi\\hsmf', 'src\\ooxml\\java\\org\\apache\\poi\\xslf\\usermodel', 'src\\java\\org\\apache\\poi\\ss\\formula\\constant']"
+testsChoosedNames
+Trace_org.apache.poi.xssf.usermodel.TestXSSFDialogSheet@testGetSetHorizontallyCentered_1439125959532,Trace_org.apache.poi.xssf.usermodel.TestXSSFWorkbook@testGetNumCellStyles_1439126273980,Trace_org.apache.poi.xssf.usermodel.TestXSSFCellStyle@testGetSetBorderLeft_1439125889687,Trace_org.apache.poi.xssf.usermodel.TestXSSFFont@testDefaultFont_1439125970161,Trace_org.apache.poi.ss.usermodel.BaseTestSheet@testDefaultRowHeight_1439125093769,Trace_org.apache.poi.ss.usermodel.BaseTestSheet@testPrintSetupLandscapeNew_1439126248445,Trace_org.apache.poi.xslf.usermodel.TestXSLFTextParagraph@testWrappingWidth_1439124728442,Trace_org.apache.poi.xslf.usermodel.TestXSLFSheet@testCreateShapes_1439124109381,Trace_org.apache.poi.xssf.usermodel.TestXSSFColor@testARGBColour_1439125902086,Trace_org.apache.poi.hmef.attribute.TestMAPIAttributes@testCounts_1439118518414,Trace_org.apache.poi.xssf.TestSheetProtection@testWriteSelectLockedCells_1439124798117
+FileNames
+src\ooxml\java\org\apache\poi\xssf\usermodel\XSSFSheet.java$initRows,src\java\org\apache\poi\ss\SpreadsheetVersion.java$getLastRowIndex,src\java\org\apache\poi\ss\usermodel\FontFamily.java$getValue,src\ooxml\java\org\apache\poi\POIXMLDocument.java$getProperties,src\ooxml\java\org\apache\poi\POIXMLProperties.java$getExtendedProperties,src\ooxml\java\org\apache\poi\POIXMLRelation.java$getFileName,src\ooxml\java\org\apache\poi\xssf\streaming\SXSSFRow.java$getHeight,src\ooxml\java\org\apache\poi\xssf\usermodel\XSSFSheet.java$getHorizontallyCenter

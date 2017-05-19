@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11
+Bugged
+0,1
+BugsIds
+-1,55347,54686,53165,54682,53644,53914
+TestsCount
+11
+pack
+"['src\\java\\org\\apache\\poi\\ss\\usermodel', 'src\\ooxml\\testcases\\org\\apache\\poi\\openxml4j\\opc', 'src\\java\\org\\apache\\poi\\hpsf', 'src\\ooxml\\java\\org\\apache\\poi\\xssf\\extractor', 'src\\scratchpad\\src\\org\\apache\\poi\\hwpf']"
+testsChoosedNames
+Trace_org.apache.poi.ss.usermodel.BaseTestSheet@testRowBreaks_1439125095659,Trace_org.apache.poi.hslf.usermodel.TestTable@testTable_1439118577865,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439119065302,Trace_org.apache.poi.hslf.usermodel.TestReOrderingSlides@testReOrder3swap_1439118564291,Trace_org.apache.poi.ss.usermodel.BaseTestCell@testDefaultStyleProperties_1439125040547,Trace_org.apache.poi.openxml4j.opc.TestPackageCoreProperties@testCoreProperties_bug51374_1439122047457,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testText_1439121336141,Trace_org.apache.poi.hwpf.extractor.TestWordExtractorBugs@testProblemMetadata_1439121712976,Trace_org.apache.poi.hwpf.usermodel.TestBugs@testBug51944_1439121767174,Trace_org.apache.poi.openxml4j.opc.compliance.TestOPCCompliancePackageModel@testAddPackageAlreadyAddFailure2_1439122049618,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439119603645
+FileNames
+src\java\org\apache\poi\ss\usermodel\DataFormatter.java,src\java\org\apache\poi\ss\usermodel\DateUtil.java,src\java\org\apache\poi\POIDocument.java,src\java\org\apache\poi\hpsf\ClipboardData.java,src\java\org\apache\poi\hpsf\SummaryInformation.java,src\java\org\apache\poi\hpsf\Variant.java,src\java\org\apache\poi\poifs\storage\DocumentBlock.java,src\java\org\apache\poi\ss\SpreadsheetVersion.java,src\java\org\apache\poi\ss\util\CellRangeAddress.java,src\java\org\apache\poi\ss\util\CellReference.java,src\java\org\apache\poi\util\StringUtil.java,src\scratchpad\src\org\apache\poi\hwpf\converter\AbstractWordUtils.java

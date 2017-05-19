@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11,12,13
+Bugged
+0
+BugsIds
+-1,54849,53176,54676,55733,53380,54696
+TestsCount
+21
+pack
+"['src\\ooxml\\testcases\\org\\apache\\poi\\xssf\\usermodel\\charts', 'src\\ooxml\\java\\org\\apache\\poi\\xslf\\usermodel', 'src\\ooxml\\testcases\\org\\apache\\poi\\xwpf\\extractor', 'src\\java\\org\\apache\\poi\\ss\\formula\\constant', 'src\\scratchpad\\testcases\\org\\apache\\poi\\hwpf\\usermodel']"
+testsChoosedNames
+Trace_org.apache.poi.hwpf.usermodel.TestRangeProperties@testUnicodeTextParagraphs_1439121825998,Trace_org.apache.poi.xslf.usermodel.TestXSLFShape@testReadTextShapes_1439124102640,Trace_org.apache.poi.hwpf.usermodel.TestPictures@testPicturesInHeader_1439121821193,Trace_org.apache.poi.hwpf.usermodel.TestRangeReplacement@testRangeReplacementOne_1439121826547,Trace_org.apache.poi.hwpf.usermodel.TestBugs@test51604p3_1439121766138,Trace_org.apache.poi.xwpf.extractor.TestXWPFWordExtractor@testDocTabs_1439126394613,Trace_org.apache.poi.xslf.TestXSLFBugs@test51187_1439122125983,Trace_org.apache.poi.hwpf.usermodel.TestProblems@testTableIterator_1439121823485,Trace_org.apache.poi.hwpf.usermodel.TestBugs@test33519_1439121767813,Trace_org.apache.poi.hwpf.usermodel.TestPictures@testTwoImages_1439121813076,Trace_org.apache.poi.hwpf.usermodel.TestHeaderStories@testNone_1439121799794,Trace_org.apache.poi.hwpf.usermodel.TestBugs@test44431_1439121771951,Trace_org.apache.poi.hwpf.usermodel.TestProblems@testListEntryNoListTable_1439121823971,Trace_org.apache.poi.hwpf.usermodel.TestBugs@test50936_2_1439121789306,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439118677052,Trace_org.apache.poi.hwpf.usermodel.TestBug46610@testUtf2_1439121760383,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439120330436,Trace_org.apache.poi.xslf.usermodel.TestXSLFSlide@testMergeSlides_1439124139787,Trace_org.apache.poi.hwpf.usermodel.TestRangeProperties@testAsciiTextParagraphs_1439121826117,Trace_org.apache.poi.xwpf.extractor.TestXWPFWordExtractor@testHeadersFooters_1439126383643,Trace_org.apache.poi.hwpf.usermodel.TestHeaderStories@testUnicode_1439121801388
+FileNames
+src\scratchpad\src\org\apache\poi\hwpf\sprm\CharacterSprmUncompressor.java,src\java\org\apache\poi\ddf\EscherBSERecord.java,src\java\org\apache\poi\ddf\EscherBitmapBlip.java,src\java\org\apache\poi\ddf\EscherClientDataRecord.java,src\java\org\apache\poi\ddf\EscherMetafileBlip.java,src\java\org\apache\poi\hpsf\ClassID.java,src\java\org\apache\poi\poifs\storage\DocumentBlock.java,src\java\org\apache\poi\util\BitField.java,src\java\org\apache\poi\util\IOUtils.java,src\java\org\apache\poi\util\POILogFactory.java,src\scratchpad\src\org\apache\poi\hwpf\HWPFDocument.java,src\scratchpad\src\org\apache\poi\hwpf\model\types\TBDAbstractType.java,src\scratchpad\testcases\org\apache\poi\hwpf\usermodel\TestRangeProperties.java,src\testcases\org\apache\poi\POIDataSamples.java

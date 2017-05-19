@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6
+Bugged
+0,1
+BugsIds
+-1,2972,2866,2724,2952,2704,2924
+TestsCount
+11
+pack
+"['src\\test\\java\\com\\orientechnologies\\orient\\core\\sql', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\db\\tool', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\command\\traverse', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\serialization\\serializer\\record', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\config']"
+testsChoosedNames
+Trace_com.orientechnologies.common.serialization.types.ByteSerializerTest@testNativeDirectMemoryCompatibility_1438528387522,Trace_com.orientechnologies.orient.core.db.record.DocumentJavaSerializationTest@testSimpleSerialization_1438529454706,Trace_com.orientechnologies.orient.core.sql.parser.OUpdateStatementTest@testIncrement_1438529989017,Trace_com.orientechnologies.orient.core.index.OPropertyRidBagAbstractIndexDefinitionTest@testProcessChangeEventRemoveOnce_1438528836233,Trace_com.orientechnologies.orient.core.db.record.ORecordLazySetTest@testIteratorConvertToRecord_1438529845308,Trace_com.orientechnologies.orient.core.db.hook.HookChangeValidationTest@testHookUpdateChange_1438528873491,Trace_com.orientechnologies.orient.core.record.impl.ODocumentSchemalessSerializationTest@testSimpleEmbeddedDoc_1438529374313,Trace_com.orientechnologies.common.serialization.types.DateSerializerTest@testNativeDirectMemoryCompatibility_1438528732659,Trace_com.orientechnologies.orient.core.record.impl.ODocumentSchemalessBinarySerializationTest@testListOfWrongData_1438529250104,Trace_com.orientechnologies.orient.core.sql.OCommandExecutorSQLUpdateTest@testUpdateContentParse_1438528588495,Trace_com.orientechnologies.orient.core.index.OPropertyIndexDefinitionTest@testEmptyIndexReload_1438529174612
+FileNames
+core\src\main\java\com\orientechnologies\orient\core\db\document\ODatabaseDocumentTx.java,core\src\main\java\com\orientechnologies\orient\core\metadata\schema\OSchemaShared.java,core\src\main\java\com\orientechnologies\common\serialization\types\OIntegerSerializer.java,core\src\main\java\com\orientechnologies\orient\core\config\OGlobalConfiguration.java,core\src\main\java\com\orientechnologies\orient\core\db\record\OMultiValueChangeEvent.java,core\src\main\java\com\orientechnologies\orient\core\id\ORecordId.java,core\src\main\java\com\orientechnologies\orient\core\index\hashindex\local\cache\OWOWCache.java

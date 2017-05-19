@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6
+Bugged
+0,1
+BugsIds
+-1,2950,3340,2970,3339,2761,3416
+TestsCount
+11
+pack
+"['src\\main\\java\\com\\orientechnologies\\orient\\core\\sql\\functions\\coll', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\sql\\operator', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\metadata\\schema', 'src\\test\\java\\com\\orientechnologies\\orient\\core\\index', 'src\\test\\java\\com\\orientechnologies\\common\\concur\\lock']"
+testsChoosedNames
+Trace_com.orientechnologies.orient.core.record.impl.ODocumentSchemalessBinarySerializationTest@testSimpleLiteralSet_1438529264696,Trace_com.orientechnologies.orient.core.index.OCompositeIndexDefinitionTest@testDocumentToIndexCollectionValueTwoCollections_1438528468852,Trace_com.orientechnologies.orient.core.sql.OCommandExecutorSQLSelectTest@testOrderByRid_1438528444937,Trace_com.orientechnologies.orient.core.record.impl.ODocumentFieldConversionTest@testDateToSchemaConversion_1438528835716,Trace_com.orientechnologies.orient.core.record.impl.ODocumentFieldConversionTest@testMapDateConversion_1438528835866,Trace_com.orientechnologies.orient.core.record.impl.ODocumentSchemalessBinarySerializationTest@testFieldWrongData_1438529234323,Trace_com.orientechnologies.orient.core.record.impl.ODocumentValidationTest@testNotNullValidation_1438529659059,Trace_com.orientechnologies.orient.core.index.hashindex.local.cache.LRUListTest@testAddElevenGetMiddle_1438528392067,Trace_com.orientechnologies.orient.core.record.impl.ODocumentSchemalessBinarySerializationTest@testSimpleLiteralArray_1438529264658,Trace_com.orientechnologies.orient.core.index.OPropertyRidBagAbstractIndexDefinitionTest@testCreateValueTwoParameters_1438527576713,Trace_com.orientechnologies.orient.core.index.OCompositeIndexDefinitionTest@testGetParamCount_1438528483093
+FileNames
+core\src\main\java\com\orientechnologies\orient\core\metadata\schema\OSchemaShared.java,core\src\main\java\com\orientechnologies\orient\core\metadata\schema\OType.java,core\src\main\java\com\orientechnologies\common\serialization\types\OIntegerSerializer.java,core\src\main\java\com\orientechnologies\common\serialization\types\OLongSerializer.java,core\src\main\java\com\orientechnologies\orient\core\db\ODatabaseRecordThreadLocal.java,core\src\main\java\com\orientechnologies\orient\core\index\OAbstractIndexDefinition.java,core\src\main\java\com\orientechnologies\orient\core\index\hashindex\local\cache\OWOWCache.java

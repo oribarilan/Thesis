@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+Bugged
+0,1
+BugsIds
+-1,55361,54607,53360,55369,49940,54982
+TestsCount
+19
+pack
+"['src\\ooxml\\testcases', 'src\\ooxml', 'src\\scratchpad\\testcases\\org\\apache', 'src\\ooxml\\java\\org\\apache\\poi\\xwpf', 'src']"
+testsChoosedNames
+Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439118827299,Trace_org.apache.poi.TestPOIXMLDocument@testXLSX_1439121931495,Trace_org.apache.poi.hwpf.usermodel.TestRangeReplacement@testDocStructure_1439121826420,Trace_org.apache.poi.ss.usermodel.BaseTestCell@testChangeTypeStringToBool_1439125037983,Trace_org.apache.poi.hdgf.streams.TestStreamComplex@testStrings_1439118517015,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439121133739,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439119540460,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439119540715,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439121135531,Trace_org.apache.poi.xwpf.usermodel.TestXWPFTable@testSetGetVBorders_1439126541637,Trace_org.apache.poi.hwpf.usermodel.TestPictures@testCroppedPictures_1439121823081,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testText_1439121616594,Trace_org.apache.poi.xssf.streaming.TestSXSSFRow@testCellBounds_1439125042458,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439118609774,Trace_org.apache.poi.xwpf.usermodel.TestXWPFDocument@testAddPicture_1439126479115,Trace_org.apache.poi.xwpf.TestDocumentProtection@testShouldEnforceForComments_1439126364749,Trace_org.apache.poi.hwpf.usermodel.TestBugs@testBug52032_3_1439121797821,Trace_org.apache.poi.hslf.model.TestBackground@testDefaults_1439118534018,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439118812697
+FileNames
+src\ooxml\java\org\apache\poi\xssf\streaming\SheetDataWriter.java,src\ooxml\testcases\org\apache\poi\xssf\usermodel\TestXSSFBugs.java,src\java\org\apache\poi\ss\SpreadsheetVersion.java,src\java\org\apache\poi\ss\util\CellReference.java,src\java\org\apache\poi\util\NullLogger.java,src\ooxml\java\org\apache\poi\POIXMLDocument.java,src\ooxml\java\org\apache\poi\POIXMLDocumentPart.java,src\ooxml\java\org\apache\poi\POIXMLProperties.java,src\ooxml\java\org\apache\poi\POIXMLRelation.java,src\ooxml\java\org\apache\poi\openxml4j\opc\StreamHelper.java,src\ooxml\java\org\apache\poi\openxml4j\opc\ZipPackagePart.java,src\ooxml\java\org\apache\poi\openxml4j\opc\internal\MemoryPackagePart.java,src\ooxml\java\org\apache\poi\xssf\model\SharedStringsTable.java,src\ooxml\java\org\apache\poi\xssf\model\StylesTable.java,src\ooxml\java\org\apache\poi\xssf\usermodel\XSSFCreationHelper.java,src\ooxml\java\org\apache\poi\xssf\usermodel\XSSFRichTextString.java,src\testcases\org\apache\poi\POIDataSamples.java

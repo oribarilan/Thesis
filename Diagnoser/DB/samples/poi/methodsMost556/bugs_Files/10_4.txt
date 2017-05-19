@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6
+Bugged
+0
+BugsIds
+-1,53205,53302,0,48495,53101,53588
+TestsCount
+9
+pack
+"['src\\scratchpad\\src\\org\\apache\\poi\\hdgf', 'src\\testcases\\org', 'src\\scratchpad\\testcases\\org\\apache\\poi\\hslf\\model', 'src\\ooxml\\java\\org\\apache\\poi\\xssf\\streaming', 'src\\ooxml\\testcases\\org\\apache\\poi\\xssf\\usermodel']"
+testsChoosedNames
+Trace_org.apache.poi.hslf.model.TestLine@testCreateLines_1439118535370,Trace_org.apache.poi.xssf.usermodel.TestXSSFRichTextString@testApplyFont_lowlevel_1439126068015,Trace_org.apache.poi.hwpf.usermodel.TestBugs@test50936_1_1439121788267,Trace_org.apache.poi.ss.usermodel.BaseTestRow@testRowHeight_1439125087177,Trace_org.apache.poi.hpbf.model.TestEscherParts@testBasics_1439118520155,Trace_org.apache.poi.xssf.usermodel.TestXSSFBugs@test47815_1439125451675,Trace_org.apache.poi.hwpf.usermodel.TestHeaderStories@testOddEven_1439121800549,Trace_org.apache.poi.xssf.usermodel.TestXSSFWorkbook@testIncrementSheetId_1439126270800,Trace_org.apache.poi.xwpf.usermodel.TestXWPFRun@testPictureInHeader_1439126529267,Trace_org.apache.poi.hmef.TestCompressedRTF@testFirstBlock_1439118518005
+FileNames
+src\scratchpad\src\org\apache\poi\hdgf\chunks\Chunk.java$processCommands,src\java\org\apache\poi\hpsf\ClassID.java$read,src\java\org\apache\poi\poifs\filesystem\POIFSDocument.java$convertRawBlocksToBigBlocks,src\java\org\apache\poi\poifs\filesystem\POIFSFileSystem.java$createDocumentInputStream,src\java\org\apache\poi\util\LittleEndian.java$getUnsignedByte,src\scratchpad\src\org\apache\poi\hdgf\chunks\Chunk.java$getHeader,src\testcases\org\apache\poi\POIDataSamples.java$getFile

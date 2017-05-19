@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11
+Bugged
+0
+BugsIds
+-1,52382,51802,50716,50716,50888,52554
+TestsCount
+11
+pack
+"['main\\org\\apache\\tools\\ant\\taskdefs\\condition', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional', 'main\\org\\apache\\tools\\ant\\taskdefs', 'main\\org\\apache\\tools\\ant\\types', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional\\depend']"
+testsChoosedNames
+Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961573021,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438960293826,Trace_org.apache.tools.ant.taskdefs.ConcatTest@testfilterinline_1438960898386,Trace_org.apache.tools.ant.taskdefs.FixCrLfTest@testCrCrLfSequenceUnix_1438961112737,Trace_org.apache.tools.ant.taskdefs.DeleteTest@test5_1438961012061,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438962326562,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961650962,Trace_org.apache.tools.ant.taskdefs.SubAntTest@testnodirs_1438961474139,Trace_org.apache.tools.ant.taskdefs.RmicAdvancedTest@testXnew_1438961398393,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438960919470,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961344651
+FileNames
+src\main\org\apache\tools\ant\types\resources\URLResource.java,src\main\org\apache\tools\ant\AntClassLoader.java,src\main\org\apache\tools\ant\DirectoryScanner.java,src\main\org\apache\tools\ant\IntrospectionHelper.java,src\main\org\apache\tools\ant\helper\AntXMLContext.java,src\main\org\apache\tools\ant\taskdefs\AntlibDefinition.java,src\main\org\apache\tools\ant\taskdefs\SubAnt.java,src\main\org\apache\tools\ant\types\DirSet.java,src\main\org\apache\tools\ant\types\Path.java,src\main\org\apache\tools\ant\types\resources\FileResourceIterator.java,src\main\org\apache\tools\ant\util\JavaEnvUtils.java,src\main\org\apache\tools\zip\ExtraFieldUtils.java

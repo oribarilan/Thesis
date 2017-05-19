@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11
+Bugged
+0,1,2
+BugsIds
+-1,50578,50716,50513,51802,51462,52382
+TestsCount
+9
+pack
+"['main\\org\\apache\\tools\\ant\\taskdefs\\optional\\i18n', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional\\junit', 'main\\org\\apache\\tools\\ant\\util', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional\\depend', 'main\\org\\apache\\tools\\ant']"
+testsChoosedNames
+Trace_org.apache.tools.ant.util.regexp.RegexpMatcherTest@testWindowsLineSeparator2_1438962324007,Trace_org.apache.tools.ant.taskdefs.optional.junit.JUnitTestListenerTest@testNoFullLogOutputMagicPropertyWins_1438961772177,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438962305489,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438962309882,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438962238546,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961347322,Trace_org.apache.tools.ant.taskdefs.MultiMapTest@testCopyWithEmpty_1438961334849,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438962250986,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961279185
+FileNames
+src\main\org\apache\tools\ant\IntrospectionHelper.java,src\main\org\apache\tools\ant\taskdefs\optional\junit\JUnitTestRunner.java,src\main\org\apache\tools\ant\util\FileUtils.java,src\main\org\apache\tools\ant\BuildEvent.java,src\main\org\apache\tools\ant\Project.java,src\main\org\apache\tools\ant\ProjectComponent.java,src\main\org\apache\tools\ant\Task.java,src\main\org\apache\tools\ant\property\LocalProperties.java,src\main\org\apache\tools\ant\taskdefs\ProcessDestroyer.java,src\main\org\apache\tools\ant\taskdefs\condition\Os.java,src\main\org\apache\tools\ant\types\DataType.java,src\main\org\apache\tools\ant\util\VectorSet.java

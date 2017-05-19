@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9
+Bugged
+0,1
+BugsIds
+-1,53360,53904,55024,55745,53475,49940
+TestsCount
+11
+pack
+"['src\\ooxml\\java\\org', 'src\\ooxml\\java\\org\\apache\\poi\\xwpf\\usermodel', 'src\\testcases\\org\\apache\\poi\\ss\\formula', 'src\\scratchpad\\src\\org\\apache\\poi\\hsmf', 'src\\java\\org\\apache\\poi\\poifs']"
+testsChoosedNames
+Trace_org.apache.poi.hslf.extractor.TestExtractor@testHeaderFooter_1439118531890,Trace_org.apache.poi.xssf.usermodel.TestXSSFPrintSetup@testSetGetValidSettings_1439126066860,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439121208350,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439119338959,Trace_org.apache.poi.xssf.usermodel.TestXSSFDrawing@testRichText_1439125964477,Trace_org.apache.poi.hslf.model.TestTextRun@testGetRichText_1439118546953,Trace_org.apache.poi.hwpf.converter.TestWordToHtmlConverter@testPicturesEscher_1439121673001,Trace_org.apache.poi.hslf.record.TestUserEditAtom@testWrite_1439118551559,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testHtml_1439121646336,Trace_org.apache.poi.openxml4j.opc.compliance.TestOPCCompliancePackageModel@testAddRelationshipRelationshipsPartFailure_1439122049615,Trace_org.apache.poi.ss.usermodel.BaseTestWorkbook@testCloneSheet_1439125096070
+FileNames
+src\ooxml\java\org\apache\poi\openxml4j\opc\PackageRelationshipCollection.java$addRelationship,src\ooxml\java\org\apache\poi\xssf\usermodel\XSSFSheet.java$read,src\java\org\apache\poi\ss\usermodel\FontFamily.java$getValue,src\java\org\apache\poi\ss\usermodel\FontUnderline.java$getValue,src\java\org\apache\poi\ss\util\WorkbookUtil.java$validateSheetName,src\ooxml\java\org\apache\poi\openxml4j\opc\OPCPackage.java$addRelationship,src\ooxml\java\org\apache\poi\openxml4j\opc\PackagePart.java$getInputStream,src\ooxml\java\org\apache\poi\xssf\model\StylesTable.java$putFont,src\ooxml\java\org\apache\poi\xssf\usermodel\extensions\XSSFCellBorder.java$setThemesTable,src\testcases\org\apache\poi\POIDataSamples.java$getFile

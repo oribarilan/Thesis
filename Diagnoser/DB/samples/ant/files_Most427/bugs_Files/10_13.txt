@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
+Bugged
+0
+BugsIds
+-1,51462,50716,52382,52344,50543,48633
+TestsCount
+11
+pack
+"['main\\org\\apache\\tools\\ant', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional\\depend\\constantpool', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional\\junit', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional\\depend', 'main\\org\\apache\\tools\\ant\\taskdefs\\condition']"
+testsChoosedNames
+Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438960309487,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438962325744,Trace_org.apache.tools.ant.taskdefs.RmicAdvancedTest@testDefaultBadClass_1438961409470,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961347323,Trace_org.apache.tools.ant.taskdefs.optional.SchemaValidateTest@testNSMapping_1438961685694,Trace_org.apache.tools.ant.taskdefs.optional.sos.SOSTest@testCheckoutExceptions_1438961782100,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961644093,Trace_org.apache.tools.ant.taskdefs.AvailableTest@testSearchInPathIsThere_1438960435264,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961314197,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438960997444,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438960902321
+FileNames
+src\main\org\apache\tools\ant\launch\Locator.java,src\main\org\apache\tools\ant\AntClassLoader.java,src\main\org\apache\tools\ant\AntTypeDefinition.java,src\main\org\apache\tools\ant\BuildEvent.java,src\main\org\apache\tools\ant\BuildException.java,src\main\org\apache\tools\ant\PathTokenizer.java,src\main\org\apache\tools\ant\taskdefs\AntlibDefinition.java,src\main\org\apache\tools\ant\taskdefs\optional\junit\JUnitTestRunner.java,src\main\org\apache\tools\ant\taskdefs\optional\sos\SOS.java,src\main\org\apache\tools\ant\types\FilterSetCollection.java,src\main\org\apache\tools\ant\types\Path.java,src\main\org\apache\tools\ant\util\CollectionUtils.java,src\main\org\apache\tools\ant\util\FileUtils.java,src\main\org\apache\tools\zip\ZipFile.java,src\tests\junit\org\apache\tools\ant\taskdefs\PathConvertTest.java

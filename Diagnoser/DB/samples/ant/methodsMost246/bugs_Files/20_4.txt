@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+Bugged
+0,1,2,3
+BugsIds
+-1,0,50515,0,51668,51086,52382
+TestsCount
+9
+pack
+"['main\\org\\apache\\tools\\ant\\launch', 'main\\org\\apache\\tools\\ant\\taskdefs\\cvslib', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional\\depend\\constantpool', 'main\\org\\apache\\tools\\ant\\util']"
+testsChoosedNames
+Trace_org.apache.tools.ant.taskdefs.SleepTest@test1_1438961450180,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438962270392,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961694183,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438962309872,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961759667,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438960381083,Trace_org.apache.tools.ant.taskdefs.optional.XmlValidateTest@testDeepValidate_1438961694876,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438960896945,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961313471
+FileNames
+src\main\org\apache\tools\ant\AntTypeDefinition.java$getTypeClass,src\main\org\apache\tools\ant\DirectoryScanner.java$checkIncludePatterns,src\main\org\apache\tools\ant\property\ParseProperties.java$parsePropertyName,src\main\org\apache\tools\ant\taskdefs\ImportTask.java$execute,src\main\org\apache\tools\ant\BuildEvent.java$setException,src\main\org\apache\tools\ant\ComponentHelper.java$getClassLoader,src\main\org\apache\tools\ant\ComponentHelper.java$setProject,src\main\org\apache\tools\ant\Project.java$access$000,src\main\org\apache\tools\ant\Project.java$getProject,src\main\org\apache\tools\ant\Project.java$setBasedir,src\main\org\apache\tools\ant\Project.java$setName,src\main\org\apache\tools\ant\taskdefs\Sleep.java$doSleep,src\main\org\apache\tools\ant\taskdefs\optional\junit\JUnitTestRunner.java$access$000,src\main\org\apache\tools\ant\types\DataType.java$setChecked,src\main\org\apache\tools\ant\util\FileUtils.java$dissect,src\main\org\apache\tools\ant\util\JavaEnvUtils.java$getJavaVersion,src\tests\junit\org\apache\tools\ant\taskdefs\optional\XmlValidateTest.java$setUp

@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8
+Bugged
+0,1,2
+BugsIds
+-1,3263,2907,3296,2828,3157,2845
+TestsCount
+5
+pack
+"['src\\main\\java\\com\\orientechnologies\\orient\\core\\serialization\\serializer\\record', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\command\\script', 'src\\main\\java\\com\\orientechnologies\\common\\collection', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\fetch\\json', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\fetch']"
+testsChoosedNames
+Trace_com.orientechnologies.orient.core.record.impl.ODocumentSchemalessSerializationTest@testMapOfEmbeddedDocument_1438529374275,Trace_com.orientechnologies.orient.core.sql.OCommandExecutorSQLSelectTest@testLimit_1438528437505,Trace_com.orientechnologies.orient.core.record.impl.ODocumentTest@testChangeTypeOnValueSet_1438529516636,Trace_com.orientechnologies.orient.core.metadata.ClassTest@testShortNameSnapshot_1438529453471,Trace_com.orientechnologies.orient.core.metadata.schema.TestMultiSuperClasses@testCreationOfClassWithV_1438530168167,Trace_com.orientechnologies.orient.core.sql.OCommandExecutorSQLSelectTest@testOrderByWithMetadataQuery_1438528445274,Trace_com.orientechnologies.orient.core.metadata.schema.OClassImplTest@testCreatePropertyFailOnExistingDataLinkMap_1438529913969,Trace_com.orientechnologies.orient.core.record.impl.ORecordBytesTest@testReadFromInputStreamWithWaitSizeLimit_1438529832733,Trace_com.orientechnologies.orient.core.record.impl.ODocumentValidationTest@testLinkedTypeValidation_1438529587729
+FileNames
+core\src\main\java\com\orientechnologies\common\concur\lock\OLockManager.java$acquireLock,core\src\main\java\com\orientechnologies\common\io\OIOUtils.java$getStringContent,core\src\main\java\com\orientechnologies\common\profiler\OProfiler.java$startChrono,core\src\main\java\com\orientechnologies\orient\core\db\ODatabaseRecordThreadLocal.java$getIfDefined,core\src\main\java\com\orientechnologies\orient\core\db\ODatabaseRecordThreadLocal.java$remove,core\src\main\java\com\orientechnologies\orient\core\db\document\ODatabaseDocumentTx.java$getDefaultSerializer,core\src\main\java\com\orientechnologies\orient\core\id\ORecordId.java$hashCode,core\src\main\java\com\orientechnologies\orient\core\record\ORecordAbstract.java$getInternalStatus,core\src\main\java\com\orientechnologies\orient\core\record\impl\ODocumentInternal.java$getImmutableSchemaClass

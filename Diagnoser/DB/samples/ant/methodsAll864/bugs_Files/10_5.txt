@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8
+Bugged
+0
+BugsIds
+-1,51462,50716,52382,50513,52096,51035
+TestsCount
+11
+pack
+"['main\\org\\apache\\tools\\ant\\taskdefs\\condition', 'main\\org\\apache\\tools\\ant\\taskdefs\\email', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional\\depend', 'main\\org\\apache\\tools\\ant', 'main\\org\\apache\\tools\\ant\\util']"
+testsChoosedNames
+Trace_org.apache.tools.ant.taskdefs.optional.vss.MSVSSTest@testHistoryExceptions_1438961786533,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961534067,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438962257043,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961287685,Trace_org.apache.tools.ant.taskdefs.MacroDefTest@testDouble_1438961268858,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961773062,Trace_org.apache.tools.ant.taskdefs.JavaTest@testRedirect3_1438961195178,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961051312,Trace_org.apache.tools.ant.taskdefs.AvailableTest@test21_1438960446790,Trace_org.apache.tools.ant.util.VectorSetTest@testRemoveElement_1438962320550,Trace_org.apache.tools.ant.util.FileUtilsTest@testIsContextRelativePath_1438962306073
+FileNames
+src\main\org\apache\tools\ant\Target.java$execute,src\main\org\apache\tools\ant\AntClassLoader.java$access$000,src\main\org\apache\tools\ant\Project.java$setBasedir,src\main\org\apache\tools\ant\ProjectComponent.java$setProject,src\main\org\apache\tools\ant\launch\Locator.java$decodeUri,src\main\org\apache\tools\ant\taskdefs\optional\junit\JUnitTestRunner.java$access$000,src\main\org\apache\tools\ant\taskdefs\optional\junit\JUnitTestRunner.java$logTestListenerEvent,src\main\org\apache\tools\ant\util\FileUtils.java$isContextRelativePath,src\main\org\apache\tools\ant\util\VectorSet.java$doAdd

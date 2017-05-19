@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+Bugged
+0
+BugsIds
+-1,53165,53360,54920,54524,55650,53650
+TestsCount
+7
+pack
+"['src\\scratchpad\\src\\org\\apache\\poi\\hwpf\\sprm', 'src\\ooxml\\java\\org\\apache\\poi\\openxml4j\\opc\\internal', 'src\\java\\org\\apache\\poi\\hssf\\eventusermodel', 'src\\scratchpad\\testcases\\org\\apache\\poi\\hwpf\\usermodel', 'src\\ooxml\\testcases\\org']"
+testsChoosedNames
+Trace_org.apache.poi.xssf.usermodel.TestXSSFFont@testColor_1439125974267,Trace_org.apache.poi.xslf.usermodel.TestXSLFGroupShape@testRemoveShapes_1439124051415,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testFo_1439121550238,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testText_1439121620083,Trace_org.apache.poi.ss.usermodel.BaseTestCell@testChangeTypeStringToBool_1439125037983,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testHtml_1439121618104,Trace_org.apache.poi.hwpf.TestHWPFPictures@testImageData_1439121231131,Trace_org.apache.poi.hwpf.extractor.TestWordExtractor@testFirstParagraphFix_1439121698381
+FileNames
+src\scratchpad\src\org\apache\poi\hwpf\usermodel\Picture.java,src\java\org\apache\poi\ddf\AbstractEscherOptRecord.java,src\java\org\apache\poi\ddf\EscherClientAnchorRecord.java,src\java\org\apache\poi\hpsf\Blob.java,src\java\org\apache\poi\hpsf\CodePageString.java,src\java\org\apache\poi\hpsf\SummaryInformation.java,src\java\org\apache\poi\hpsf\Variant.java,src\scratchpad\src\org\apache\poi\hwpf\converter\AbstractWordUtils.java,src\scratchpad\src\org\apache\poi\hwpf\converter\DefaultFontReplacer.java,src\scratchpad\src\org\apache\poi\hwpf\converter\FoDocumentFacade.java,src\scratchpad\src\org\apache\poi\hwpf\model\EscherRecordHolder.java,src\scratchpad\src\org\apache\poi\hwpf\model\FieldDescriptor.java,src\scratchpad\src\org\apache\poi\hwpf\model\LFOData.java,src\scratchpad\src\org\apache\poi\hwpf\model\types\BKFAbstractType.java,src\scratchpad\src\org\apache\poi\hwpf\model\types\SHD80AbstractType.java,src\scratchpad\src\org\apache\poi\hwpf\model\types\TAPAbstractType.java,src\scratchpad\src\org\apache\poi\hwpf\model\types\TBDAbstractType.java,src\scratchpad\src\org\apache\poi\hwpf\sprm\SprmUncompressor.java,src\scratchpad\testcases\org\apache\poi\hwpf\converter\TestWordToConverterSuite.java

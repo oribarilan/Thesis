@@ -1,0 +1,14 @@
+Files
+0
+Bugged
+0
+BugsIds
+-1,55347,52400,53515,52233,54524,54188
+TestsCount
+1
+pack
+"['src\\ooxml\\testcases\\org\\apache\\poi\\xwpf\\extractor', 'src\\scratchpad\\testcases\\org\\apache\\poi\\hsmf', 'src\\scratchpad\\src\\org\\apache\\poi\\hsmf\\datatypes', 'src\\ooxml', 'src\\scratchpad\\src\\org']"
+testsChoosedNames
+Trace_org.apache.poi.hslf.record.TestDocumentAtom@testBooleans_1439118550193,Trace_org.apache.poi.hmef.TestCompressedRTF@testFirstTwoBlocks_1439118517966,Trace_org.apache.poi.xssf.usermodel.TestXSSFSheet@test49966_1439126239140
+FileNames
+src\scratchpad\src\org\apache\poi\hmef\HMEFMessage.java$process

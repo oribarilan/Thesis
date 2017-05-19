@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11
+Bugged
+0,1
+BugsIds
+-1,51802,50507,50716,45786,50716,50716
+TestsCount
+11
+pack
+"['main\\org\\apache\\tools\\ant\\util', 'main\\org\\apache\\tools\\ant\\types', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional\\i18n', 'main\\org\\apache\\tools\\ant\\taskdefs\\email', 'main\\org\\apache\\tools\\ant\\launch']"
+testsChoosedNames
+Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961314198,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438960939721,Trace_org.apache.tools.ant.types.selectors.DependSelectorTest@testSelectionNoMapper_1438962276926,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961503434,Trace_org.apache.tools.ant.taskdefs.ZipTest@test2_1438961585495,Trace_org.apache.tools.ant.types.FilterSetTest@testFiltersFileElement_1438961842310,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438962251067,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438960324707,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438962306621,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961439254,Trace_org.apache.tools.ant.taskdefs.GetTest@testUseTimestamp_1438961138022
+FileNames
+src\main\org\apache\tools\ant\IntrospectionHelper.java,src\main\org\apache\tools\ant\Main.java,src\main\org\apache\tools\ant\Location.java,src\main\org\apache\tools\ant\Project.java,src\main\org\apache\tools\ant\ProjectComponent.java,src\main\org\apache\tools\ant\ProjectHelper.java,src\main\org\apache\tools\ant\launch\Locator.java,src\main\org\apache\tools\ant\types\Resource.java,src\main\org\apache\tools\ant\types\resources\FailFast.java,src\main\org\apache\tools\ant\util\JAXPUtils.java,src\main\org\apache\tools\ant\util\VectorSet.java,src\tests\junit\org\apache\tools\ant\taskdefs\ConditionTest.java

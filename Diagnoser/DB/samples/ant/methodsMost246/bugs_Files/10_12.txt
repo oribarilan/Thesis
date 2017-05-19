@@ -1,0 +1,14 @@
+Files
+0,1
+Bugged
+0,1
+BugsIds
+-1,50513,50866,51668,45786,51035,0
+TestsCount
+2
+pack
+"['main\\org\\apache\\tools\\ant\\util', 'main\\org\\apache\\tools\\ant\\taskdefs\\condition', 'main\\org\\apache\\tools\\ant\\taskdefs', 'main\\org\\apache\\tools\\ant\\launch', 'main\\org\\apache\\tools\\ant\\taskdefs\\email']"
+testsChoosedNames
+Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438962235389,Trace_org.apache.tools.ant.taskdefs.ZipTest@test5_1438961586973
+FileNames
+src\main\org\apache\tools\ant\AntTypeDefinition.java$getTypeClass,src\main\org\apache\tools\ant\util\JAXPUtils.java$getSystemId

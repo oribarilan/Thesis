@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8
+Bugged
+0,1,2
+BugsIds
+-1,399829,408314,408314,409100,402878,400309
+TestsCount
+11
+pack
+"['org.eclipse.cdt.core\\parser\\org\\eclipse\\cdt\\internal\\core\\pdom\\dom\\c', 'org.eclipse.cdt.core.tests\\model\\org\\eclipse\\cdt\\core\\settings\\model', 'org.eclipse.cdt.core\\parser\\org\\eclipse\\cdt\\internal\\core\\pdom', 'org.eclipse.cdt.core\\src\\org\\eclipse\\cdt\\internal\\core\\envvar', 'org.eclipse.cdt.core\\parser\\org\\eclipse\\cdt\\internal\\core\\dom\\parser']"
+testsChoosedNames
+Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2CPPTests@testListInitialization_302412d_1439132665497,Trace_org.eclipse.cdt.core.parser.tests.scanner.ExpansionExplorerTests@testObjectChain_1439131956886,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2TemplateTests@testFunctionTemplateWithFunctionPointer_281783_1439132752631,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2Tests@testFnReturningPtrToFn_1439132158513,Trace_org.eclipse.cdt.core.parser.tests.scanner.ExpansionExplorerTests@testNoOp_1439201034691,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2Tests@testArrayDesignator_1439132160016,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2CPPTests@testBug86274_1439132604983,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2CPPSpecTest@test14_8_2_5s15_1439132825883,Trace_org.eclipse.cdt.core.parser.tests.scanner.PortedScannerTests@testBug200830_1_1439131924866,Trace_org.eclipse.cdt.core.parser.tests.ast2.CompleteParser2Tests@testSimpleWhileStatement_1439132786566,Trace_org.eclipse.cdt.core.parser.tests.ast2.CompleteParser2Tests@testEnumerations_1439132784855
+FileNames
+core\org.eclipse.cdt.core.tests\parser\org\eclipse\cdt\core\parser\tests\ast2\AST2CPPTests.java,core\org.eclipse.cdt.core.tests\parser\org\eclipse\cdt\core\parser\tests\ast2\AST2TemplateTests.java,core\org.eclipse.cdt.core.tests\parser\org\eclipse\cdt\core\parser\tests\ast2\AST2TestBase.java,core\org.eclipse.cdt.core.tests\suite\org\eclipse\cdt\core\testplugin\CTestPlugin.java,core\org.eclipse.cdt.core.tests\suite\org\eclipse\cdt\core\testplugin\util\TestSourceReader.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\core\dom\ast\ASTGenericVisitor.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\core\dom\parser\cpp\GPPScannerExtensionConfiguration.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\core\parser\IncludeFileContentProvider.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\internal\core\parser\scanner\LocationCtxContainer.java

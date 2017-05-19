@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+Bugged
+0,1
+BugsIds
+-1,55292,53568,53965,53282,54436,48495
+TestsCount
+11
+pack
+"['src\\ooxml\\java\\org\\apache\\poi\\xssf\\usermodel', 'src\\ooxml\\java\\org\\apache\\poi\\xwpf\\usermodel', 'src\\ooxml\\testcases\\org\\apache\\poi', 'src\\java\\org\\apache\\poi\\ddf', 'src\\ooxml\\java\\org\\apache\\poi\\xssf\\usermodel\\charts']"
+testsChoosedNames
+Trace_org.apache.poi.hwpf.usermodel.TestBugs@testBug52032_1_1439121797498,Trace_org.apache.poi.hwpf.usermodel.TestRangeProperties@testUnicodeTextParagraphs_1439121825998,Trace_org.apache.poi.xssf.usermodel.TestXSSFVMLDrawing@testNew_1439126267235,Trace_org.apache.poi.xssf.usermodel.TestXSSFPrintSetup@testSetGetNoColor_1439126066879,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testText_1439121335202,Trace_org.apache.poi.ss.usermodel.BaseTestSheetUpdateArrayFormulas@testModifyArrayCells_removeCell_1439126264828,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testHtml_1439121406066,Trace_org.apache.poi.xssf.streaming.TestSXSSFCell@testSetTypeStringOnFormulaCell_1439125011669,Trace_org.apache.poi.hslf.model.TestHeadersFooters@testRead2007_1439118534708,Trace_org.apache.poi.hwpf.converter.TestWordToTextConverter@testBug52311_1439121681312,Trace_org.apache.poi.ss.usermodel.BaseTestSheetAutosizeColumn@testNumericCells_1439126253967
+FileNames
+src\ooxml\java\org\apache\poi\xssf\usermodel\XSSFDataValidationHelper.java$createValidation,src\ooxml\testcases\org\apache\poi\xssf\usermodel\TestXSSFPicture.java$testMultiRelationShips,src\java\org\apache\poi\ss\SpreadsheetVersion.java$getLastColumnIndex,src\java\org\apache\poi\ss\usermodel\FontFamily.java$getValue,src\java\org\apache\poi\ss\util\CellRangeAddress.java$formatAsString,src\java\org\apache\poi\util\IOUtils.java$toByteArray,src\ooxml\java\org\apache\poi\POIXMLDocument.java$getPackage,src\ooxml\java\org\apache\poi\POIXMLDocument.java$getProperties,src\ooxml\java\org\apache\poi\POIXMLDocumentPart.java$read,src\ooxml\java\org\apache\poi\POIXMLRelation.java$getContentType,src\ooxml\java\org\apache\poi\openxml4j\opc\PackagePart.java$getContentType,src\ooxml\java\org\apache\poi\openxml4j\opc\ZipPackage.java$createPartImpl,src\ooxml\java\org\apache\poi\openxml4j\opc\internal\ContentTypeManager.java$isContentTypeRegister,src\ooxml\java\org\apache\poi\xssf\model\StylesTable.java$readFrom,src\ooxml\java\org\apache\poi\xssf\usermodel\XSSFDataValidationHelper.java$createCustomConstraint,src\ooxml\java\org\apache\poi\xssf\usermodel\XSSFSheet.java$getSheetName,src\ooxml\java\org\apache\poi\xssf\usermodel\XSSFWorkbook.java$createSheet

@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6
+Bugged
+0,1
+BugsIds
+-1,3116,2991,3082,3236,1603,3074
+TestsCount
+8
+pack
+"['src\\main\\java\\com\\orientechnologies\\orient\\core\\serialization\\serializer\\binary', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\cache', 'src\\test\\java\\com\\orientechnologies\\orient\\core\\sql', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\storage', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\storage\\impl\\memory']"
+testsChoosedNames
+Trace_com.orientechnologies.orient.core.iterator.ClassIteratorTest@testDescendentOrderIteratorWithMultipleClusters_1438529287551,Trace_com.orientechnologies.orient.core.sql.parser.OSelectStatementTest@testWildcardSuffix_1438529804295,Trace_com.orientechnologies.orient.core.index.hashindex.local.cache.LRUListTest@testSingleAdd_1438528392217,Trace_com.orientechnologies.orient.core.record.impl.ODocumentSerializationPersistentTest@testRidBagInEmbeddedDocument_1438529475976,Trace_com.orientechnologies.orient.core.sql.parser.OSelectStatementTest@testSimpleSelectWhere_1438529803919,Trace_com.orientechnologies.orient.core.db.record.ridbag.sbtree.ORidBagAtomicUpdateTest@testFromEmbeddedToSBTreeRollback_1438529950941,Trace_com.orientechnologies.orient.core.db.record.ridbag.sbtree.ORidBagAtomicUpdateTest@testRandomChangedInTx_1438529953196,Trace_com.orientechnologies.orient.core.db.tool.TestSchemaImportExport@testExportImportCustomData_1438527623042
+FileNames
+core\src\main\java\com\orientechnologies\common\concur\lock\OLockManager.java,core\src\main\java\com\orientechnologies\orient\core\index\hashindex\local\cache\OWOWCache.java,core\src\main\java\com\orientechnologies\orient\core\id\ORecordId.java,core\src\main\java\com\orientechnologies\orient\core\sql\parser\OFromClause.java,core\src\main\java\com\orientechnologies\orient\core\sql\parser\OMathExpression.java,core\src\test\java\com\orientechnologies\common\serialization\types\ShortSerializerTest.java,core\src\test\java\com\orientechnologies\orient\core\sql\parser\OSelectStatementTest.java

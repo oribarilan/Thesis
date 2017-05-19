@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+Bugged
+0,1
+BugsIds
+-1,54535,54524,53414,54016,54723,55082
+TestsCount
+11
+pack
+"['src\\ooxml\\testcases\\org\\apache\\poi\\xslf', 'src\\scratchpad\\src\\org\\apache\\poi\\hslf\\model\\textproperties', 'src\\scratchpad\\testcases\\org\\apache\\poi\\hslf\\usermodel', 'src\\testcases\\org\\apache', 'src\\ooxml\\java\\org\\apache\\poi\\xslf']"
+testsChoosedNames
+Trace_org.apache.poi.hwpf.extractor.TestWordExtractor@testExtractFromParagraphs_1439121699749,Trace_org.apache.poi.hslf.usermodel.TestRichTextRun@testIndentationLevel_1439118568628,Trace_org.apache.poi.ss.usermodel.BaseTestSheet@testGetFooter_1439126253103,Trace_org.apache.poi.xssf.eventusermodel.TestXSSFReader@testStrings_1439124805603,Trace_org.apache.poi.xwpf.usermodel.TestXWPFDocument@testContainsMainContentType_1439126466203,amir,Trace_org.apache.poi.openxml4j.opc.compliance.TestOPCComplianceCoreProperties@testDoNotUseCompatibilityMarkup_1439122049361,Trace_org.apache.poi.hslf.model.TestHyperlink@testTextRunHyperlinks_1439118535202,Trace_org.apache.poi.ss.usermodel.BaseTestSheet@testOutlineProperties_1439125093846,Trace_org.apache.poi.hsmf.extractor.TestOutlookTextExtractor@testConstructors_1439118606518,Trace_org.apache.poi.hwpf.converter.TestWordToHtmlConverter@testPicturesEscher_1439121673001
+FileNames
+src\java\org\apache\poi\hssf\model\InternalSheet.java,src\java\org\apache\poi\ss\formula\eval\FunctionEval.java,src\java\org\apache\poi\ddf\AbstractEscherOptRecord.java,src\java\org\apache\poi\ddf\EscherBSERecord.java,src\java\org\apache\poi\hpsf\ClassID.java,src\java\org\apache\poi\ss\SpreadsheetVersion.java,src\java\org\apache\poi\util\BitField.java,src\java\org\apache\poi\util\BitFieldFactory.java,src\ooxml\java\org\apache\poi\POIXMLDocument.java,src\ooxml\java\org\apache\poi\POIXMLDocumentPart.java,src\ooxml\java\org\apache\poi\POIXMLRelation.java,src\ooxml\java\org\apache\poi\openxml4j\opc\OPCPackage.java,src\ooxml\java\org\apache\poi\openxml4j\opc\ZipPackagePart.java,src\ooxml\java\org\apache\poi\util\PackageHelper.java,src\ooxml\java\org\apache\poi\xssf\model\SharedStringsTable.java,src\ooxml\java\org\apache\poi\xssf\model\StylesTable.java,src\ooxml\java\org\apache\poi\xssf\usermodel\XSSFRelation.java,src\ooxml\java\org\apache\poi\xwpf\model\XWPFHeaderFooterPolicy.java,src\scratchpad\src\org\apache\poi\hslf\record\InteractiveInfo.java
