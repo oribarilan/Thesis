@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
+Bugged
+0
+BugsIds
+-1,52076,51947,51668,48633,50888,51579
+TestsCount
+10
+pack
+"['main\\org\\apache\\tools\\ant\\launch', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional', 'main\\org\\apache\\tools\\ant\\taskdefs', 'main\\org\\apache\\tools\\ant\\types', 'main\\org\\apache\\tools\\ant']"
+testsChoosedNames
+Trace_org.apache.tools.ant.taskdefs.SubAntTest@testnodirs_1438961474139,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961303485,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961236974,Trace_org.apache.tools.ant.taskdefs.NiceTest@testTooFast_1438961335786,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961710733,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961272323,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438960431823,Trace_org.apache.tools.ant.taskdefs.UnzipTest@test3_1438961559776,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961636831,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961785422,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438960338160
+FileNames
+src\main\org\apache\tools\ant\AntClassLoader.java,src\main\org\apache\tools\ant\DirectoryScanner.java,src\main\org\apache\tools\ant\IntrospectionHelper.java,src\main\org\apache\tools\ant\Location.java,src\main\org\apache\tools\ant\Main.java,src\main\org\apache\tools\ant\ProjectHelperRepository.java,src\main\org\apache\tools\ant\RuntimeConfigurable.java,src\main\org\apache\tools\ant\helper\AntXMLContext.java,src\main\org\apache\tools\ant\launch\Locator.java,src\main\org\apache\tools\ant\types\AbstractFileSet.java,src\main\org\apache\tools\ant\types\DataType.java,src\main\org\apache\tools\ant\types\FilterSetCollection.java,src\main\org\apache\tools\ant\types\resources\FailFast.java,src\tests\junit\org\apache\tools\ant\taskdefs\ManifestTest.java,src\tests\junit\org\apache\tools\ant\taskdefs\optional\depend\DependTest.java

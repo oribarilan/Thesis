@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5
+Bugged
+0,1
+BugsIds
+-1,51668,50515,50513,52382,52382,50716
+TestsCount
+11
+pack
+"['main\\org\\apache\\tools\\ant\\launch', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional\\junit', 'main\\org\\apache\\tools\\ant\\util', 'main\\org\\apache\\tools\\ant\\taskdefs\\cvslib']"
+testsChoosedNames
+Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961090040,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961462382,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438960360326,Trace_org.apache.tools.ant.taskdefs.FilterTest@test9_1438961093914,Trace_org.apache.tools.ant.taskdefs.optional.vss.MSVSSTest@testLabelExceptions_1438961785464,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961672496,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961732262,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438962262774,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961460169,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961651177,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438960282244
+FileNames
+src\main\org\apache\tools\ant\Target.java$execute,src\main\org\apache\tools\ant\taskdefs\optional\junit\JUnitTestRunner.java$fireEndTestSuite,src\main\org\apache\tools\ant\taskdefs\optional\junit\JUnitTestRunner.java$access$000,src\main\org\apache\tools\ant\taskdefs\optional\junit\JUnitTestRunner.java$endTest,src\main\org\apache\tools\ant\taskdefs\optional\junit\XMLJUnitResultFormatter.java$startTest,src\main\org\apache\tools\ant\util\FileUtils.java$close

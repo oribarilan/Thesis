@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+Bugged
+0
+BugsIds
+-1,52382,41986,52382,50543,50513,50513
+TestsCount
+11
+pack
+"['main\\org\\apache\\tools\\ant\\launch', 'main\\org\\apache\\tools\\ant\\types', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional', 'main\\org\\apache\\tools\\ant\\util', 'main\\org\\apache\\tools\\ant\\taskdefs']"
+testsChoosedNames
+Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438962305465,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438960400426,Trace_org.apache.tools.ant.taskdefs.RmicAdvancedTest@testRmicJArgDest_1438961405959,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438962324981,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961779340,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961358636,Trace_org.apache.tools.ant.taskdefs.JavacTest@testSourceWithDefault_1438961219595,Trace_org.apache.tools.ant.taskdefs.optional.sos.SOSTest@testLabelExceptions_1438961778195,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961081107,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961177155,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438960938977
+FileNames
+src\main\org\apache\tools\ant\launch\Locator.java$decodeUri,src\main\org\apache\tools\ant\AntClassLoader.java$addJavaLibraries,src\main\org\apache\tools\ant\AntTypeDefinition.java$create,src\main\org\apache\tools\ant\AntTypeDefinition.java$getClassName,src\main\org\apache\tools\ant\AntTypeDefinition.java$getExposedClass,src\main\org\apache\tools\ant\BuildEvent.java$setException,src\main\org\apache\tools\ant\BuildException.java$getLocation,src\main\org\apache\tools\ant\ComponentHelper.java$getElementName,src\main\org\apache\tools\ant\IntrospectionHelper.java$create,src\main\org\apache\tools\ant\IntrospectionHelper.java$createAttributeSetter,src\main\org\apache\tools\ant\IntrospectionHelper.java$getEnumSetter,src\main\org\apache\tools\ant\PathTokenizer.java$hasMoreTokens,src\main\org\apache\tools\ant\Project.java$executeSortedTargets,src\main\org\apache\tools\ant\Project.java$getProperty,src\main\org\apache\tools\ant\taskdefs\condition\Os.java$isFamily,src\main\org\apache\tools\ant\taskdefs\optional\junit\JUnitTestRunner.java$access$000,src\main\org\apache\tools\ant\taskdefs\optional\junit\JUnitTestRunner.java$logTestListenerEvent,src\main\org\apache\tools\ant\types\Commandline.java$createArgument,src\main\org\apache\tools\ant\util\CollectionUtils.java$hasMoreElements,src\main\org\apache\tools\ant\util\CollectionUtils.java$nextElement

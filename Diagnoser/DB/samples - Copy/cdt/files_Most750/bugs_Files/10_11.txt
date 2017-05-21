@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11
+Bugged
+0
+BugsIds
+-1,405511,409100,408296,409056,408181,389009
+TestsCount
+7
+pack
+"['org.eclipse.cdt.core\\src\\org\\eclipse\\cdt\\internal\\core', 'org.eclipse.cdt.core\\src\\org\\eclipse\\cdt\\internal\\core\\envvar', 'org.eclipse.cdt.core\\parser\\org\\eclipse\\cdt\\internal\\core\\dom\\parser\\cpp\\semantics', 'org.eclipse.cdt.core\\parser\\org\\eclipse\\cdt\\internal\\core\\pdom\\dom\\cpp', 'org.eclipse.cdt.core.tests\\parser\\org\\eclipse\\cdt\\core\\parser\\tests']"
+testsChoosedNames
+Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2CPPTests@testFwdLookupForDefaultArgument_1439132668953,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2CPPTests@testVariableDefVsDecl_292635_1439132629836,Trace_org.eclipse.cdt.core.parser.tests.scanner.PreprocessorTests@testLineSpliceInMacroDefinition_1439201025767,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2Tests@testTypePromotion_float_1439201270722,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2CPPTests@testReferencesOfUsingDecls_1439132622569,Trace_org.eclipse.cdt.core.internal.errorparsers.tests.RegexErrorParserTests@testAvailableErrorParsers_1439200937732,Trace_org.eclipse.cdt.core.parser.tests.scanner.InactiveCodeTests@testInactiveMacroDefinition_1439131957134,Trace_org.eclipse.cdt.core.parser.tests.SegmentMatcherTest@testNumeric_1439200941253
+FileNames
+core\org.eclipse.cdt.core.tests\parser\org\eclipse\cdt\core\parser\tests\ast2\AST2CPPTests.java,core\org.eclipse.cdt.core.tests\parser\org\eclipse\cdt\core\parser\tests\ast2\AST2TestBase.java,core\org.eclipse.cdt.core.tests\suite\org\eclipse\cdt\core\testplugin\CTestPlugin.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\core\dom\ast\IScope.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\core\parser\util\CharArrayObjectMap.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\internal\core\dom\parser\ASTEqualsInitializer.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\internal\core\dom\parser\BacktrackException.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\internal\core\dom\parser\cpp\CPPASTLinkageSpecification.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\internal\core\dom\parser\cpp\CPPASTLiteralExpression.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\internal\core\dom\parser\cpp\CPPFunction.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\internal\core\parser\scanner\LocationCtxContainer.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\internal\core\parser\scanner\StringType.java

@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+Bugged
+0,1
+BugsIds
+-1,54720,55036,54524,55079,53763,53010
+TestsCount
+11
+pack
+"['src\\ooxml\\testcases\\org\\apache\\poi\\xssf\\extractor', 'src\\testcases\\org\\apache\\poi\\ss\\usermodel', 'src\\testcases\\org', 'src\\scratchpad\\testcases\\org\\apache\\poi\\hslf\\extractor', 'src\\java\\org\\apache\\poi\\hssf\\record\\cf']"
+testsChoosedNames
+Trace_org.apache.poi.xssf.TestSheetProtection@testWriteObjects_1439124797046,Trace_org.apache.poi.hwpf.usermodel.TestBugs@testBug53380_3_1439121796987,Trace_org.apache.poi.hdgf.streams.TestStreamBugs@testGetTrailer_1439118516929,Trace_org.apache.poi.xwpf.extractor.TestXWPFWordExtractor@testDocTabs_1439126394613,Trace_org.apache.poi.ss.usermodel.BaseTestSheetAutosizeColumn@testRotatedText_1439126254341,Trace_org.apache.poi.xslf.usermodel.TestXSLFHyperlink@testRead_1439124057261,Trace_org.apache.poi.xssf.model.TestSharedStringsTable@testBug48936_1439125000300,Trace_org.apache.poi.ss.usermodel.BaseTestSheetHiding@testHide_1439125325865,Trace_org.apache.poi.ss.usermodel.BaseTestWorkbook@testSetSheetOrder_1439126343608,Trace_org.apache.poi.xslf.usermodel.TestXSLFSlide@testImportContent_1439124585435,Trace_org.apache.poi.hmef.attribute.TestTNEFAttributes@testCommon_1439118518623
+FileNames
+src\java\org\apache\poi\hssf\model\InternalSheet.java,src\java\org\apache\poi\ss\formula\OperationEvaluationContext.java,src\java\org\apache\poi\hpsf\ClassID.java,src\java\org\apache\poi\ss\SpreadsheetVersion.java,src\java\org\apache\poi\ss\usermodel\DataFormatter.java,src\java\org\apache\poi\ss\usermodel\DateUtil.java,src\java\org\apache\poi\ss\usermodel\FontFamily.java,src\java\org\apache\poi\ss\util\CellReference.java,src\java\org\apache\poi\ss\util\SheetUtil.java,src\java\org\apache\poi\ss\util\WorkbookUtil.java,src\java\org\apache\poi\util\BitField.java,src\java\org\apache\poi\util\StringUtil.java,src\ooxml\java\org\apache\poi\POIXMLDocument.java,src\ooxml\java\org\apache\poi\POIXMLDocumentPart.java,src\ooxml\java\org\apache\poi\xssf\model\SharedStringsTable.java,src\ooxml\java\org\apache\poi\xssf\usermodel\XSSFRichTextString.java,src\ooxml\testcases\org\apache\poi\xssf\XSSFITestDataProvider.java

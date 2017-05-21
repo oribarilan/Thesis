@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11
+Bugged
+0
+BugsIds
+-1,2924,3377,2972,2489,2995,1603
+TestsCount
+9
+pack
+"['src\\test\\java\\com\\orientechnologies\\orient\\core\\db\\record', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\record', 'src\\test\\java\\com\\orientechnologies\\orient\\core\\index\\hashindex\\local\\cache', 'src\\test\\java\\com\\orientechnologies\\orient\\core\\storage\\impl\\local', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\serialization\\serializer']"
+testsChoosedNames
+Trace_com.orientechnologies.orient.core.index.OPropertyRidBagAbstractIndexDefinitionTest@testGetDocumentValueToIndex_1438528836080,Trace_com.orientechnologies.orient.core.index.hashindex.local.cache.LRUListTest@testAdd9128PutLastAndMiddleToTop_1438528390064,Trace_com.orientechnologies.orient.core.sql.OCommandExecutorSQLSelectTest@testFlattenOnEmbedded_1438528437345,Trace_com.orientechnologies.orient.core.index.OPropertyMapIndexDefinitionTest@testProcessChangeEventUpdateValueWithConversion_1438529400699,Trace_com.orientechnologies.orient.core.db.record.ridbag.sbtree.ORidBagAtomicUpdateTest@testFromEmbeddedToSBTreeRollback_1438529950941,Trace_com.orientechnologies.orient.core.record.impl.ODocumentFieldConversionTest@testLiteralToSchemaConvertionInteger_1438528835825,Trace_com.orientechnologies.orient.core.sql.OCommandExecutorSQLSelectTest@testUnwindSkipAndLimit_1438528445787,Trace_com.orientechnologies.orient.core.index.OCompositeIndexDefinitionTest@testCreateRidBagValueSuccessfulOne_1438528468689,Trace_com.orientechnologies.orient.core.index.OSimpleKeyIndexDefinitionTest@testReload_1438527717141,Trace_com.orientechnologies.orient.core.sql.OCommandExecutorSQLUpdateTest@testUpdateRemoveAll_1438528604982
+FileNames
+core\src\main\java\com\orientechnologies\orient\core\record\impl\ODocument.java$getImmutableSchemaClass,core\src\main\java\com\orientechnologies\orient\core\config\OGlobalConfiguration.java$getValueAsInteger,core\src\main\java\com\orientechnologies\orient\core\config\OGlobalConfiguration.java$setValue,core\src\main\java\com\orientechnologies\orient\core\db\document\ODatabaseDocumentTx.java$getDefaultSerializer,core\src\main\java\com\orientechnologies\orient\core\db\record\ridbag\ORidBag.java$add,core\src\main\java\com\orientechnologies\orient\core\db\record\ridbag\ORidBag.java$addChangeListener,core\src\main\java\com\orientechnologies\orient\core\id\ORecordId.java$fromString,core\src\main\java\com\orientechnologies\orient\core\metadata\schema\OType.java$convert,core\src\main\java\com\orientechnologies\orient\core\record\ORecordAbstract.java$getIdentity,core\src\main\java\com\orientechnologies\orient\core\record\ORecordAbstract.java$setDirty,core\src\main\java\com\orientechnologies\orient\core\record\impl\ODocument.java$addAllMultiValueChangeListeners,core\src\main\java\com\orientechnologies\orient\core\serialization\serializer\OStringSerializerHelper.java$isCharPresent

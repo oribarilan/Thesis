@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
+Bugged
+0
+BugsIds
+-1,53475,52311,52400,53979,52311,53205
+TestsCount
+8
+pack
+"['src\\java\\org\\apache\\poi\\poifs', 'src\\scratchpad\\src\\org\\apache\\poi', 'src\\scratchpad\\src\\org\\apache\\poi\\hmef', 'src\\ooxml\\testcases\\org\\apache\\poi\\xssf\\model', 'src\\scratchpad\\src\\org\\apache\\poi\\hwpf\\converter']"
+testsChoosedNames
+Trace_org.apache.poi.hdgf.streams.TestStreamBasics@testUncompressedStream_1439118515875,Trace_org.apache.poi.hslf.record.TestDocumentAtom@testSizeAndZoom_1439118550190,Trace_org.apache.poi.hwpf.usermodel.TestRangeReplacement@testOpen_1439121826373,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testText_1439121291223,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439118906004,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testText_1439121407787,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439118609774,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439121013628,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439121029270,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439119503015,Trace_org.apache.poi.hslf.usermodel.TestSheetText@testSheetTwo_1439118576711
+FileNames
+src\scratchpad\src\org\apache\poi\hwpf\converter\AbstractWordUtils.java$getBulletText,src\java\org\apache\poi\ddf\AbstractEscherOptRecord.java$fillFields,src\java\org\apache\poi\ddf\EscherClientDataRecord.java$fillFields,src\java\org\apache\poi\hpsf\Property.java$readDictionary,src\java\org\apache\poi\poifs\storage\SmallDocumentBlock.java$getDataInputBlock,src\java\org\apache\poi\util\BitField.java$set,src\java\org\apache\poi\util\BitField.java$setBoolean,src\java\org\apache\poi\util\IntList.java$growArray,src\java\org\apache\poi\util\LittleEndian.java$getShort,src\java\org\apache\poi\util\POILogFactory.java$getLogger,src\java\org\apache\poi\util\StringUtil.java$getFromUnicodeLE,src\scratchpad\src\org\apache\poi\hwpf\model\PAPBinTable.java$compare,src\scratchpad\src\org\apache\poi\hwpf\model\PropertyModifier.java$getIgrpprl,src\scratchpad\src\org\apache\poi\hwpf\model\PropertyNode.java$setEnd,src\scratchpad\src\org\apache\poi\hwpf\model\types\CHPAbstractType.java$isFItalic,src\scratchpad\src\org\apache\poi\hwpf\model\types\CHPAbstractType.java$setFItalic,src\scratchpad\src\org\apache\poi\hwpf\model\types\CHPAbstractType.java$setIco,src\scratchpad\src\org\apache\poi\hwpf\model\types\SEPAbstractType.java$setDxaColumns

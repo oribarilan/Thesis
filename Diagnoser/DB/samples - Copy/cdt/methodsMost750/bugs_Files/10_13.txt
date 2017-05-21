@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6
+Bugged
+0
+BugsIds
+-1,409697,403670,402177,290631,389009
+TestsCount
+5
+pack
+"['org.eclipse.cdt.core\\model\\org\\eclipse\\cdt\\core\\language\\settings\\providers', 'org.eclipse.cdt.core.tests\\parser\\org\\eclipse\\cdt\\internal\\pdom\\tests', 'org.eclipse.cdt.core\\parser\\org\\eclipse\\cdt\\internal\\core\\pdom\\dom', 'org.eclipse.cdt.core.tests\\misc\\org\\eclipse\\cdt\\core\\internal\\errorparsers\\tests', 'org.eclipse.cdt.managedbuilder.core\\src\\org\\eclipse\\cdt\\managedbuilder\\core']"
+testsChoosedNames
+Trace_org.eclipse.cdt.internal.pdom.tests.GeneratePDOMApplicationTest@testGenerateOnCyclicIncludes1_1439137606926,Trace_org.eclipse.cdt.core.settings.model.CProjectDescriptionDeltaTests@testDelta_LANGUAGE_ID_1439133416237,Trace_org.eclipse.cdt.core.settings.model.ProjectCreationStateTests@testCreateProjectDescriptionForInexistingDes_1439133425935,Trace_org.eclipse.cdt.core.internal.errorparsers.tests.ErrorParserEfsFileMatchingTest@testEfsProjectPushPopDirectory_1439200935765,Trace_org.eclipse.cdt.core.language.settings.providers.LanguageSettingsPersistenceProjectTests@testWorkspacePersistence_GlobalProvider_1439133462062,Trace_org.eclipse.cdt.core.language.settings.providers.LanguageSettingsListenersTests@testListenerRegisterer_TwoGlobal_1439133471197,Trace_org.eclipse.cdt.core.parser.tests.scanner.InclusionTests@testIncludeVariables_69529_1439201028294
+FileNames
+core\org.eclipse.cdt.core.tests\model\org\eclipse\cdt\core\language\settings\providers\LanguageSettingsSerializableProviderTests.java$testProvider_RegularDOM,core\org.eclipse.cdt.core.tests\suite\org\eclipse\cdt\core\testplugin\TestScannerProvider.java$clear,core\org.eclipse.cdt.core\model\org\eclipse\cdt\core\language\settings\providers\LanguageSettingsBaseProvider.java$getProperty,core\org.eclipse.cdt.core\model\org\eclipse\cdt\core\language\settings\providers\LanguageSettingsSerializableProvider.java$getSettingEntries,core\org.eclipse.cdt.core\model\org\eclipse\cdt\core\language\settings\providers\LanguageSettingsSerializableProvider.java$setSettingEntries,core\org.eclipse.cdt.core\model\org\eclipse\cdt\core\settings\model\ACSettingEntry.java$equals,core\org.eclipse.cdt.core\utils\org\eclipse\cdt\internal\core\XmlUtil.java$toByteArray

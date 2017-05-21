@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+Bugged
+0,1
+BugsIds
+-1,52583,54625,55560,53446,53205,53043
+TestsCount
+11
+pack
+"['src\\testcases\\org\\apache\\poi\\ss', 'src\\ooxml\\java\\org\\apache', 'src\\scratchpad\\src\\org\\apache\\poi\\hslf\\model\\textproperties', 'src\\scratchpad\\src\\org\\apache', 'src\\ooxml\\testcases\\org\\apache\\poi\\xssf\\usermodel']"
+testsChoosedNames
+Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439119538015,Trace_org.apache.poi.hslf.record.TestExOleObjStg@testWrite_1439118550617,Trace_org.apache.poi.xslf.usermodel.TestXSLFSimpleShape@testFill_1439124122352,Trace_org.apache.poi.xslf.usermodel.TestXSLFPictureShape@testImageCaching_1439124082130,Trace_org.apache.poi.xssf.usermodel.TestXSSFCellStyle@testGetSetAlignement_1439125893565,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testText_1439121476442,Trace_org.apache.poi.hslf.model.TestFreeform@testClosedPath_1439118534118,Trace_org.apache.poi.xssf.usermodel.TestXSSFPrintSetup@testSetGetOrientation_1439126066866,Trace_org.apache.poi.hslf.record.TestSlideAtom@testRecordType_1439118551174,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439119759374,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testHtml_1439121406066
+FileNames
+src\scratchpad\src\org\apache\poi\hdgf\chunks\Chunk.java$processCommands,src\scratchpad\src\org\apache\poi\hwpf\model\Sttb.java$fillFields,src\java\org\apache\poi\POIDocument.java$getPropertySet,src\java\org\apache\poi\hpsf\ClassID.java$read,src\java\org\apache\poi\hpsf\MutableSection.java$getProperties,src\java\org\apache\poi\poifs\filesystem\POIFSDocument.java$convertRawBlocksToSmallBlocks,src\java\org\apache\poi\poifs\storage\RawDataBlockList.java$zap,src\java\org\apache\poi\poifs\storage\SmallDocumentBlock.java$getDataInputBlock,src\java\org\apache\poi\util\BitField.java$getRawValue,src\java\org\apache\poi\util\BitField.java$getShortValue,src\java\org\apache\poi\util\BitField.java$set,src\java\org\apache\poi\util\BitField.java$setBoolean,src\java\org\apache\poi\util\BitFieldFactory.java$getInstance,src\java\org\apache\poi\util\IntList.java$growArray,src\java\org\apache\poi\util\LittleEndian.java$getUnsignedByte,src\java\org\apache\poi\util\POILogFactory.java$getLogger,src\testcases\org\apache\poi\POIDataSamples.java$getFile

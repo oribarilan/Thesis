@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
+Bugged
+0,1
+BugsIds
+-1,54099,51675,55724,55650,53780,54579
+TestsCount
+11
+pack
+"['src\\testcases', 'src\\ooxml\\java\\org\\apache\\poi\\xwpf\\usermodel', 'src\\scratchpad\\testcases\\org\\apache\\poi\\hsmf', 'src\\ooxml\\testcases', 'src\\ooxml\\java\\org\\apache\\poi\\xssf\\eventusermodel']"
+testsChoosedNames
+Trace_org.apache.poi.hmef.TestCompressedRTF@testFirstTwoBlocks_1439118517966,Trace_org.apache.poi.xssf.usermodel.TestXSSFComment@testSetString_1439125907390,Trace_org.apache.poi.TestPOIXMLDocument@testDOCX_1439121929716,Trace_org.apache.poi.hssf.usermodel.TestHSSFChart@testTwoCharts_1439121225077,Trace_org.apache.poi.xwpf.extractor.TestXWPFWordExtractor@testDrawings_1439126411838,Trace_org.apache.poi.xssf.usermodel.TestXSSFComment@testConstructor_1439125907247,Trace_org.apache.poi.openxml4j.opc.compliance.TestOPCCompliancePackageModel@testAddRelationshipRelationshipsPartFailure_1439122049615,Trace_org.apache.poi.hwpf.model.TestRevisionMarkAuthorTable@testSimpleDocument_1439121758407,Trace_org.apache.poi.ss.usermodel.BaseTestCell@testChangeTypeFormulaToBoolean_1439125885330,Trace_org.apache.poi.xssf.extractor.TestXSSFExcelExtractor@testGetSimpleText_1439124813064,Trace_org.apache.poi.hwpf.usermodel.TestRangeInsertion@testOpen_1439121825615
+FileNames
+src\java\org\apache\poi\hssf\record\aggregates\PageSettingsBlock.java,src\java\org\apache\poi\ss\formula\eval\FunctionEval.java,src\java\org\apache\poi\hpsf\ClassID.java,src\java\org\apache\poi\hssf\record\common\UnicodeString.java,src\java\org\apache\poi\ss\SpreadsheetVersion.java,src\java\org\apache\poi\ss\formula\FormulaParser.java,src\java\org\apache\poi\ss\usermodel\FontFamily.java,src\java\org\apache\poi\ss\util\CellReference.java,src\java\org\apache\poi\util\BitField.java,src\java\org\apache\poi\util\IOUtils.java,src\java\org\apache\poi\util\LittleEndian.java,src\java\org\apache\poi\util\NullLogger.java,src\ooxml\java\org\apache\poi\POIXMLDocument.java,src\ooxml\java\org\apache\poi\POIXMLDocumentPart.java,src\ooxml\java\org\apache\poi\POIXMLRelation.java,src\ooxml\java\org\apache\poi\openxml4j\opc\OPCPackage.java,src\ooxml\java\org\apache\poi\openxml4j\util\Nullable.java,src\ooxml\java\org\apache\poi\xssf\model\StylesTable.java,src\ooxml\java\org\apache\poi\xssf\usermodel\XSSFCell.java,src\testcases\org\apache\poi\POIDataSamples.java,src\testcases\org\apache\poi\hssf\HSSFTestDataSamples.java

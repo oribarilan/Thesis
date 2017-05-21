@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11
+Bugged
+0,1,2
+BugsIds
+-1,54722,52991,53784,53205,54111,54920
+TestsCount
+15
+pack
+"['src\\scratchpad\\testcases\\org', 'src\\scratchpad\\src\\org\\apache\\poi\\hsmf\\extractor', 'src\\scratchpad\\testcases\\org\\apache\\poi\\hslf\\model', 'src\\scratchpad\\testcases\\org\\apache\\poi\\hslf', 'src\\ooxml\\testcases\\org\\apache\\poi\\xssf\\model']"
+testsChoosedNames
+Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testText_1439121625665,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testText_1439121620083,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testText_1439121509775,Trace_org.apache.poi.hsmf.extractor.TestOutlookTextExtractor@testConstructors_1439118606518,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439118943727,Trace_org.apache.poi.hwpf.usermodel.TestHWPFOldDocument@testWord6_1439121798883,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439118816772,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439119754598,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439121201826,Trace_org.apache.poi.hslf.usermodel.TestPictures@testDIB_1439118562761,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testHtml_1439121622752,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testText_1439121507145,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439121016341,Trace_org.apache.poi.hwpf.usermodel.TestBugs@test47742_1439121782682,Trace_org.apache.poi.hwpf.usermodel.TestBugs@test41898_1439121772628,Trace_org.apache.poi.hwpf.converter.TestWordToHtmlConverter@testBug33519_1439121662571,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439121106435,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testFo_1439121549103,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testHtml_1439121335413,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testText_1439121419962,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testText_1439121639412
+FileNames
+src\scratchpad\src\org\apache\poi\hslf\extractor\PowerPointExtractor.java,src\scratchpad\src\org\apache\poi\hsmf\MAPIMessage.java,src\scratchpad\src\org\apache\poi\hsmf\datatypes\PropertyValue.java,src\java\org\apache\poi\ddf\AbstractEscherOptRecord.java,src\java\org\apache\poi\ddf\EscherClientAnchorRecord.java,src\java\org\apache\poi\ddf\EscherClientDataRecord.java,src\java\org\apache\poi\ddf\EscherComplexProperty.java,src\java\org\apache\poi\ddf\EscherProperty.java,src\java\org\apache\poi\ddf\EscherTextboxRecord.java,src\java\org\apache\poi\util\POILogFactory.java,src\scratchpad\src\org\apache\poi\hsmf\datatypes\MessageSubmissionChunk.java,src\testcases\org\apache\poi\POIDataSamples.java

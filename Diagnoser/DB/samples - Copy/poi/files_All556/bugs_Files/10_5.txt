@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9
+Bugged
+0,1
+BugsIds
+-1,55347,54557,53950,55768,55036,55058
+TestsCount
+11
+pack
+"['src\\scratchpad\\testcases', 'src\\testcases\\org\\apache\\poi\\ss\\formula', 'src\\java\\org\\apache\\poi\\ss\\usermodel', 'src\\scratchpad\\src\\org\\apache\\poi\\hslf\\model', 'src\\ooxml\\java\\org\\apache\\poi\\xssf']"
+testsChoosedNames
+Trace_org.apache.poi.xssf.usermodel.TestXSSFSheet@test47804_1439126243497,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testHtml_1439121419131,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testFo_1439121312810,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439121111959,Trace_org.apache.poi.xssf.usermodel.TestXSSFCellStyle@testGetFillPattern_1439125892779,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testText_1439121308483,Trace_org.apache.poi.hslf.record.TestTextCharsAtom@testCreateNew_1439118551406,Trace_org.apache.poi.hslf.model.TestSlides@testAddSlides3_1439118545311,Trace_org.apache.poi.hsmf.datatypes.TestChunkData@testChunkCreate_1439118606302,Trace_org.apache.poi.hslf.model.TestTextRun@testGetText_1439118547764,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439121120130
+FileNames
+src\java\org\apache\poi\hssf\usermodel\HSSFRow.java,src\ooxml\java\org\apache\poi\xssf\usermodel\XSSFSheet.java,src\java\org\apache\poi\POIDocument.java,src\java\org\apache\poi\hpsf\SummaryInformation.java,src\java\org\apache\poi\util\BitField.java,src\ooxml\java\org\apache\poi\xssf\model\StylesTable.java,src\ooxml\java\org\apache\poi\xssf\usermodel\XSSFFont.java,src\scratchpad\src\org\apache\poi\hwpf\converter\AbstractWordUtils.java,src\scratchpad\src\org\apache\poi\hwpf\converter\HtmlDocumentFacade.java,src\testcases\org\apache\poi\POIDataSamples.java

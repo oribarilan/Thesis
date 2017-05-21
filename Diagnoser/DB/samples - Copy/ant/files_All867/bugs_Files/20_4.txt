@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9
+Bugged
+0,1
+BugsIds
+-1,50513,45786,51947,41986,52382,50515
+TestsCount
+5
+pack
+"['main\\org\\apache\\tools\\ant\\taskdefs\\optional\\depend\\constantpool', 'main\\org\\apache\\tools\\ant\\taskdefs\\email', 'main\\org\\apache\\tools\\ant\\taskdefs\\cvslib', 'main\\org\\apache\\tools\\ant\\taskdefs', 'main\\org\\apache\\tools\\ant\\util']"
+testsChoosedNames
+Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961297396,Trace_org.apache.tools.ant.taskdefs.RenameTest@test3_1438961374130,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961574383,Trace_org.apache.tools.ant.types.selectors.ContainsSelectorTest@testSelectionBehaviour_1438962261187,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961633424,Trace_org.apache.tools.ant.taskdefs.GetTest@testUseTimestamp_1438961138022
+FileNames
+src\main\org\apache\tools\ant\taskdefs\Delete.java,src\main\org\apache\tools\ant\util\FileUtils.java,src\main\org\apache\tools\ant\AntClassLoader.java,src\main\org\apache\tools\ant\BuildException.java,src\main\org\apache\tools\ant\DirectoryScanner.java,src\main\org\apache\tools\ant\Main.java,src\main\org\apache\tools\ant\ProjectHelperRepository.java,src\main\org\apache\tools\ant\taskdefs\condition\Os.java,src\main\org\apache\tools\ant\types\resources\FileResource.java,src\main\org\apache\tools\ant\types\selectors\ContainsSelector.java

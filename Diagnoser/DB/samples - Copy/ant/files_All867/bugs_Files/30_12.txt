@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9
+Bugged
+0,1,2,3,4
+BugsIds
+-1,50515,51044,50716,50543,50716,48633
+TestsCount
+5
+pack
+"['main\\org\\apache\\tools\\ant\\taskdefs\\email', 'main\\org\\apache\\tools\\ant\\taskdefs\\condition', 'main\\org\\apache\\tools\\ant\\launch', 'main\\org\\apache\\tools\\ant\\filters', 'main\\org\\apache\\tools\\ant\\taskdefs\\cvslib']"
+testsChoosedNames
+Trace_org.apache.tools.ant.taskdefs.UnzipTest@test3_1438961559776,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438962322039,Trace_org.apache.tools.ant.taskdefs.ConditionTest@testContainsIncomplete1_1438960927487,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961033388,Trace_org.apache.tools.ant.taskdefs.JavaTest@testRunSuccessWithFailOnError_1438961198853,Trace_org.apache.tools.ant.taskdefs.ManifestTest@test4_1438961301982
+FileNames
+src\main\org\apache\tools\ant\IntrospectionHelper.java,src\main\org\apache\tools\ant\Main.java,src\main\org\apache\tools\ant\Target.java,src\main\org\apache\tools\ant\taskdefs\Copy.java,src\main\org\apache\tools\ant\taskdefs\Expand.java,src\main\org\apache\tools\ant\ProjectComponent.java,src\main\org\apache\tools\ant\types\resources\BaseResourceCollectionContainer.java,src\main\org\apache\tools\ant\types\resources\FailFast.java,src\main\org\apache\tools\ant\types\resources\FileResource.java,src\main\org\apache\tools\ant\util\JAXPUtils.java

@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7
+Bugged
+0,1
+BugsIds
+-1,55248,54111,53784,52211,54084,53500
+TestsCount
+11
+pack
+"['src\\java\\org\\apache\\poi\\ss\\util', 'src\\ooxml\\java\\org\\apache\\poi\\openxml4j\\opc\\internal', 'src\\testcases\\org\\apache\\poi\\hssf', 'src\\ooxml\\testcases\\org', 'src\\scratchpad\\testcases']"
+testsChoosedNames
+Trace_org.apache.poi.hslf.model.TestBackground@testDefaults_1439118534018,Trace_org.apache.poi.hslf.usermodel.TestReOrderingSlides@testReOrder1_1439118566060,Trace_org.apache.poi.hslf.usermodel.TestAddingSlides@testAddSlideToExisting2_1439118552504,Trace_org.apache.poi.ss.usermodel.BaseTestConditionalFormatting@testShiftRows_1439125920230,Trace_org.apache.poi.hwpf.usermodel.TestRangeProperties@testUnicodeParagraphDefinitions_1439121826347,Trace_org.apache.poi.hsmf.TestFixedSizedProperties@testReadMessageDateSucceedsWithHSMFDump_1439118598982,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439118811495,Trace_org.apache.poi.hslf.record.TestStyleTextPropAtom@test45815_1439118551339,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439119540587,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439119540460,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439119596569
+FileNames
+src\java\org\apache\poi\ss\util\CellRangeAddress.java,src\scratchpad\src\org\apache\poi\hsmf\datatypes\Chunks.java,src\java\org\apache\poi\poifs\filesystem\DocumentInputStream.java,src\java\org\apache\poi\poifs\storage\DocumentBlock.java,src\java\org\apache\poi\util\POILogFactory.java,src\java\org\apache\poi\util\StringUtil.java,src\ooxml\java\org\apache\poi\xssf\usermodel\XSSFFont.java,src\testcases\org\apache\poi\POIDataSamples.java

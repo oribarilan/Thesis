@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+Bugged
+0
+BugsIds
+-1,55292,55733,53475,55578,53515,54210
+TestsCount
+10
+pack
+"['src\\ooxml\\java\\org\\apache\\poi\\xslf', 'src\\ooxml\\testcases\\org\\apache\\poi\\xssf\\usermodel', 'src\\ooxml\\java\\org\\apache\\poi\\xwpf\\extractor', 'src\\ooxml\\testcases\\org\\apache\\poi\\xssf\\streaming', 'src\\java\\org\\apache\\poi\\poifs']"
+testsChoosedNames
+Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439121207075,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testText_1439121295129,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439119603918,Trace_org.apache.poi.xssf.usermodel.TestXSSFWorkbook@testSaveLoadNew_1439126274026,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439121030098,Trace_org.apache.poi.hslf.usermodel.TestMostRecentRecords@testCorrectRecords_1439118560590,Trace_org.apache.poi.hslf.record.TestExHyperlink@testRealFile_1439118550242,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testHtml_1439121295577,Trace_org.apache.poi.xssf.usermodel.TestXSSFSheet@testAutoSizeColumn_1439126233428,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439119725328
+FileNames
+src\java\org\apache\poi\hssf\record\SubRecord.java$createSubRecord,src\java\org\apache\poi\POIDocument.java$getPropertySet,src\java\org\apache\poi\hpsf\ClassID.java$getBytes,src\java\org\apache\poi\hpsf\MutableSection.java$getProperties,src\java\org\apache\poi\hssf\model\InternalSheet.java$createSheet,src\java\org\apache\poi\hssf\model\WorkbookRecordList.java$setBackuppos,src\java\org\apache\poi\hssf\record\BottomMarginRecord.java$getSid,src\java\org\apache\poi\hssf\record\CalcCountRecord.java$getSid,src\java\org\apache\poi\hssf\record\CodepageRecord.java$getSid,src\java\org\apache\poi\hssf\record\FeatHdrRecord.java$getSid,src\java\org\apache\poi\hssf\record\RecordInputStream.java$readUnicodeLEString,src\java\org\apache\poi\poifs\filesystem\ODocumentInputStream.java$atEOD,src\java\org\apache\poi\poifs\filesystem\POIFSDocument.java$convertRawBlocksToSmallBlocks,src\java\org\apache\poi\poifs\storage\SmallDocumentBlock.java$getDataInputBlock,src\java\org\apache\poi\ss\usermodel\DataFormatter.java$addFormat,src\java\org\apache\poi\util\BitField.java$set,src\scratchpad\src\org\apache\poi\hwpf\converter\AbstractWordUtils.java$isEmpty,src\scratchpad\src\org\apache\poi\hwpf\converter\HtmlDocumentFacade.java$addAuthor,src\scratchpad\testcases\org\apache\poi\hssf\converter\TestExcelConverterSuite.java$testHtml

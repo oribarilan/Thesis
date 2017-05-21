@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+Bugged
+0
+BugsIds
+-1,53414,53282,53515,0,55692,55026
+TestsCount
+11
+pack
+"['src\\java\\org\\apache\\poi\\hssf', 'src\\ooxml\\testcases\\org\\apache\\poi\\xwpf\\usermodel', 'src\\scratchpad\\testcases\\org\\apache', 'src\\ooxml\\testcases', 'src\\java\\org\\apache\\poi\\hssf\\record']"
+testsChoosedNames
+Trace_org.apache.poi.ss.usermodel.BaseTestWorkbook@testCreateSheetWithLongNames_1439125217984,Trace_org.apache.poi.xssf.usermodel.TestXSSFBugs@test51470_1439125504805,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439121207924,Trace_org.apache.poi.hslf.usermodel.TestNumberedList3@testNumberedList_1439118561189,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439119604414,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439121133006,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testFo_1439121607225,Trace_org.apache.poi.xssf.usermodel.TestXSSFPrintSetup@testSetGetLeftToRight_1439126066836,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439118618564,Trace_org.apache.poi.hwpf.usermodel.TestPictures@testPictureDetectionWithPNG_1439121823171,Trace_org.apache.poi.xssf.usermodel.TestFormulaEvaluatorOnXSSF@testOpen_1439125319705
+FileNames
+src\java\org\apache\poi\hssf\usermodel\HSSFWorkbook.java$getWorkbookDirEntryName,src\java\org\apache\poi\POIDocument.java$getPropertySet,src\java\org\apache\poi\hssf\model\InternalWorkbook.java$getFormats,src\java\org\apache\poi\hssf\model\InternalWorkbook.java$getNameCommentRecord,src\java\org\apache\poi\hssf\model\InternalWorkbook.java$isUsing1904DateWindowing,src\java\org\apache\poi\hssf\model\RecordStream.java$peekNextClass,src\java\org\apache\poi\hssf\record\CommonObjectDataSubRecord.java$getObjectType,src\java\org\apache\poi\hssf\record\DefaultColWidthRecord.java$getColWidth,src\java\org\apache\poi\poifs\filesystem\POIFSDocument.java$convertRawBlocksToSmallBlocks,src\java\org\apache\poi\poifs\storage\SmallDocumentBlock.java$getDataInputBlock,src\java\org\apache\poi\ss\SpreadsheetVersion.java$getLastRowIndex,src\java\org\apache\poi\util\BitField.java$clear,src\java\org\apache\poi\util\BitField.java$isSet,src\java\org\apache\poi\util\BitField.java$set,src\scratchpad\src\org\apache\poi\hwpf\converter\HtmlDocumentFacade.java$addAuthor,src\scratchpad\src\org\apache\poi\hwpf\converter\HtmlDocumentFacade.java$addStyleClass

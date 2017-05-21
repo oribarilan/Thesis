@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5
+Bugged
+0,1
+BugsIds
+-1,3212,2900,2772,2489,2828,1603
+TestsCount
+7
+pack
+"['src\\main\\java\\com\\orientechnologies\\orient\\core\\type', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\index\\sbtree', 'src\\test\\java\\com\\orientechnologies\\orient\\core\\index\\hashindex\\local\\cache', 'src\\test\\java\\com\\orientechnologies\\common\\console', 'src\\test\\java\\com\\orientechnologies\\orient\\core\\sql']"
+testsChoosedNames
+Trace_com.orientechnologies.orient.core.sql.parser.OSelectStatementTest@testLongDotted_1438529803535,Trace_com.orientechnologies.orient.core.sql.OCommandExecutorSQLSelectTest@testProjection_1438528445376,Trace_com.orientechnologies.orient.core.sql.parser.OSelectStatementTest@testIn_1438529803421,Trace_com.orientechnologies.orient.core.index.hashindex.local.arc.ReadWriteCacheConcurrentTest@testAdd_1438527755226,Trace_com.orientechnologies.orient.core.db.record.DocumentTest@testFromMapWithClassAndRid_1438529515760,Trace_com.orientechnologies.orient.core.sql.OChainedIndexProxyFindBestIndexTest@testPriorityNonCompositeOverComposite_1438527703633,Trace_com.orientechnologies.orient.core.sql.parser.OSelectStatementTest@testSimpleSelectWhere_1438529803919
+FileNames
+core\src\main\java\com\orientechnologies\common\collection\OMultiValue.java,core\src\main\java\com\orientechnologies\orient\core\index\hashindex\local\cache\OWOWCache.java,core\src\main\java\com\orientechnologies\orient\core\sql\parser\OFromClause.java,core\src\main\java\com\orientechnologies\orient\core\sql\parser\OMathExpression.java,core\src\main\java\com\orientechnologies\orient\core\sql\parser\OModifier.java,core\src\test\java\com\orientechnologies\orient\core\sql\parser\OSelectStatementTest.java

@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8
+Bugged
+0,1,2
+BugsIds
+-1,51035,50716,51668,50716,51802,50716
+TestsCount
+11
+pack
+"['main\\org\\apache\\tools\\ant\\taskdefs\\optional', 'main\\org\\apache\\tools\\ant\\launch', 'main\\org\\apache\\tools\\ant\\util', 'main\\org\\apache\\tools\\ant\\types', 'main\\org\\apache\\tools\\ant\\taskdefs\\condition']"
+testsChoosedNames
+Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961824317,Trace_org.apache.tools.ant.taskdefs.JarTest@testRecreate_1438961183819,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438960309476,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961215922,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438960892153,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438962235383,Trace_org.apache.tools.ant.taskdefs.UntarTest@testLogoExtraction_1438961545231,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961788813,Trace_org.apache.tools.ant.taskdefs.ConcatTest@testConcatNoNewline_1438960907624,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961705067,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961355972
+FileNames
+src\main\org\apache\tools\ant\IntrospectionHelper.java,src\main\org\apache\tools\ant\taskdefs\optional\junit\JUnitTestRunner.java,src\main\org\apache\tools\ant\util\FileUtils.java,src\main\org\apache\tools\ant\Project.java,src\main\org\apache\tools\ant\ProjectComponent.java,src\main\org\apache\tools\ant\taskdefs\condition\Os.java,src\main\org\apache\tools\ant\taskdefs\optional\junit\JUnitVersionHelper.java,src\main\org\apache\tools\ant\taskdefs\optional\junit\XMLJUnitResultFormatter.java,src\main\org\apache\tools\ant\util\VectorSet.java

@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10
+Bugged
+0,1,2
+BugsIds
+-1,52583,53446,52311,52583,49940,55650
+TestsCount
+11
+pack
+"['src\\ooxml\\testcases\\org\\apache\\poi\\xwpf\\extractor', 'src\\scratchpad\\src\\org\\apache\\poi\\hwpf\\usermodel', 'src\\scratchpad\\src\\org\\apache\\poi\\hwpf\\converter', 'src\\ooxml\\java\\org\\apache\\poi\\xssf\\model', 'src\\scratchpad\\src\\org\\apache\\poi\\hdgf']"
+testsChoosedNames
+Trace_org.apache.poi.hwpf.extractor.TestWordExtractor@testWord95_1439121696226,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testText_1439121488508,Trace_org.apache.poi.hwpf.usermodel.TestBugs@testBug51834_1439121766740,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439119420869,Trace_org.apache.poi.TestPOIDocumentScratchpad@testWriteProperties_1439118500081,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439119422411,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439121077896,Trace_org.apache.poi.ss.usermodel.BaseTestWorkbook@testRemoveSheetAt_1439126343193,Trace_org.apache.poi.xssf.usermodel.TestXSSFWorkbook@testSetTabColor_1439126270242,Trace_org.apache.poi.hwpf.usermodel.TestPictures@testFloatingPictures_1439121821570,Trace_org.apache.poi.xssf.usermodel.TestXSSFSheet@testGetAllHeadersFooters_1439126205116
+FileNames
+src\scratchpad\src\org\apache\poi\hwpf\converter\AbstractWordConverter.java,src\scratchpad\src\org\apache\poi\hwpf\converter\AbstractWordUtils.java,src\scratchpad\src\org\apache\poi\hwpf\model\Sttb.java,src\java\org\apache\poi\hpsf\ClassID.java,src\java\org\apache\poi\poifs\storage\DocumentBlock.java,src\java\org\apache\poi\util\IOUtils.java,src\java\org\apache\poi\util\LittleEndian.java,src\java\org\apache\poi\util\POILogFactory.java,src\scratchpad\src\org\apache\poi\hwpf\HWPFDocument.java,src\scratchpad\src\org\apache\poi\hwpf\HWPFDocumentCore.java,src\scratchpad\src\org\apache\poi\hwpf\usermodel\Range.java

@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11,12
+Bugged
+0
+BugsIds
+-1,403670,409107,402257,402854,407480,401142
+TestsCount
+11
+pack
+"['org.eclipse.cdt.core\\model\\org\\eclipse\\cdt\\core\\language\\settings\\providers', 'org.eclipse.cdt.core\\parser\\org\\eclipse\\cdt\\internal\\core\\dom\\parser\\cpp\\semantics', 'org.eclipse.cdt.core\\src\\org\\eclipse\\cdt\\internal\\core\\cdtvariables', 'org.eclipse.cdt.core\\model\\org\\eclipse\\cdt\\core\\settings\\model\\extension', 'org.eclipse.cdt.managedbuilder.core\\src\\org\\eclipse\\cdt\\managedbuilder\\core']"
+testsChoosedNames
+Trace_org.eclipse.cdt.core.parser.tests.ast2.ASTInactiveCodeTests@testAmbiguity_1439132891882,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2CSpecTest@test6_7_5_1s4_1439132865793,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2CPPTests@testOverloadedOperatorWithInheritanceDistance_335387_1439132675182,Trace_org.eclipse.cdt.core.parser.tests.ast2.QuickParser2Tests@testBug39536_1439132783064,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2CPPTests@testNotExplicitCopyConstructor_183160_1439132644650,Trace_org.eclipse.cdt.core.parser.tests.ast2.CompleteParser2Tests@testBug77805_1439132788053,Trace_org.eclipse.cdt.core.parser.tests.ast2.DOMSelectionParseTest@testBug80826_1439132868923,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2CPPTests@testBug83997_1439132609527,Trace_org.eclipse.cdt.core.model.tests.TranslationUnitTests@testIsTranslationUnit_1439133267751,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2CSpecTest@test5_1_2_3s10_1439132861800,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2TemplateTests@testTypedefPreservation_380498_3_1439132719502
+FileNames
+core\org.eclipse.cdt.core.tests\parser\org\eclipse\cdt\core\parser\tests\ast2\AST2TestBase.java,core\org.eclipse.cdt.core.tests\parser\org\eclipse\cdt\core\parser\tests\ASTComparer.java,core\org.eclipse.cdt.core.tests\parser\org\eclipse\cdt\core\parser\tests\ast2\AST2CSpecTest.java,core\org.eclipse.cdt.core.tests\suite\org\eclipse\cdt\core\testplugin\CTestPlugin.java,core\org.eclipse.cdt.core.tests\suite\org\eclipse\cdt\core\testplugin\ResourceHelper.java,core\org.eclipse.cdt.core.tests\suite\org\eclipse\cdt\core\testplugin\TestScannerProvider.java,core\org.eclipse.cdt.core.tests\suite\org\eclipse\cdt\core\testplugin\util\BaseTestCase.java,core\org.eclipse.cdt.core.tests\suite\org\eclipse\cdt\core\testplugin\util\TestSourceReader.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\core\dom\ast\ASTGenericVisitor.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\core\dom\parser\c\GCCScannerExtensionConfiguration.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\core\parser\FileContent.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\internal\core\dom\parser\cpp\CPPASTFunctionDeclarator.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\internal\core\parser\scanner\LocationCtxContainer.java

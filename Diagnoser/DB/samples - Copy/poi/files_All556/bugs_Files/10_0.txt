@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7
+Bugged
+0,1
+BugsIds
+-1,53904,54696,53475,55768,54407,49940
+TestsCount
+11
+pack
+"['src\\testcases\\org\\apache', 'src\\ooxml\\java\\org\\apache\\poi', 'src\\ooxml\\java\\org\\apache', 'src\\ooxml\\testcases\\org\\apache\\poi\\xssf\\model', 'src\\scratchpad\\src\\org\\apache\\poi\\hslf\\blip']"
+testsChoosedNames
+Trace_org.apache.poi.xssf.util.TestNumericRanges@testGetOverlappingType_1439126353721,Trace_org.apache.poi.hwpf.usermodel.TestProblems@testTableCellLastParagraph_1439121824028,Trace_org.apache.poi.hwpf.usermodel.TestBugs@test46220_1439121772904,Trace_org.apache.poi.TestEmbeded@testPowerPoint_1439121928824,Trace_org.apache.poi.xssf.usermodel.TestXSSFWorkbook@testLoadSave_1439126274833,Trace_org.apache.poi.hslf.usermodel.TestRecordSetup@testHandleParentAwareRecords_1439118566286,Trace_org.apache.poi.xssf.usermodel.extensions.TestXSSFCellFill@testGetFillForegroundColor_1439126349511,Trace_org.apache.poi.ss.usermodel.BaseTestWorkbook@testSetSheetName_1439126339885,Trace_org.apache.poi.ss.usermodel.BaseTestCell@testChangeTypeErrorToBoolean_1439125887002,Trace_org.apache.poi.hslf.model.TestMovieShape@testCreate_1439118535523,Trace_org.apache.poi.openxml4j.opc.compliance.TestOPCCompliancePartName@testEmptyPartNameFailure_1439122049678
+FileNames
+src\ooxml\java\org\apache\poi\openxml4j\opc\PackageRelationshipCollection.java,src\ooxml\java\org\apache\poi\xssf\model\StylesTable.java,src\java\org\apache\poi\util\POILogFactory.java,src\ooxml\java\org\apache\poi\openxml4j\opc\PackagePartName.java,src\ooxml\java\org\apache\poi\xslf\XSLFSlideShow.java,src\ooxml\java\org\apache\poi\xssf\usermodel\extensions\XSSFCellFill.java,src\ooxml\java\org\apache\poi\xssf\util\NumericRanges.java,src\testcases\org\apache\poi\POIDataSamples.java

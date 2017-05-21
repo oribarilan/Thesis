@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11,12,13
+Bugged
+0,1,2
+BugsIds
+-1,55248,54111,53784,52211,54084,53500
+TestsCount
+20
+pack
+"['src\\java\\org\\apache\\poi\\ss\\util', 'src\\ooxml\\java\\org\\apache\\poi\\openxml4j\\opc\\internal', 'src\\testcases\\org\\apache\\poi\\hssf', 'src\\ooxml\\testcases\\org', 'src\\scratchpad\\testcases']"
+testsChoosedNames
+Trace_org.apache.poi.hslf.model.TestBackground@testDefaults_1439118534018,Trace_org.apache.poi.hslf.usermodel.TestReOrderingSlides@testReOrder1_1439118566060,Trace_org.apache.poi.hslf.usermodel.TestAddingSlides@testAddSlideToExisting2_1439118552504,Trace_org.apache.poi.ss.usermodel.BaseTestConditionalFormatting@testShiftRows_1439125920230,Trace_org.apache.poi.hwpf.usermodel.TestRangeProperties@testUnicodeParagraphDefinitions_1439121826347,Trace_org.apache.poi.hsmf.TestFixedSizedProperties@testReadMessageDateSucceedsWithHSMFDump_1439118598982,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439118811495,Trace_org.apache.poi.hslf.record.TestStyleTextPropAtom@test45815_1439118551339,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439119540587,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439119540460,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439119596569,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testHtml_1439121494502,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439118827504,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testText_1439121326313,Trace_org.apache.poi.hssf.usermodel.TestHSSFChart@testExistingSheet3_1439121225902,Trace_org.apache.poi.hpbf.extractor.TestPublisherTextExtractor@testBasics_1439118519273,Trace_org.apache.poi.xssf.usermodel.TestXSSFFont@testTypeOffset_1439125970128,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testFo_1439121627535,Trace_org.apache.poi.xssf.util.TestCTColComparator@testArraysSort_1439126353668,Trace_org.apache.poi.hmef.TestCompressedRTF@testFull_1439118518086,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439121199762
+FileNames
+src\java\org\apache\poi\hssf\usermodel\HSSFSheet.java,src\java\org\apache\poi\ss\util\CellRangeAddress.java,src\scratchpad\src\org\apache\poi\hsmf\datatypes\Chunks.java,src\java\org\apache\poi\POIDocument.java,src\java\org\apache\poi\hpsf\SummaryInformation.java,src\java\org\apache\poi\hpsf\Variant.java,src\java\org\apache\poi\poifs\filesystem\DocumentInputStream.java,src\java\org\apache\poi\poifs\storage\DocumentBlock.java,src\java\org\apache\poi\ss\usermodel\FontFamily.java,src\java\org\apache\poi\util\StringUtil.java,src\ooxml\java\org\apache\poi\xssf\usermodel\XSSFFont.java,src\scratchpad\src\org\apache\poi\hwpf\converter\AbstractWordUtils.java,src\scratchpad\src\org\apache\poi\hwpf\converter\HtmlDocumentFacade.java,src\testcases\org\apache\poi\POIDataSamples.java

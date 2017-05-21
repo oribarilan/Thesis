@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+Bugged
+0,1,2,3,4
+BugsIds
+-1,51086,50716,51668,0,50513,52096
+TestsCount
+11
+pack
+"['main\\org\\apache\\tools\\ant\\taskdefs', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional\\depend\\constantpool', 'main\\org\\apache\\tools\\ant', 'main\\org\\apache\\tools\\ant\\types']"
+testsChoosedNames
+Trace_org.apache.tools.ant.taskdefs.SignJarTest@testSignUnnormalizedJar_1438961434836,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438962326277,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961518263,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961733878,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961299725,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961760442,Trace_org.apache.tools.ant.taskdefs.AntlibTest@testAntlib_uri_auto_1438960425623,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438960981368,Trace_org.apache.tools.ant.taskdefs.StyleTest@testDefaultMapper_1438961458640,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961783256,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961249978
+FileNames
+src\main\org\apache\tools\ant\AntTypeDefinition.java$getTypeClass,src\main\org\apache\tools\ant\ComponentHelper.java$getComponentClass,src\main\org\apache\tools\ant\DirectoryScanner.java$checkIncludePatterns,src\main\org\apache\tools\ant\taskdefs\Definer.java$loadAntlib,src\main\org\apache\tools\ant\taskdefs\ImportTask.java$execute,src\main\org\apache\tools\ant\AntClassLoader.java$findBaseClass,src\main\org\apache\tools\ant\AntTypeDefinition.java$getExposedClass,src\main\org\apache\tools\ant\PathTokenizer.java$hasMoreTokens,src\main\org\apache\tools\ant\Project.java$getBaseDir,src\main\org\apache\tools\ant\Project.java$getProject,src\main\org\apache\tools\ant\taskdefs\condition\Os.java$isFamily,src\main\org\apache\tools\ant\taskdefs\optional\junit\JUnitTestRunner.java$access$000,src\main\org\apache\tools\ant\taskdefs\optional\junit\JUnitTestRunner.java$startTest,src\main\org\apache\tools\ant\taskdefs\optional\junit\XMLJUnitResultFormatter.java$startTest,src\main\org\apache\tools\ant\util\FileUtils.java$close,src\main\org\apache\tools\ant\util\FileUtils.java$dissect,src\main\org\apache\tools\ant\util\FileUtils.java$getFileTimestampGranularity,src\main\org\apache\tools\ant\util\regexp\Jdk14RegexpMatcher.java$getCompiledPattern,src\tests\junit\org\apache\tools\ant\taskdefs\ManifestTest.java$setUp

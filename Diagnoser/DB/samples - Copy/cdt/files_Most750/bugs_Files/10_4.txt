@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11,12
+Bugged
+0,1
+BugsIds
+-1,407480,407807,409056,401140,402085,409078
+TestsCount
+11
+pack
+"['org.eclipse.cdt.core.tests\\misc\\org\\eclipse\\cdt\\core\\internal\\errorparsers\\tests', 'org.eclipse.cdt.core\\model\\org\\eclipse\\cdt\\internal\\core\\model', 'org.eclipse.cdt.core\\parser\\org\\eclipse\\cdt\\internal\\core\\dom\\parser\\c', 'org.eclipse.cdt.core\\model\\org\\eclipse\\cdt\\internal\\core\\settings\\model', 'org.eclipse.cdt.core\\parser\\org\\eclipse\\cdt\\internal\\core\\dom\\parser\\cpp']"
+testsChoosedNames
+Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2TemplateTests@testBug99254_3_1439132686661,Trace_org.eclipse.cdt.core.parser.tests.ast2.CompleteParser2Tests@testBug43679_B_1439132787044,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2TemplateTests@testNestedFuncTemplatedDeclarator_bug190241_1439132710555,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2Tests@testSyntaxWithNL_280175_1439201267614,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2TemplateTests@testForwardDeclarations_264109_1439132721686,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2CPPSpecTest@test14_6_2s4_1439132852218,Trace_org.eclipse.cdt.core.parser.tests.ast2.CompleteParser2Tests@testBug57800_1439132789929,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2CPPSpecTest@test7_1s3_1439132833712,Trace_org.eclipse.cdt.core.parser.tests.ast2.ASTInactiveCodeTests@testBranches_1439132893116,Trace_org.eclipse.cdt.core.parser.tests.ast2.ASTNodeSelectorTest@testContainedNode_1439132818244,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2CPPTests@testBug178059_1439132613503
+FileNames
+core\org.eclipse.cdt.core.tests\parser\org\eclipse\cdt\core\parser\tests\ast2\AST2TemplateTests.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\internal\core\dom\parser\cpp\semantics\CPPSemantics.java,core\org.eclipse.cdt.core.tests\parser\org\eclipse\cdt\core\parser\tests\ASTComparer.java,core\org.eclipse.cdt.core.tests\parser\org\eclipse\cdt\core\parser\tests\ast2\CompleteParser2Tests.java,core\org.eclipse.cdt.core.tests\suite\org\eclipse\cdt\core\testplugin\CTestPlugin.java,core\org.eclipse.cdt.core.tests\suite\org\eclipse\cdt\core\testplugin\util\TestSourceReader.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\core\dom\ast\ASTVisitor.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\core\parser\util\CollectionUtils.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\internal\core\dom\parser\ASTNodeSelector.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\internal\core\dom\parser\BacktrackException.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\internal\core\dom\parser\cpp\CPPASTAmbiguityResolver.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\internal\core\dom\parser\cpp\CPPASTDeclarator.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\internal\core\parser\scanner\ExpressionEvaluator.java

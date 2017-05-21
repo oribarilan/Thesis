@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6
+Bugged
+0,1
+BugsIds
+-1,2829,3151,2924,3412,2828,3002
+TestsCount
+6
+pack
+"['src\\main\\java\\com\\orientechnologies\\common\\util', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\index\\hashindex\\local\\cache', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\serialization\\serializer\\record', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\type\\tree', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\db\\tool']"
+testsChoosedNames
+Trace_com.orientechnologies.orient.core.record.impl.ODocumentSchemalessBinarySerializationTest@testEmbeddedListOfEmbeddedMap_1438529234311,Trace_com.orientechnologies.orient.core.sql.parser.OCreateEdgeStatementTest@testRetrySet_1438529217896,Trace_com.orientechnologies.orient.core.metadata.schema.AlterPropertyTest@testPropertyRenaming_1438529476131,Trace_com.orientechnologies.orient.core.sql.parser.OCreateEdgeStatementTest@testRetry_1438529217876,Trace_com.orientechnologies.orient.core.index.sbtree.local.SBTreeCompositeKeyTest@testIterateValuesMajorInclusive_1438528524350,Trace_com.orientechnologies.orient.core.index.hashindex.local.cache.LRUListTest@testAddTwo_1438528392192
+FileNames
+core\src\main\java\com\orientechnologies\orient\core\index\hashindex\local\cache\OWOWCache.java,core\src\main\java\com\orientechnologies\orient\core\serialization\serializer\record\binary\ORecordSerializerBinaryV0.java,core\src\main\java\com\orientechnologies\orient\core\db\ODatabaseRecordThreadLocal.java,core\src\main\java\com\orientechnologies\orient\core\db\record\OMultiValueChangeEvent.java,core\src\main\java\com\orientechnologies\orient\core\metadata\schema\OSchemaShared.java,core\src\main\java\com\orientechnologies\orient\core\record\ORecordAbstract.java,core\src\main\java\com\orientechnologies\orient\core\serialization\serializer\record\binary\BytesContainer.java

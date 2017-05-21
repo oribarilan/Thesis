@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11
+Bugged
+0,1
+BugsIds
+-1,409100,401024,401743,402085,408314,405638
+TestsCount
+8
+pack
+"['org.eclipse.cdt.core.tests\\parser\\org\\eclipse\\cdt\\core\\parser\\tests', 'org.eclipse.cdt.core\\parser\\org\\eclipse\\cdt\\internal\\core\\pdom\\dom\\c', 'org.eclipse.cdt.core\\model\\org\\eclipse\\cdt\\internal\\core\\settings\\model', 'org.eclipse.cdt.core\\model\\org\\eclipse\\cdt\\internal\\core\\model', 'org.eclipse.cdt.core.tests\\parser\\org\\eclipse\\cdt\\internal\\index\\tests']"
+testsChoosedNames
+Trace_org.eclipse.cdt.core.internal.errorparsers.tests.GLDErrorParserTests@testLinkerMessages_PrecedingPath_bug314253_1439200873794,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2CPPTests@testBug86543_1439132605844,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2TemplateTests@testSpecializationViaNotDirectlyEnclosingTemplate_Bug333186_1439132756606,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2CPPTests@testIsBaseOf_399353_1439132642716,Trace_org.eclipse.cdt.core.parser.tests.ast2.CompleteParser2Tests@testBug74180_1439132784785,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2Tests@testNestedDeclarator_257540_1439132175861,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2Tests@testNestedDeclarator_257540_1439201267759,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2CPPTests@testBug96655_1439132611814
+FileNames
+core\org.eclipse.cdt.core.tests\parser\org\eclipse\cdt\core\parser\tests\ast2\AST2CPPTests.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\internal\core\dom\parser\cpp\semantics\CPPSemantics.java,core\org.eclipse.cdt.core.tests\parser\org\eclipse\cdt\core\parser\tests\ast2\AST2CPPSpecTest.java,core\org.eclipse.cdt.core.tests\parser\org\eclipse\cdt\core\parser\tests\ast2\AST2TestBase.java,core\org.eclipse.cdt.core.tests\suite\org\eclipse\cdt\core\testplugin\CTestPlugin.java,core\org.eclipse.cdt.core.tests\suite\org\eclipse\cdt\core\testplugin\TestScannerProvider.java,core\org.eclipse.cdt.core.tests\suite\org\eclipse\cdt\core\testplugin\util\TestSourceReader.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\core\dom\parser\AbstractScannerExtensionConfiguration.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\core\dom\parser\cpp\GPPScannerExtensionConfiguration.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\core\parser\util\CharArrayObjectMap.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\internal\core\dom\parser\ASTAmbiguousNode.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\internal\core\dom\parser\BacktrackException.java

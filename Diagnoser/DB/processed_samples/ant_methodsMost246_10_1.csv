@@ -1,0 +1,11 @@
+{"ground_truth": "[0, 1]", "components": "[0, 1]"}
+{"algo": "DIFG_check_10_uniform_1.csv.csv", "param": "none", "instance_name": "ant_methodsMost246_10_1", "diagnosis": [["[0, 1]", "1.0"]]}
+{"algo": "DIFG_check_10_usingb_00_1.csv", "param": "00", "instance_name": "ant_methodsMost246_10_1", "diagnosis": [["[0, 1]", "1.0"]]}
+{"algo": "DIFG_check_10_usingb_05_1.csv", "param": "05", "instance_name": "ant_methodsMost246_10_1", "diagnosis": [["[0, 1]", "1.0"]]}
+{"algo": "DIFG_check_10_usingb_10_1.csv", "param": "10", "instance_name": "ant_methodsMost246_10_1", "diagnosis": [["[0, 1]", "1.0"]]}
+{"algo": "DIFG_check_10_usingb_15_1.csv", "param": "15", "instance_name": "ant_methodsMost246_10_1", "diagnosis": [["[0, 1]", "1.0"]]}
+{"algo": "DIFG_check_10_usingb_20_1.csv", "param": "20", "instance_name": "ant_methodsMost246_10_1", "diagnosis": [["[0, 1]", "1.0"]]}
+{"algo": "DIFG_check_10_usingb_30_1.csv", "param": "30", "instance_name": "ant_methodsMost246_10_1", "diagnosis": [["[0, 1]", "1.0"]]}
+{"algo": "DIFG_check_10_usingb_40_1.csv", "param": "40", "instance_name": "ant_methodsMost246_10_1", "diagnosis": [["[0, 1]", "1.0"]]}
+{"algo": "DIFG_check_10_usingb_50_1.csv", "param": "50", "instance_name": "ant_methodsMost246_10_1", "diagnosis": [["[0, 1]", "1.0"]]}
+{"algo": "DIFG_check_10_weka_randomForest1.csv.csv", "param": "none", "instance_name": "ant_methodsMost246_10_1", "diagnosis": [["[0, 1]", "1.0"]]}

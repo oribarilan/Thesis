@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
+Bugged
+0,1
+BugsIds
+-1,2683,3426,3116,3186,3517,100
+TestsCount
+10
+pack
+"['src\\main\\java\\com\\orientechnologies\\orient\\core\\tx', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\config', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\db\\record\\ridbag\\sbtree', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\command', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\storage\\impl\\local']"
+testsChoosedNames
+Trace_com.orientechnologies.orient.core.ridbag.ConcurrencySBTreeBonsaiLocalTest@testName_1438529989401,Trace_com.orientechnologies.orient.core.storage.fs.FileClassicTest@testSoftlyClosedFailed_1438532673902,Trace_com.orientechnologies.orient.core.db.record.TrackedListTest@testRemoveIndexThree_1438532719622,Trace_com.orientechnologies.orient.core.metadata.ClassTest@testShortNameSnapshot_1438529453471,Trace_com.orientechnologies.orient.core.index.hashindex.local.cache.LRUListTest@testAddTwo_1438528392192,Trace_com.orientechnologies.orient.core.index.hashindex.local.cache.ReadWriteDiskCacheTest@testFrequentlyReadItemsAreMovedInAm_1438527579888,Trace_com.orientechnologies.orient.core.ridbag.OEmbeddedRidBagTest@testExceptionInCaseOfNull_1438530136435,Trace_com.orientechnologies.orient.core.sql.OCommandExecutorSQLSelectTest@testUnwind_1438528445585,Trace_com.orientechnologies.orient.core.index.OPropertyRidBagAbstractIndexDefinitionTest@testCreateValueWrongParameterArrayParams_1438528836065,Trace_com.orientechnologies.orient.core.index.OPropertyRidBagAbstractIndexDefinitionTest@testCreateValueSingleParameterArrayParams_1438527576689
+FileNames
+core\src\main\java\com\orientechnologies\orient\core\command\OBasicCommandContext.java,core\src\main\java\com\orientechnologies\orient\core\config\OGlobalConfiguration.java,core\src\main\java\com\orientechnologies\common\concur\lock\ODistributedCounter.java,core\src\main\java\com\orientechnologies\common\serialization\types\OBinaryTypeSerializer.java,core\src\main\java\com\orientechnologies\common\serialization\types\OIntegerSerializer.java,core\src\main\java\com\orientechnologies\common\util\OMultiKey.java,core\src\main\java\com\orientechnologies\orient\core\db\ODatabaseRecordThreadLocal.java,core\src\main\java\com\orientechnologies\orient\core\db\document\ODatabaseDocumentTx.java,core\src\main\java\com\orientechnologies\orient\core\db\record\OTrackedList.java,core\src\main\java\com\orientechnologies\orient\core\index\hashindex\local\cache\OCachePointer.java,core\src\main\java\com\orientechnologies\orient\core\metadata\schema\OSchemaShared.java,core\src\main\java\com\orientechnologies\orient\core\metadata\schema\OType.java,core\src\main\java\com\orientechnologies\orient\core\record\ORecordInternal.java,core\src\main\java\com\orientechnologies\orient\core\record\impl\ODocumentInternal.java,core\src\main\java\com\orientechnologies\orient\core\sql\parser\JJTOrientSqlState.java

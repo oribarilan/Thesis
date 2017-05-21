@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+Bugged
+0,1,2
+BugsIds
+-1,55347,52400,53515,52233,54524,54188
+TestsCount
+14
+pack
+"['src\\ooxml\\testcases\\org\\apache\\poi\\xwpf\\extractor', 'src\\scratchpad\\testcases\\org\\apache\\poi\\hsmf', 'src\\scratchpad\\src\\org\\apache\\poi\\hsmf\\datatypes', 'src\\ooxml', 'src\\scratchpad\\src\\org']"
+testsChoosedNames
+Trace_org.apache.poi.hslf.record.TestDocumentAtom@testBooleans_1439118550193,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439121133364,Trace_org.apache.poi.hmef.TestCompressedRTF@testFirstTwoBlocks_1439118517966,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439118678226,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439119756651,Trace_org.apache.poi.ss.usermodel.BaseTestSheet@test35084_1439125088309,Trace_org.apache.poi.xssf.usermodel.TestXSSFSheet@test49966_1439126239140,Trace_org.apache.poi.xssf.TestSheetProtection@testWriteSort_1439124791111,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439121021259,Trace_org.apache.poi.openxml4j.opc.compliance.TestOPCCompliancePartName@testPartNameWithUnreservedEncodedCharactersFailure_1439122049690,Trace_org.apache.poi.xwpf.TestDocumentProtection@testShouldEnforceForTrackedChanges_1439126363128,Trace_org.apache.poi.hslf.record.TestCString@testRecordType_1439118549772,Trace_org.apache.poi.xssf.usermodel.TestXSSFWorkbook@testChangeSheetNameWithSharedFormulas_1439126267545,Trace_org.apache.poi.ss.usermodel.BaseTestSheetHiding@testHideUnHideFlags_1439125322712
+FileNames
+src\ooxml\java\org\apache\poi\xssf\usermodel\XSSFSheet.java$initRows,src\ooxml\java\org\apache\poi\xssf\usermodel\XSSFSheet.java$read,src\scratchpad\src\org\apache\poi\hmef\HMEFMessage.java$process,src\java\org\apache\poi\ss\util\CellReference.java$getCol,src\java\org\apache\poi\util\LittleEndian.java$readInt,src\java\org\apache\poi\util\StringUtil.java$getFromCompressedUnicode,src\ooxml\java\org\apache\poi\POIXMLDocumentPart.java$incrementRelationCounter,src\ooxml\java\org\apache\poi\POIXMLDocumentPart.java$read,src\ooxml\java\org\apache\poi\POIXMLRelation.java$getContentType,src\ooxml\java\org\apache\poi\POIXMLRelation.java$getFileName,src\ooxml\java\org\apache\poi\openxml4j\opc\OPCPackage.java$containPart,src\ooxml\java\org\apache\poi\openxml4j\opc\PackagePart.java$getContentType,src\ooxml\java\org\apache\poi\openxml4j\opc\PackagePart.java$getOutputStream,src\ooxml\java\org\apache\poi\openxml4j\opc\PackagePartName.java$checkPCharCompliance,src\testcases\org\apache\poi\POIDataSamples.java$getFile,src\testcases\org\apache\poi\POIDataSamples.java$openResourceAsStream

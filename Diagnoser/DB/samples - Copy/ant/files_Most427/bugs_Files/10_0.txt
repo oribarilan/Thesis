@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11
+Bugged
+0,1
+BugsIds
+-1,50507,52554,50960,50576,48789,50578
+TestsCount
+10
+pack
+"['main\\org\\apache\\tools\\ant\\taskdefs\\optional\\junit', 'main\\org\\apache\\tools\\ant\\taskdefs', 'main\\org\\apache\\tools\\ant\\util', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional\\depend', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional\\depend\\constantpool']"
+testsChoosedNames
+Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961685727,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438960339138,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961287088,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961769018,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438960870852,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438960309487,Trace_org.apache.tools.ant.types.XMLCatalogTest@testResolverBase_1438962251211,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961151614,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438962306116,Trace_org.apache.tools.ant.taskdefs.JavadocTest@testDirsetPath_1438961226341
+FileNames
+src\main\org\apache\tools\ant\taskdefs\PumpStreamHandler.java,src\main\org\apache\tools\ant\util\LineOrientedOutputStream.java,src\main\org\apache\tools\ant\AntTypeDefinition.java,src\main\org\apache\tools\ant\DirectoryScanner.java,src\main\org\apache\tools\ant\IntrospectionHelper.java,src\main\org\apache\tools\ant\types\Commandline.java,src\main\org\apache\tools\ant\types\Path.java,src\main\org\apache\tools\ant\types\resources\BaseResourceCollectionContainer.java,src\main\org\apache\tools\ant\types\resources\FailFast.java,src\main\org\apache\tools\ant\types\resources\FileResource.java,src\main\org\apache\tools\ant\util\CollectionUtils.java,src\main\org\apache\tools\ant\util\VectorSet.java

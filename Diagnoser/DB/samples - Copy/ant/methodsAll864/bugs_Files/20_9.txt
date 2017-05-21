@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11,12,13
+Bugged
+0,1,2
+BugsIds
+-1,50515,50716,50716,50716,51044,51668
+TestsCount
+6
+pack
+"['main\\org\\apache\\tools\\ant\\types', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional\\junit', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional\\depend\\constantpool', 'main\\org\\apache\\tools\\ant\\taskdefs\\cvslib', 'main\\org\\apache\\tools\\ant\\filters']"
+testsChoosedNames
+Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961523759,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961693443,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438960406249,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961519039,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961442332,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438962327806,Trace_org.apache.tools.ant.filters.TokenFilterTest@testStringTokenizer_1438960370844,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438960393769,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438960264287,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438960311224,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961830902,Trace_org.apache.tools.ant.taskdefs.ZipTest@test2_1438961585495
+FileNames
+src\main\org\apache\tools\ant\IntrospectionHelper.java$findMatchingMethod,src\main\org\apache\tools\ant\IntrospectionHelper.java$findRestrictedDefinition,src\main\org\apache\tools\ant\Target.java$execute,src\main\org\apache\tools\ant\AntTypeDefinition.java$getClassName,src\main\org\apache\tools\ant\AntTypeDefinition.java$getName,src\main\org\apache\tools\ant\PathTokenizer.java$hasMoreTokens,src\main\org\apache\tools\ant\Project.java$setName,src\main\org\apache\tools\ant\Target.java$addDependency,src\main\org\apache\tools\ant\Target.java$setDescription,src\main\org\apache\tools\ant\property\LocalProperties.java$setNew,src\main\org\apache\tools\ant\taskdefs\Property.java$setLocation,src\main\org\apache\tools\ant\taskdefs\condition\Os.java$isFamily,src\main\org\apache\tools\zip\ZipFile.java$finalize,src\tests\junit\org\apache\tools\ant\taskdefs\optional\XmlValidateTest.java$setUp

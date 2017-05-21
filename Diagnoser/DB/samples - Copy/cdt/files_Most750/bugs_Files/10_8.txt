@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8
+Bugged
+0,1
+BugsIds
+-1,405638,396134,407808,409107,408296,401093
+TestsCount
+11
+pack
+"['org.eclipse.cdt.core\\model\\org\\eclipse\\cdt\\internal\\core\\settings\\model', 'org.eclipse.cdt.managedbuilder.core\\src\\org\\eclipse\\cdt\\managedbuilder\\core', 'org.eclipse.cdt.managedbuilder.core\\src\\org\\eclipse\\cdt\\managedbuilder\\language\\settings\\providers', 'org.eclipse.cdt.core\\src\\org\\eclipse\\cdt\\internal\\core\\envvar', 'org.eclipse.cdt.core\\parser\\org\\eclipse\\cdt\\internal\\core\\dom\\parser\\cpp']"
+testsChoosedNames
+Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2CPPSpecTest@test12_5s6_1439132845077,Trace_org.eclipse.cdt.core.internal.tests.ResourceLookupTests@testFindFilesByLocation_1439133785786,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2Tests@testFunctionReturningPtrToArray_216609_1439132337086,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2CPPSpecTest@test14_4s1b_1439132849648,Trace_org.eclipse.cdt.core.internal.errorparsers.tests.RegexErrorParserTests@testSerializeRegexErrorParserSpecialCharacters_1439200936396,Trace_org.eclipse.cdt.core.internal.errorparsers.tests.ErrorParserFileMatchingTest@testRelativePathUpDuplicate_1439200890138,Trace_org.eclipse.cdt.core.parser.tests.ast2.QuickParser2Tests@testBug39537_1439132782613,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2CPPSpecTest@test14_5_4s6_1439132850553,Trace_org.eclipse.cdt.core.model.tests.TranslationUnitTests@testBug23478B_1439133272244,Trace_org.eclipse.cdt.core.cdescriptor.tests.CDescriptorOldTests@testProjectStorageDelete_1439131790965,Trace_org.eclipse.cdt.core.parser.tests.ast2.CompleteParser2Tests@testNestedNamespaceExpression_1439132786104
+FileNames
+core\org.eclipse.cdt.core\parser\org\eclipse\cdt\internal\core\dom\parser\cpp\CPPBasicType.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\internal\core\dom\parser\cpp\semantics\CPPVisitor.java,core\org.eclipse.cdt.core.tests\parser\org\eclipse\cdt\core\parser\tests\ASTComparer.java,core\org.eclipse.cdt.core.tests\parser\org\eclipse\cdt\core\parser\tests\ast2\AST2TestBase.java,core\org.eclipse.cdt.core.tests\suite\org\eclipse\cdt\core\testplugin\CTestPlugin.java,core\org.eclipse.cdt.core.tests\suite\org\eclipse\cdt\core\testplugin\TestScannerProvider.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\core\parser\util\ArrayUtil.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\internal\core\dom\parser\cpp\CPPASTNameBase.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\internal\core\pdom\JobChangeListener.java

@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6
+Bugged
+0,1
+BugsIds
+-1,403418,355488,400020,400747,401479,403670
+TestsCount
+11
+pack
+"['org.eclipse.cdt.core\\parser\\org\\eclipse\\cdt\\internal\\core\\pdom\\dom\\c', 'org.eclipse.cdt.managedbuilder.core\\src\\org\\eclipse\\cdt\\managedbuilder\\core', 'org.eclipse.cdt.core\\src\\org\\eclipse\\cdt\\internal\\core', 'org.eclipse.cdt.core\\src\\org\\eclipse\\cdt\\core', 'org.eclipse.cdt.core\\parser\\org\\eclipse\\cdt\\internal\\core\\pdom\\db']"
+testsChoosedNames
+Trace_org.eclipse.cdt.core.envvar.IEnvironmentVariableManagerTests@testGetSetAppend_1439200857039,Trace_org.eclipse.cdt.core.internal.errorparsers.tests.ErrorParserFileMatchingTest@testSingle_1439131824038,Trace_org.eclipse.cdt.core.language.settings.providers.LanguageSettingsListenersTests@testListenerRegisterer_GlobalProviderAddRemoveOutsideTheProject_1439133463563,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2CPPTests@testTypedefConstructorCall_1439132620293,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2Tests@testSizeofFunctionType_252243_1439201268491,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2CPPTests@testTypeString_323596_1439132638593,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2UtilOldTests@testPrimaryBooleanLiteral_1439132811287,Trace_org.eclipse.cdt.core.parser.tests.scanner.PortedScannerTests@testWackyFunctionMacros_1439131924376,Trace_org.eclipse.cdt.core.parser.tests.scanner.PortedScannerTests@testBug36770B_1439131921271,Trace_org.eclipse.cdt.core.settings.model.ProjectCreationStateTests@testCreateProjectDescriptionForInexistingDes_1439133425935,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2Tests@testBug222418_f_1439132166919
+FileNames
+core\org.eclipse.cdt.core\parser\org\eclipse\cdt\internal\core\pdom\PDOM.java,core\org.eclipse.cdt.core\src\org\eclipse\cdt\internal\core\envvar\UserDefinedEnvironmentSupplier.java,core\org.eclipse.cdt.core.tests\misc\org\eclipse\cdt\core\internal\errorparsers\tests\ErrorParserFileMatchingTest.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\internal\core\pdom\JobChangeListener.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\internal\core\pdom\db\Chunk.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\internal\core\pdom\db\ChunkCache.java,core\org.eclipse.cdt.core\src\org\eclipse\cdt\core\EFSExtensionProvider.java

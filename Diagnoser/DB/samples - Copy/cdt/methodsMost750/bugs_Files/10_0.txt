@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7
+Bugged
+0
+BugsIds
+-1,409697,403670,402177,290631,389009
+TestsCount
+7
+pack
+"['org.eclipse.cdt.core\\model\\org\\eclipse\\cdt\\core\\language\\settings\\providers', 'org.eclipse.cdt.core.tests\\parser\\org\\eclipse\\cdt\\internal\\pdom\\tests', 'org.eclipse.cdt.core\\parser\\org\\eclipse\\cdt\\internal\\core\\pdom\\dom', 'org.eclipse.cdt.core.tests\\misc\\org\\eclipse\\cdt\\core\\internal\\errorparsers\\tests', 'org.eclipse.cdt.managedbuilder.core\\src\\org\\eclipse\\cdt\\managedbuilder\\core']"
+testsChoosedNames
+Trace_org.eclipse.cdt.core.language.settings.providers.LanguageSettingsSerializableProviderTests@testLanguageScopeDOM_1439133458281,Trace_org.eclipse.cdt.core.internal.errorparsers.tests.ErrorParserFileMatchingTest@testUppercase3ResolveCase_1439200892191,Trace_org.eclipse.cdt.core.model.tests.CModelTests@testHasNature_1439133221186,Trace_org.eclipse.cdt.core.parser.tests.ast2.DOMSelectionParseTest@testBug43128B_1439132870062,Trace_org.eclipse.cdt.core.parser.tests.scanner.InclusionTests@testIncludePathOrdering_1439201031246,Trace_org.eclipse.cdt.core.language.settings.providers.LanguageSettingsListenersTests@testNotification_globalProvider_AddEmptyProvider_1439133466591,Trace_org.eclipse.cdt.core.model.tests.CModelExceptionTest@testElementExists_1439133248042,Trace_org.eclipse.cdt.core.parser.tests.ast2.DOMSelectionParseTest@testBug86993_1439132878623,Trace_org.eclipse.cdt.core.cdescriptor.tests.CDescriptorOldTests@testDeadlockDuringProjectCreation_1439131789089
+FileNames
+core\org.eclipse.cdt.core.tests\model\org\eclipse\cdt\core\language\settings\providers\LanguageSettingsSerializableProviderTests.java$testProvider_RegularDOM,core\org.eclipse.cdt.core.tests\model\org\eclipse\cdt\core\language\settings\providers\LanguageSettingsSerializableProviderTests.java$setUp,core\org.eclipse.cdt.core.tests\suite\org\eclipse\cdt\core\testplugin\ResourceHelper.java$cleanUp,core\org.eclipse.cdt.core.tests\suite\org\eclipse\cdt\core\testplugin\TestScannerProvider.java$clear,core\org.eclipse.cdt.core.tests\suite\org\eclipse\cdt\core\testplugin\util\BaseTestCase.java$setUp,core\org.eclipse.cdt.core\model\org\eclipse\cdt\core\language\settings\providers\LanguageSettingsSerializableProvider.java$getSettingEntries,core\org.eclipse.cdt.core\model\org\eclipse\cdt\core\language\settings\providers\LanguageSettingsStorage.java$getPooledList,core\org.eclipse.cdt.core\model\org\eclipse\cdt\core\settings\model\util\LanguageSettingEntriesSerializer.java$composeFlags

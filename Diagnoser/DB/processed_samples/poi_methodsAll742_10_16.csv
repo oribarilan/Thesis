@@ -1,0 +1,11 @@
+{"ground_truth": "[0]", "components": "[0]"}
+{"algo": "DIFG_check_10_uniform_16.csv.csv", "param": "none", "instance_name": "poi_methodsAll742_10_16", "diagnosis": [["[0]", "1.0"]]}
+{"algo": "DIFG_check_10_usingb_00_16.csv", "param": "00", "instance_name": "poi_methodsAll742_10_16", "diagnosis": [["[0]", "1.0"]]}
+{"algo": "DIFG_check_10_usingb_05_16.csv", "param": "05", "instance_name": "poi_methodsAll742_10_16", "diagnosis": [["[0]", "1.0"]]}
+{"algo": "DIFG_check_10_usingb_10_16.csv", "param": "10", "instance_name": "poi_methodsAll742_10_16", "diagnosis": [["[0]", "1.0"]]}
+{"algo": "DIFG_check_10_usingb_15_16.csv", "param": "15", "instance_name": "poi_methodsAll742_10_16", "diagnosis": [["[0]", "1.0"]]}
+{"algo": "DIFG_check_10_usingb_20_16.csv", "param": "20", "instance_name": "poi_methodsAll742_10_16", "diagnosis": [["[0]", "1.0"]]}
+{"algo": "DIFG_check_10_usingb_30_16.csv", "param": "30", "instance_name": "poi_methodsAll742_10_16", "diagnosis": [["[0]", "1.0"]]}
+{"algo": "DIFG_check_10_usingb_40_16.csv", "param": "40", "instance_name": "poi_methodsAll742_10_16", "diagnosis": [["[0]", "1.0"]]}
+{"algo": "DIFG_check_10_usingb_50_16.csv", "param": "50", "instance_name": "poi_methodsAll742_10_16", "diagnosis": [["[0]", "1.0"]]}
+{"algo": "DIFG_check_10_weka_randomForest16.csv.csv", "param": "none", "instance_name": "poi_methodsAll742_10_16", "diagnosis": [["[0]", "1.0"]]}

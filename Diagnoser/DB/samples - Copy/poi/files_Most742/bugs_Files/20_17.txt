@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10
+Bugged
+0
+BugsIds
+-1,49529,47563,54084,55560,53369,53372
+TestsCount
+15
+pack
+"['src\\ooxml\\java\\org\\apache\\poi\\xssf\\extractor', 'src\\scratchpad\\testcases\\org\\apache', 'src\\scratchpad\\src\\org\\apache\\poi\\hdgf\\chunks', 'src\\java\\org\\apache\\poi\\ss\\format', 'src\\testcases\\org\\apache\\poi\\hssf']"
+testsChoosedNames
+Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testFo_1439121301319,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testFo_1439121507216,Trace_org.apache.poi.hslf.extractor.TestExtractor@testReadBoth_1439118533280,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testText_1439121417211,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439119756667,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testText_1439121586251,Trace_org.apache.poi.TestPOIDocumentScratchpad@testReadProperties2_1439118500304,Trace_org.apache.poi.hwpf.model.TestRevisionMarkAuthorTable@testSimpleDocument_1439121758407,Trace_org.apache.poi.hwpf.model.TestStyleSheet@testReadWriteFromNonZeroOffset_1439121759405,Trace_org.apache.poi.hsmf.TestSimpleFileRead@testReadDisplayBCC_1439118606264,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439121120485,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testText_1439121506736,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testFo_1439121535595,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439119662708,Trace_org.apache.poi.hslf.usermodel.TestReOrderingSlides@testReOrder1_1439118566060,Trace_org.apache.poi.hwpf.usermodel.TestBug50075@test_1439121765640,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testFo_1439121624348,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testText_1439121624681,Trace_org.apache.poi.hslf.model.TestTextRun@test48916_1439118548190,Trace_org.apache.poi.hwpf.usermodel.TestRange@testBug46817_1439121825281,Trace_org.apache.poi.hslf.model.TestShapes@testRemoveShapes_1439118540838
+FileNames
+src\java\org\apache\poi\hssf\model\InternalSheet.java,src\java\org\apache\poi\hpsf\SummaryInformation.java,src\java\org\apache\poi\hssf\record\ArrayRecord.java,src\java\org\apache\poi\hssf\record\BlankRecord.java,src\java\org\apache\poi\hssf\record\ExternalNameRecord.java,src\java\org\apache\poi\hssf\record\MulRKRecord.java,src\java\org\apache\poi\ss\SpreadsheetVersion.java,src\java\org\apache\poi\ss\util\CellReference.java,src\scratchpad\src\org\apache\poi\hwpf\converter\AbstractWordUtils.java,src\scratchpad\src\org\apache\poi\hwpf\converter\HtmlDocumentFacade.java,src\scratchpad\src\org\apache\poi\hwpf\converter\NumberFormatter.java

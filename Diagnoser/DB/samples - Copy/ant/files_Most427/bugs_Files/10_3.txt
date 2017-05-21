@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11
+Bugged
+0
+BugsIds
+-1,52382,50513,50716,50576,50888,50716
+TestsCount
+10
+pack
+"['main\\org\\apache\\tools\\ant\\filters', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional\\depend\\constantpool', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional\\junit', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional\\depend', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional']"
+testsChoosedNames
+Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961142073,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438960377197,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961133768,Trace_org.apache.tools.ant.filters.ConcatFilterTest@testConcatFilter_1438960335984,Trace_org.apache.tools.ant.taskdefs.LoadFileTest@testFilterChain_1438961250006,Trace_org.apache.tools.ant.taskdefs.optional.XmlValidateTest@testUtf8_1438961690754,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438962305005,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438962251542,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961022629,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961534835,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438960339138
+FileNames
+src\main\org\apache\tools\ant\taskdefs\optional\TraXLiaison.java,src\main\org\apache\tools\ant\DirectoryScanner.java,src\main\org\apache\tools\ant\Location.java,src\main\org\apache\tools\ant\ProjectHelperRepository.java,src\main\org\apache\tools\ant\filters\ExpandProperties.java,src\main\org\apache\tools\ant\filters\util\ChainReaderHelper.java,src\main\org\apache\tools\ant\taskdefs\Copy.java,src\main\org\apache\tools\ant\taskdefs\Delete.java,src\main\org\apache\tools\ant\taskdefs\Mkdir.java,src\main\org\apache\tools\ant\taskdefs\condition\Os.java,src\main\org\apache\tools\ant\types\resources\BaseResourceCollectionContainer.java,src\main\org\apache\tools\ant\types\resources\FailFast.java

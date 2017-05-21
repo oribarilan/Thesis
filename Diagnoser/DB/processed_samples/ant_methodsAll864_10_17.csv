@@ -1,0 +1,11 @@
+{"ground_truth": "[0, 1]", "components": "[0, 1, 2, 3, 4]"}
+{"algo": "DIFG_check_10_uniform_17.csv.csv", "param": "none", "instance_name": "ant_methodsAll864_10_17", "diagnosis": [["[1]", "0.7161803724184727"], ["[3]", "0.10610079503762328"], ["[2]", "0.10610079503762328"], ["[0, 4]", "0.07161803750628075"]]}
+{"algo": "DIFG_check_10_usingb_00_17.csv", "param": "00", "instance_name": "ant_methodsAll864_10_17", "diagnosis": [["[1]", "1.0"], ["[2]", "0.0"], ["[3]", "0.0"], ["[0, 4]", "0.0"]]}
+{"algo": "DIFG_check_10_usingb_05_17.csv", "param": "05", "instance_name": "ant_methodsAll864_10_17", "diagnosis": [["[1]", "0.94502617801"], ["[0, 4]", "0.0497382198953"], ["[2]", "0.00261780104712"], ["[3]", "0.00261780104712"]]}
+{"algo": "DIFG_check_10_usingb_10_17.csv", "param": "10", "instance_name": "ant_methodsAll864_10_17", "diagnosis": [["[1]", "0.880434782609"], ["[0, 4]", "0.0978260869565"], ["[2]", "0.0108695652174"], ["[3]", "0.0108695652174"]]}
+{"algo": "DIFG_check_10_usingb_15_17.csv", "param": "15", "instance_name": "ant_methodsAll864_10_17", "diagnosis": [["[1]", "0.807262569832"], ["[0, 4]", "0.142458100559"], ["[2]", "0.0251396648045"], ["[3]", "0.0251396648045"]]}
+{"algo": "DIFG_check_10_usingb_20_17.csv", "param": "20", "instance_name": "ant_methodsAll864_10_17", "diagnosis": [["[1]", "0.727272727273"], ["[0, 4]", "0.181818181818"], ["[2]", "0.0454545454545"], ["[3]", "0.0454545454545"]]}
+{"algo": "DIFG_check_10_usingb_30_17.csv", "param": "30", "instance_name": "ant_methodsAll864_10_17", "diagnosis": [["[1]", "0.556818181818"], ["[0, 4]", "0.238636363636"], ["[2]", "0.102272727273"], ["[3]", "0.102272727273"]]}
+{"algo": "DIFG_check_10_usingb_40_17.csv", "param": "40", "instance_name": "ant_methodsAll864_10_17", "diagnosis": [["[1]", "0.391304347826"], ["[0, 4]", "0.260869565217"], ["[2]", "0.173913043478"], ["[3]", "0.173913043478"]]}
+{"algo": "DIFG_check_10_usingb_50_17.csv", "param": "50", "instance_name": "ant_methodsAll864_10_17", "diagnosis": [["[1]", "0.25"], ["[2]", "0.25"], ["[3]", "0.25"], ["[0, 4]", "0.25"]]}
+{"algo": "DIFG_check_10_weka_randomForest17.csv.csv", "param": "none", "instance_name": "ant_methodsAll864_10_17", "diagnosis": [["[1]", "0.9872315160957551"], ["[0, 4]", "0.00987231519740885"], ["[3]", "0.0014480843534180952"], ["[2]", "0.0014480843534180952"]]}

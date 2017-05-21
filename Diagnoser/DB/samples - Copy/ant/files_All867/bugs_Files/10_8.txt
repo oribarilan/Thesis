@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4
+Bugged
+0,1,2
+BugsIds
+-1,50576,51086,50513,45786,50716,50716
+TestsCount
+4
+pack
+"['main\\org\\apache\\tools\\ant\\taskdefs\\email', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional', 'main\\org\\apache\\tools\\ant\\util', 'main\\org\\apache\\tools\\ant\\types', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional\\depend\\constantpool']"
+testsChoosedNames
+Trace_org.apache.tools.ant.taskdefs.optional.sos.SOSTest@testCheckoutFileFlags_1438961779419,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438962255070,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438962257043,Trace_org.apache.tools.ant.taskdefs.UntarTest@testEncoding_1438961537101
+FileNames
+src\main\org\apache\tools\ant\taskdefs\optional\junit\JUnitTestRunner.java,src\main\org\apache\tools\ant\types\Commandline.java,src\main\org\apache\tools\ant\util\FileUtils.java,src\main\org\apache\tools\ant\BuildEvent.java,src\main\org\apache\tools\ant\taskdefs\optional\junit\JUnitVersionHelper.java

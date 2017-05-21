@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
+Bugged
+0,1
+BugsIds
+-1,51668,50888,51668,50960,51947,50716
+TestsCount
+11
+pack
+"['main\\org\\apache\\tools\\ant\\types', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional\\depend', 'main\\org\\apache\\tools\\ant\\taskdefs', 'main\\org\\apache\\tools\\ant\\taskdefs\\condition', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional\\junit']"
+testsChoosedNames
+Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961232947,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961318841,Trace_org.apache.tools.ant.taskdefs.optional.junit.TestListenerWrapper@testAssumptionFailure_1438961783715,Trace_org.apache.tools.ant.taskdefs.GetTest@test5_1438961143355,Trace_org.apache.tools.ant.ProjectTest@testAddTaskDefinition_1438960316792,Trace_org.apache.tools.ant.taskdefs.optional.junit.TestListenerWrapper@testIgnored_1438960382623,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961499095,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961807080,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961651177,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961676891,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961372002
+FileNames
+src\main\org\apache\tools\ant\taskdefs\Javac.java,src\main\org\apache\tools\ant\taskdefs\PumpStreamHandler.java,src\main\org\apache\tools\ant\AntClassLoader.java,src\main\org\apache\tools\ant\BuildException.java,src\main\org\apache\tools\ant\DirectoryScanner.java,src\main\org\apache\tools\ant\IntrospectionHelper.java,src\main\org\apache\tools\ant\Location.java,src\main\org\apache\tools\ant\TaskAdapter.java,src\main\org\apache\tools\ant\filters\LineContainsRegExp.java,src\main\org\apache\tools\ant\taskdefs\LogOutputStream.java,src\main\org\apache\tools\ant\taskdefs\Mkdir.java,src\main\org\apache\tools\ant\types\resources\FailFast.java,src\main\org\apache\tools\ant\types\resources\FileResource.java,src\main\org\apache\tools\ant\util\SymbolicLinkUtils.java,src\main\org\apache\tools\zip\ExtraFieldUtils.java

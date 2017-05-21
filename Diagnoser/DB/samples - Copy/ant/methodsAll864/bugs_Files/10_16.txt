@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
+Bugged
+0,1,2
+BugsIds
+-1,50788,50716,50515,41986,51947,52096
+TestsCount
+11
+pack
+"['main\\org\\apache\\tools\\ant', 'main\\org\\apache\\tools\\ant\\taskdefs\\cvslib', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional\\depend\\constantpool', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional\\i18n', 'main\\org\\apache\\tools\\ant\\launch']"
+testsChoosedNames
+Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961433945,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438962309858,Trace_org.apache.tools.ant.taskdefs.optional.Native2AsciiTest@testIso8859_1_1438961668060,Trace_org.apache.tools.ant.taskdefs.optional.junit.TestListenerWrapper@testAssumptionFailure_1438962307080,Trace_org.apache.tools.ant.util.FileUtilsTest@testToURI_1438962306111,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961795545,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961277312,Trace_org.apache.tools.ant.util.LinkedHashtableTest@testPutAll_1438962308510,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438962320457,Trace_org.apache.tools.ant.taskdefs.condition.HttpTest@testHeadRequest_1438961615382,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438962305080
+FileNames
+src\main\org\apache\tools\ant\ComponentHelper.java$checkNamespace,src\main\org\apache\tools\ant\IntrospectionHelper.java$insertAddTypeMethod,src\main\org\apache\tools\ant\Target.java$execute,src\main\org\apache\tools\ant\AntClassLoader.java$access$000,src\main\org\apache\tools\ant\AntTypeDefinition.java$getName,src\main\org\apache\tools\ant\AntTypeDefinition.java$isRestrict,src\main\org\apache\tools\ant\BuildEvent.java$getMessage,src\main\org\apache\tools\ant\BuildEvent.java$setException,src\main\org\apache\tools\ant\Project.java$access$000,src\main\org\apache\tools\ant\Project.java$addBuildListener,src\main\org\apache\tools\ant\Project.java$addIdReference,src\main\org\apache\tools\ant\taskdefs\MatchingTask.java$setProject,src\main\org\apache\tools\ant\taskdefs\condition\Os.java$isFamily,src\main\org\apache\tools\ant\taskdefs\optional\junit\JUnitTestRunner.java$access$000,src\main\org\apache\tools\ant\util\FileUtils.java$toURI

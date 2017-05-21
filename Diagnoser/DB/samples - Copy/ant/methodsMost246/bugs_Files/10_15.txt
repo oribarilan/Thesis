@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
+Bugged
+0,1,2,3,4,5,6,7
+BugsIds
+-1,51035,50513,0,52382,51668,0
+TestsCount
+11
+pack
+"['main\\org\\apache\\tools\\ant\\taskdefs\\condition', 'main\\org\\apache\\tools\\ant\\util', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional\\junit', 'main\\org\\apache\\tools\\ant\\filters', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional']"
+testsChoosedNames
+Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438960390615,Trace_org.apache.tools.ant.taskdefs.GetTest@testUseTomorrow_1438961139396,Trace_org.apache.tools.ant.taskdefs.LoadFileTest@testLoadAFile_1438961255224,Trace_org.apache.tools.ant.taskdefs.optional.junit.JUnitTestListenerTest@testFullLogOutput_1438961767216,Trace_org.apache.tools.ant.taskdefs.MakeUrlTest@testIllegalCombinations_1438961272612,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438960891415,Trace_org.apache.tools.ant.taskdefs.optional.vss.MSVSSTest@testLabelCommandLine2_1438961785416,Trace_org.apache.tools.ant.IntrospectionHelperTest@testAttributeSetters_1438960309507,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961467665,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961692096,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438960393769
+FileNames
+src\main\org\apache\tools\ant\AntTypeDefinition.java$getTypeClass,src\main\org\apache\tools\ant\ComponentHelper.java$getComponentClass,src\main\org\apache\tools\ant\DirectoryScanner.java$checkIncludePatterns,src\main\org\apache\tools\ant\IntrospectionHelper.java$create,src\main\org\apache\tools\ant\Project.java$getProperties,src\main\org\apache\tools\ant\taskdefs\Definer.java$loadAntlib,src\main\org\apache\tools\ant\taskdefs\Echo.java$execute,src\main\org\apache\tools\ant\util\VectorSet.java$doAdd,src\main\org\apache\tools\ant\ComponentHelper.java$getClassLoader,src\main\org\apache\tools\ant\IntrospectionHelper.java$access$600,src\main\org\apache\tools\ant\Project.java$getBaseDir,src\main\org\apache\tools\ant\Project.java$replaceProperties,src\main\org\apache\tools\ant\taskdefs\Delete.java$isDanglingSymlink,src\main\org\apache\tools\ant\taskdefs\optional\junit\JUnitTestRunner.java$access$000,src\main\org\apache\tools\ant\util\FileUtils.java$getFileUtils

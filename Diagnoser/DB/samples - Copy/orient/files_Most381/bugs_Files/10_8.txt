@@ -1,0 +1,14 @@
+Files
+0,1,2
+Bugged
+0
+BugsIds
+-1,3498,3135,2966,2761,3339,3157
+TestsCount
+4
+pack
+"['src\\main\\java\\com\\orientechnologies\\orient\\core\\metadata\\schema', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\hook', 'src\\main\\java\\com\\orientechnologies\\common\\serialization', 'src\\test\\java\\com\\orientechnologies\\orient\\core\\sql', 'src\\test\\java\\com\\orientechnologies\\orient\\core\\index']"
+testsChoosedNames
+Trace_com.orientechnologies.orient.core.index.sbtree.local.SBTreeCompositeKeyTest@testIterateValuesMinorInclusive_1438528524730,Trace_com.orientechnologies.orient.core.index.OPropertyRidBagAbstractIndexDefinitionTest@testProcessChangeEventAddOnceRemoveTwice_1438527576857,Trace_com.orientechnologies.orient.core.sql.orderby.TestOrderBy@testGermanOrderBy_1438529185503,Trace_com.orientechnologies.orient.core.sql.parser.OSelectStatementTest@testDottedAtField_1438529803294,Trace_com.orientechnologies.orient.core.record.impl.ODocumentFieldConversionTest@testLiteralToSchemaConvertionFloat_1438528835816,Trace_com.orientechnologies.common.serialization.AbstractConverterTest@testPutCharLittleEndian_1438529989295
+FileNames
+core\src\main\java\com\orientechnologies\orient\core\metadata\schema\OType.java,core\src\main\java\com\orientechnologies\orient\core\db\record\OMultiValueChangeEvent.java,core\src\main\java\com\orientechnologies\orient\core\record\ORecordAbstract.java

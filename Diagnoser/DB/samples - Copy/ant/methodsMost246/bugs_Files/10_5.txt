@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7
+Bugged
+0
+BugsIds
+-1,51035,50513,51044,52382,51668,50543
+TestsCount
+5
+pack
+"['main\\org\\apache\\tools\\ant\\launch', 'main\\org\\apache\\tools\\ant\\taskdefs\\condition', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional\\depend', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional', 'main\\org\\apache\\tools\\ant\\filters']"
+testsChoosedNames
+Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438960417322,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438960877509,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961142725,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438960382279,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961657860,Trace_org.apache.tools.ant.taskdefs.AntlibTest@testAntlib_uri_1438960431587,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961826400,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961038097,Trace_org.apache.tools.ant.taskdefs.FailTest@testIfAndUnless2_1438961087366,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961409774,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961093228
+FileNames
+src\main\org\apache\tools\ant\launch\Locator.java$decodeUri,src\main\org\apache\tools\ant\AntClassLoader.java$access$000,src\main\org\apache\tools\ant\AntClassLoader.java$isParentFirst,src\main\org\apache\tools\ant\AntTypeDefinition.java$getName,src\main\org\apache\tools\ant\AntTypeDefinition.java$setAdaptToClass,src\main\org\apache\tools\ant\Project.java$initialValue,src\main\org\apache\tools\ant\util\FileUtils.java$close,src\main\org\apache\tools\ant\util\FileUtils.java$getFileUtils

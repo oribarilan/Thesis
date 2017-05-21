@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5
+Bugged
+0
+BugsIds
+-1,290631,409100,401116,400309,401400,409056
+TestsCount
+4
+pack
+"['org.eclipse.cdt.core.tests\\parser\\org\\eclipse\\cdt\\core\\parser\\tests\\ast2', 'org.eclipse.cdt.core\\parser\\org\\eclipse\\cdt\\internal\\core\\pdom\\dom', 'org.eclipse.cdt.core\\parser\\org\\eclipse\\cdt\\internal\\core\\pdom\\dom\\cpp', 'org.eclipse.cdt.core\\src\\org\\eclipse\\cdt\\core', 'org.eclipse.cdt.core.tests\\model\\org\\eclipse\\cdt\\core\\language\\settings\\providers']"
+testsChoosedNames
+Trace_org.eclipse.cdt.core.parser.tests.ast2.ASTNodeSelectorTest@testOrdering_1439132818227,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2CSpecTest@test6_5_2_5s10_1439132862652,Trace_org.eclipse.cdt.core.parser.tests.ast2.DOMSelectionParseTest@testBug72710_1439132875443,Trace_org.eclipse.cdt.core.parser.tests.scanner.PreprocessorTests@testOpenStringify_1439131947704,Trace_org.eclipse.cdt.core.parser.tests.scanner.PreprocessorTests@testStringifyAndPaste_1439131947543,Trace_org.eclipse.cdt.core.parser.tests.scanner.ExpansionExplorerTests@test3Params_1439131956701,Trace_org.eclipse.cdt.core.parser.tests.scanner.LocationMapTests@testEndif_1439200995163,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2Tests@testFunctionDeclViaTypedef_86495_1439132479269,Trace_org.eclipse.cdt.core.internal.errorparsers.tests.ErrorParserFileMatchingTest@testRelativePathDotNotMatchingFolder_1439131829874,Trace_org.eclipse.cdt.core.parser.tests.ast2.SemanticsTests@testConversionOperators_1439131893115,Trace_org.eclipse.cdt.core.parser.tests.ast2.CompleteParser2Tests@testBug67680_1439132793763
+FileNames
+core\org.eclipse.cdt.core.tests\model\org\eclipse\cdt\core\language\settings\providers\LanguageSettingsListenersTests.java$testNotification_globalProvider_SerializeEntries,build\org.eclipse.cdt.managedbuilder.core\src\org\eclipse\cdt\managedbuilder\core\ManagedBuildManager.java$doSetLoaddedInfo,build\org.eclipse.cdt.managedbuilder.core\src\org\eclipse\cdt\managedbuilder\core\ManagedBuildManager.java$getBuildInfo,build\org.eclipse.cdt.managedbuilder.core\src\org\eclipse\cdt\managedbuilder\core\ResourceChangeHandler2.java$createResourceMoveHandler,core\org.eclipse.cdt.core\model\org\eclipse\cdt\core\language\settings\providers\LanguageSettingsGenericProvider.java$clone,core\org.eclipse.cdt.core\model\org\eclipse\cdt\core\model\CoreModel.java$isValidTranslationUnitName

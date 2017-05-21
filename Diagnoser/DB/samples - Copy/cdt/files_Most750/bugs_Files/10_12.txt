@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9
+Bugged
+0
+BugsIds
+-1,408314,402602,400020,401743,401093,407579
+TestsCount
+8
+pack
+"['org.eclipse.cdt.core\\parser\\org\\eclipse\\cdt\\internal\\core\\pdom\\dom\\cpp', 'org.eclipse.cdt.core\\parser\\org\\eclipse\\cdt\\internal\\core\\dom\\parser\\cpp', 'org.eclipse.cdt.core.tests\\parser\\org\\eclipse\\cdt\\core\\parser\\tests\\ast2', 'org.eclipse.cdt.core\\parser\\org\\eclipse\\cdt\\internal\\core\\pdom', 'org.eclipse.cdt.core\\model\\org\\eclipse\\cdt\\internal\\core\\language\\settings\\providers']"
+testsChoosedNames
+Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2Tests@testAttributeSyntax_298841_1439132328746,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2TemplateTests@testConflictInTemplateArgumentDeduction_1439132721338,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2CSpecTest@test6_8_6_1s3_1439132867445,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2Tests@testGetChildren_256127_1439132175775,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2Tests@testBug143502_1439132011677,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2CPPSpecTest@test11_2s2_1439132842575,Trace_org.eclipse.cdt.core.parser.tests.ast2.QuickParser2Tests@testBug39537_1439132782613,Trace_org.eclipse.cdt.core.model.tests.IStructureTests@testGetAccessControl_1439133013365
+FileNames
+core\org.eclipse.cdt.core\parser\org\eclipse\cdt\internal\core\dom\parser\cpp\semantics\CPPSemantics.java,core\org.eclipse.cdt.core.tests\parser\org\eclipse\cdt\core\parser\tests\ASTComparer.java,core\org.eclipse.cdt.core.tests\parser\org\eclipse\cdt\core\parser\tests\ast2\AST2TestBase.java,core\org.eclipse.cdt.core.tests\parser\org\eclipse\cdt\core\parser\tests\ast2\AST2Tests.java,core\org.eclipse.cdt.core.tests\suite\org\eclipse\cdt\core\testplugin\CTestPlugin.java,core\org.eclipse.cdt.core.tests\suite\org\eclipse\cdt\core\testplugin\util\BaseTestCase.java,core\org.eclipse.cdt.core.tests\suite\org\eclipse\cdt\core\testplugin\util\TestSourceReader.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\core\dom\parser\c\AbstractCParserExtensionConfiguration.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\core\dom\parser\cpp\GPPParserExtensionConfiguration.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\internal\core\dom\parser\c\CVisitor.java

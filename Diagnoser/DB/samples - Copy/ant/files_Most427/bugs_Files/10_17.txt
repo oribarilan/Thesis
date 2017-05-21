@@ -1,0 +1,14 @@
+Files
+0,1,2,3
+Bugged
+0
+BugsIds
+-1,31667,51462,51044,50888,41986,51668
+TestsCount
+4
+pack
+"['main\\org\\apache\\tools\\ant\\taskdefs\\optional\\depend\\constantpool', 'main\\org\\apache\\tools\\ant\\types', 'main\\org\\apache\\tools\\ant\\launch', 'main\\org\\apache\\tools\\ant\\taskdefs', 'main\\org\\apache\\tools\\ant\\filters']"
+testsChoosedNames
+Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438962304513,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438962257301,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961773084,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438960904639,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961705066
+FileNames
+src\main\org\apache\tools\ant\taskdefs\Copy.java,src\main\org\apache\tools\ant\AntClassLoader.java,src\main\org\apache\tools\ant\DirectoryScanner.java,src\main\org\apache\tools\ant\taskdefs\ResourceCount.java

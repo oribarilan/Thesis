@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11,12
+Bugged
+0,1
+BugsIds
+-1,50515,51668,50716,50513,50716,50716
+TestsCount
+6
+pack
+"['main\\org\\apache\\tools\\ant\\launch', 'main\\org\\apache\\tools\\ant\\types', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional', 'main\\org\\apache\\tools\\ant\\util', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional\\depend\\constantpool']"
+testsChoosedNames
+Trace_org.apache.tools.ant.taskdefs.ProtectedJarMethodsTest@testFindJarNameLongestMatchWins_1438961368855,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961681500,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961289152,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438960358692,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961337865,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438960911707,Trace_org.apache.tools.ant.taskdefs.InputTest@test3_1438961160147,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438960928146,Trace_org.apache.tools.ant.taskdefs.MkdirTest@test2_1438961314191,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438962309851,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438960269529
+FileNames
+src\main\org\apache\tools\ant\Target.java$execute,src\main\org\apache\tools\ant\taskdefs\Delete.java$execute,src\main\org\apache\tools\ant\AntClassLoader.java$access$000,src\main\org\apache\tools\ant\AntTypeDefinition.java$getName,src\main\org\apache\tools\ant\BuildEvent.java$setException,src\main\org\apache\tools\ant\Location.java$getFileName,src\main\org\apache\tools\ant\Project.java$setDefault,src\main\org\apache\tools\ant\Target.java$getName,src\main\org\apache\tools\ant\helper\ProjectHelper2.java$access$100,src\main\org\apache\tools\ant\property\ParseProperties.java$getProperty,src\main\org\apache\tools\ant\taskdefs\condition\Os.java$isFamily,src\main\org\apache\tools\ant\types\Description.java$addText,src\tests\junit\org\apache\tools\ant\taskdefs\optional\SchemaValidateTest.java$setUp

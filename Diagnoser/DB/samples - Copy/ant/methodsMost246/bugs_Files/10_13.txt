@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+Bugged
+0,1,2,3,4,5
+BugsIds
+-1,50507,0,50515,50543,51086,50716
+TestsCount
+11
+pack
+"['main\\org\\apache\\tools\\ant', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional\\depend\\constantpool', 'main\\org\\apache\\tools\\ant\\taskdefs\\cvslib', 'main\\org\\apache\\tools\\ant\\util', 'main\\org\\apache\\tools\\ant\\types']"
+testsChoosedNames
+Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961773085,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961122228,Trace_org.apache.tools.ant.taskdefs.optional.junit.DOMUtilTest@testListChildNodes_1438961724868,Trace_org.apache.tools.ant.types.XMLCatalogTest@testSimpleEntry_1438962250882,Trace_org.apache.tools.ant.taskdefs.JavadocTest@testDirsetPath_1438961226341,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961166880,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438960415863,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961779401,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961769020,Trace_org.apache.tools.ant.types.PermissionsTest@testDefaultRevoked_1438962235422,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961161971
+FileNames
+src\main\org\apache\tools\ant\AntTypeDefinition.java$getTypeClass,src\main\org\apache\tools\ant\DirectoryScanner.java$checkIncludePatterns,src\main\org\apache\tools\ant\launch\Locator.java$decodeUri,src\main\org\apache\tools\ant\taskdefs\Definer.java$loadAntlib,src\main\org\apache\tools\ant\util\JAXPUtils.java$getSystemId,src\main\org\apache\tools\ant\util\VectorSet.java$doAdd,src\main\org\apache\tools\ant\BuildEvent.java$setException,src\main\org\apache\tools\ant\Project.java$getBaseDir,src\main\org\apache\tools\ant\Project.java$getProject,src\main\org\apache\tools\ant\Project.java$setProperty,src\main\org\apache\tools\ant\ProjectComponent.java$getProject,src\main\org\apache\tools\ant\ProjectComponent.java$setProject,src\main\org\apache\tools\ant\property\LocalProperties.java$current,src\main\org\apache\tools\ant\taskdefs\condition\Os.java$isFamily,src\main\org\apache\tools\ant\taskdefs\optional\junit\JUnitTestRunner.java$access$000,src\main\org\apache\tools\ant\taskdefs\optional\junit\XMLJUnitResultFormatter.java$startTest,src\main\org\apache\tools\ant\types\Commandline.java$addArgumentsToList,src\main\org\apache\tools\ant\types\Commandline.java$getParts,src\main\org\apache\tools\ant\types\DataType.java$checkChildrenAllowed,src\main\org\apache\tools\ant\util\FileUtils.java$close

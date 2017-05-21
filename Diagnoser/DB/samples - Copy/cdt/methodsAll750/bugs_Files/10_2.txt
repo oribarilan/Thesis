@@ -1,0 +1,14 @@
+Files
+0,1,2,3
+Bugged
+0
+BugsIds
+-1,409444,45203,402498,403418,401479,402878
+TestsCount
+3
+pack
+"['org.eclipse.cdt.core\\parser\\org\\eclipse\\cdt\\internal\\core\\dom\\parser\\cpp\\semantics', 'org.eclipse.cdt.core\\parser\\org\\eclipse\\cdt\\internal\\core\\pdom\\dom', 'org.eclipse.cdt.core\\model\\org\\eclipse\\cdt\\internal\\core\\language\\settings\\providers', 'org.eclipse.cdt.core\\model\\org\\eclipse\\cdt\\core\\settings\\model\\util', 'org.eclipse.cdt.core\\parser\\org\\eclipse\\cdt\\core\\parser\\util']"
+testsChoosedNames
+Trace_org.eclipse.cdt.core.language.settings.providers.LanguageSettingsListenersTests@testNotification_cfgProvider_SerializeEntries_1439133473858,Trace_org.eclipse.cdt.core.parser.tests.scanner.PreprocessorTests@testSpecExample4_4_1439131948244,Trace_org.eclipse.cdt.core.language.settings.providers.LanguageSettingsSerializableProviderTests@testCLibraryFileEntryDOM_1439133458360,Trace_org.eclipse.cdt.core.parser.tests.scanner.PortedScannerTests@testBug36045_1439131946799,Trace_org.eclipse.cdt.core.language.settings.providers.LanguageSettingsListenersTests@testDelta_AffectedResources_File_1439133476725,Trace_org.eclipse.cdt.core.parser.tests.ast2.ASTNodeSelectorTest@testContainedName_1439132817985,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2Tests@testBug222418_c_1439201257510,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2SelectionParseTest@testBaseCase_VariableDeclaration_1439132814408,Trace_org.eclipse.cdt.core.parser.tests.scanner.PreprocessorTests@testRecursiveExpansion3_1439201025532
+FileNames
+core\org.eclipse.cdt.core\parser\org\eclipse\cdt\internal\core\pdom\indexer\AbstractPDOMIndexer.java$setProperties,core\org.eclipse.cdt.core.tests\model\org\eclipse\cdt\core\language\settings\providers\LanguageSettingsListenersTests.java$testDelta_AffectedResources_File,core\org.eclipse.cdt.core.tests\model\org\eclipse\cdt\core\language\settings\providers\LanguageSettingsListenersTests.java$testNotification_cfgProvider_SerializeEntries,core\org.eclipse.cdt.core\model\org\eclipse\cdt\core\language\settings\providers\LanguageSettingsSerializableProvider.java$getSettingEntries

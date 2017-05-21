@@ -8,7 +8,7 @@ import TF
 import random
 import csv
 import os
-
+import ast
 prior_p = 0.05
 
 class Barinel:
@@ -70,99 +70,21 @@ class Barinel:
 
         return self.diagnoses
 
-def get_actual_bugs():
-    actual_bugs = {}
-    actual_bugs[10,0] = [0,1]
-    actual_bugs[10,1] = [0,1]
-    actual_bugs[10,2] = [0,1,2,3]
-    actual_bugs[10,3] = [0,1,2]
-    actual_bugs[10,4] = [0]
-    actual_bugs[10,5] = [0]
-    actual_bugs[10,6] = [0,1,2]
-    actual_bugs[10,7] = [0,1]
-    actual_bugs[10,8] = [0,1,2,3,4]
-    actual_bugs[10,9] = [0,1,2]
-    actual_bugs[10,10] = [0,1]
-    actual_bugs[10,11] = [0,1,2]
-    actual_bugs[10,12] = [0,1,2]
-    actual_bugs[10,13] = [0,1,2]
-    actual_bugs[10,14] = [0,1,2,3,4,5]
-    actual_bugs[10,15] = [0,1,2]
-    actual_bugs[10,16] = [0,1,2]
-    actual_bugs[10,17] = [0,1]
-    actual_bugs[10,18] = [0,1,2,3]
-    actual_bugs[10,19] = [0,1]
-    actual_bugs[10,20] = [0]
+def read_gt_and_comps(project_name, folder_name, test_num, test_iter):
+    in_file = os.path.join(os.path.dirname(__file__), "DB\\samples\\"+project_name+"\\"+folder_name+"\\bugs_Files\\"+str(test_num)+'_'+str(test_iter)+'.txt')
+    with open(in_file,"r") as in_file:
+        lines = in_file.read().split('\n')
+        comps = '[' + lines[1].strip() + ']'
+        comps = ast.literal_eval(comps)
+        gt = '[' + lines[3].strip() + ']'
+        gt = ast.literal_eval(gt)
+    return (gt, comps)
 
-    actual_bugs[20,0] = [0,1]
-    actual_bugs[20,1] = [0,1]
-    actual_bugs[20,2] = [0,1,2,3,4]
-    actual_bugs[20,3] = [0,1,2]
-    actual_bugs[20,4] = [0,1]
-    actual_bugs[20,5] = [0]
-    actual_bugs[20,6] = [0,1,2]
-    actual_bugs[20,7] = [0,1]
-    actual_bugs[20,8] = [0,1,2,3,4]
-    actual_bugs[20,9] = [0,1,2]
-    actual_bugs[20,10] = [0,1,2]
-    actual_bugs[20,11] = [0,1,2]
-    actual_bugs[20,12] = [0,1,2]
-    actual_bugs[20,13] = [0,1,2]
-    actual_bugs[20,14] = [0,1,2,3,4,5]
-    actual_bugs[20,15] = [0,1,2,3]
-    actual_bugs[20,16] = [0,1,2,3]
-    actual_bugs[20,17] = [0,1,2]
-    actual_bugs[20,18] = [0,1,2,3]
-    actual_bugs[20,19] = [0,1,2,3]
-    actual_bugs[20,20] = [0]
+def get_gt(project_name, folder_name, test_num, test_iter):
+    (gt, comps) = read_gt_and_comps(project_name, folder_name, test_num, test_iter)
+    return gt
 
-    actual_bugs[30,0] = [0,1]
-    actual_bugs[30,1] = [0,1]
-    actual_bugs[30,2] = [0,1,2,3,4]
-    actual_bugs[30,3] = [0,1,2]
-    actual_bugs[30,4] = [0,1]
-    actual_bugs[30,5] = [0,1,2]
-    actual_bugs[30,6] = [0,1,2]
-    actual_bugs[30,7] = [0,1]
-    actual_bugs[30,8] = [0,1,2,3,4]
-    actual_bugs[30,9] = [0,1,2]
-    actual_bugs[30,10] = [0,1,2]
-    actual_bugs[30,11] = [0,1,2]
-    actual_bugs[30,12] = [0,1,2]
-    actual_bugs[30,13] = [0,1,2,3]
-    actual_bugs[30,14] = [0,1,2,3,4,5]
-    actual_bugs[30,15] = [0,1,2,3]
-    actual_bugs[30,16] = [0,1,2,3]
-    actual_bugs[30,17] = [0,1,2]
-    actual_bugs[30,18] = [0,1,2,3]
-    actual_bugs[30,19] = [0,1,2,3,4]
-    actual_bugs[30,20] = [0]
-
-    actual_bugs[40,0] = [0,1]
-    actual_bugs[40,1] = [0,1]
-    actual_bugs[40,2] = [0,1,2,3,4]
-    actual_bugs[40,3] = [0,1,2]
-    actual_bugs[40,4] = [0,1]
-    actual_bugs[40,5] = [0,1,2]
-    actual_bugs[40,6] = [0,1,2]
-    actual_bugs[40,7] = [0,1]
-    actual_bugs[40,8] = [0,1,2,3,4]
-    actual_bugs[40,9] = [0,1,2]
-    actual_bugs[40,10] = [0,1,2]
-    actual_bugs[40,11] = [0,1,2]
-    actual_bugs[40,12] = [0,1,2]
-    actual_bugs[40,13] = [0,1,2,3]
-    actual_bugs[40,14] = [0,1,2,3,4,5]
-    actual_bugs[40,15] = [0,1,2,3]
-    actual_bugs[40,16] = [0,1,2,3]
-    actual_bugs[40,17] = [0,1,2]
-    actual_bugs[40,18] = [0,1,2,3]
-    actual_bugs[40,19] = [0,1,2,3,4]
-    actual_bugs[40,20] = [0]
-    return actual_bugs
-
-def proc_synthetic_matrix(lines,noise,test_num,test_iter):
-    actual_bugs = get_actual_bugs()
+def proc_synthetic_matrix(lines,noise,test_num,test_iter, project_name, folder_name):
     #remove probs lines
     lines = lines[1:]
     comp_num = len(lines[0])-1
@@ -183,16 +105,17 @@ def proc_synthetic_matrix(lines,noise,test_num,test_iter):
         for c_i in range(comp_num):
             if obs[c_i] == '0': #comp didn't participate
                 continue
-            if c_i in actual_bugs[test_num, test_iter]:
+            gt = get_gt(project_name, folder_name, test_num, test_iter)
+            if c_i in gt:
                 nlines[obs_idx][c_i*2 + 1] = str(1 - noise)
             else:
                 nlines[obs_idx][c_i*2 + 1] = str(0 + noise)
     return nlines
 
-def load_file_with_header(file, noise, test_num, test_iter):
+def load_file_with_header(file, noise, test_num, test_iter, project_name, folder_name):
     with open(file,"r") as f:
         lines = list(csv.reader(f))
-        lines = proc_synthetic_matrix(lines, noise, test_num, test_iter)
+        lines = proc_synthetic_matrix(lines, noise, test_num, test_iter, project_name, folder_name)
         comps_num = int((len(lines[0])-1)/2)
         error_vec_col_idx = comps_num * 2
         tests = lines[0:]
@@ -208,8 +131,8 @@ def load_file_with_header(file, noise, test_num, test_iter):
 
 
 
-def test(matrix_file, out_file,  noise, test_num, test_iter):
-    bar = load_file_with_header(matrix_file, noise, test_num, test_iter)
+def test(matrix_file, out_file,  noise, test_num, test_iter, project_name, folder_name):
+    bar = load_file_with_header(matrix_file, noise, test_num, test_iter, project_name, folder_name)
     diags = bar.run()
     sorted_diags = sorted(diags, key=lambda d: d.probability, reverse=True)
     with open(out_file, "w") as f:
@@ -254,7 +177,7 @@ if __name__=="__main__":
                         print("=================================")
                         print("working on: " + input_fname)
                         print("output to:" + out_fname)
-                        test(input_fname, out_fname, noise, test_num, test_iter)
+                        test(input_fname, out_fname, noise, test_num, test_iter, project_name, folder_name)
     print("done")
     # test(matrix_file.format('all0'), out_file.format('all0'))
     # test(matrix_file.format('all005'), out_file.format('all005'))

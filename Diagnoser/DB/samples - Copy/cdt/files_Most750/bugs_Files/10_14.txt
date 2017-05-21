@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7
+Bugged
+0,1
+BugsIds
+-1,403406,409697,389009,402177,375226,355488
+TestsCount
+9
+pack
+"['org.eclipse.cdt.core.tests\\parser\\org\\eclipse\\cdt\\internal\\pdom\\tests', 'org.eclipse.cdt.core.tests\\misc\\org\\eclipse\\cdt\\core\\internal\\errorparsers\\tests', 'org.eclipse.cdt.core\\src\\org\\eclipse\\cdt\\internal\\core\\envvar', 'org.eclipse.cdt.core\\parser\\org\\eclipse\\cdt\\internal\\core\\pdom\\dom\\cpp', 'org.eclipse.cdt.core.tests\\parser\\org\\eclipse\\cdt\\internal\\index\\tests']"
+testsChoosedNames
+Trace_org.eclipse.cdt.core.settings.model.PathSettingsContainerTests@testPathSettingsContainer_Bug208765_1439133442766,Trace_org.eclipse.cdt.core.internal.errorparsers.tests.ErrorParserFileMatchingTest@testPushDirectory_1439131845134,Trace_org.eclipse.cdt.core.settings.model.CProjectDescriptionStorageTests@testExternalCProjDescRemoveAndReplace_1439133437242,Trace_org.eclipse.cdt.core.internal.errorparsers.tests.ErrorParserFileMatchingTest@testSymbolicLink_1439131836911,Trace_org.eclipse.cdt.core.parser.tests.ast2.DOMLocationInclusionTests@testSignificantMacros_197989b_1439132807165,Trace_org.eclipse.cdt.core.internal.errorparsers.tests.ErrorParserManagerTest@testNoTrimParser_1439200877461,Trace_org.eclipse.cdt.core.settings.model.BackwardCompatibilityTests@testCPathEntriesForOldStyle_1439133429436,Trace_org.eclipse.cdt.internal.pdom.tests.GeneratePDOMApplicationTest@testExternalExportProjectProvider_SysIncludes_1439137612202,Trace_org.eclipse.cdt.core.internal.errorparsers.tests.ErrorParserEfsFileMatchingTest@testEfsProjectPushPopDirectory_1439200935765,Trace_org.eclipse.cdt.core.internal.errorparsers.tests.ErrorParserFileMatchingTest@testDuplicateLinkedFileDifferentName_1439131825393
+FileNames
+core\org.eclipse.cdt.core\parser\org\eclipse\cdt\internal\core\dom\parser\cpp\semantics\SemanticUtil.java,core\org.eclipse.cdt.core\src\org\eclipse\cdt\internal\core\envvar\UserDefinedEnvironmentSupplier.java,core\org.eclipse.cdt.core.tests\suite\org\eclipse\cdt\core\testplugin\CProjectHelper.java,core\org.eclipse.cdt.core\model\org\eclipse\cdt\core\settings\model\util\CDataUtil.java,core\org.eclipse.cdt.core\model\org\eclipse\cdt\internal\core\model\CContainer.java,core\org.eclipse.cdt.core\model\org\eclipse\cdt\internal\core\model\DefaultPathEntryStore.java,core\org.eclipse.cdt.core\model\org\eclipse\cdt\internal\core\settings\model\CConfigurationDescriptionCache.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\internal\core\pdom\db\ShortString.java

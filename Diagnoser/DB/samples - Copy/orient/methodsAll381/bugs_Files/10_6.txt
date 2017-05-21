@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7
+Bugged
+0
+BugsIds
+-1,1761,2724,2897,3163,2849,3178
+TestsCount
+6
+pack
+"['src\\main\\java\\com\\orientechnologies\\common\\log', 'src\\test\\java\\com\\orientechnologies\\common\\serialization', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\db\\record\\ridbag\\embedded', 'src\\test\\java\\com\\orientechnologies\\orient\\core\\index', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\query']"
+testsChoosedNames
+Trace_com.orientechnologies.orient.core.index.OPropertyRidBagAbstractIndexDefinitionTest@testProcessChangeEventAddTwoValues_1438528836204,Trace_com.orientechnologies.orient.core.index.OPropertyMapIndexDefinitionTest@testProcessChangeEventUpdateKey_1438529400676,Trace_com.orientechnologies.orient.core.index.OCompositeKeyTest@testEqualNotSameKeys_1438528732864,Trace_com.orientechnologies.orient.core.index.OPropertyRidBagAbstractIndexDefinitionTest@testProcessChangeEventRemoveOnce_1438528836233,Trace_com.orientechnologies.orient.core.index.hashindex.local.cache.LRUListTest@testAdd9128_1438528387577,Trace_com.orientechnologies.orient.core.index.sbtreebonsai.local.OSBTreeBonsaiLeafBucketTest@testSearch_1438529185280,Trace_com.orientechnologies.common.serialization.types.StringSerializerTest@testSerializeNative_1438529857954,Trace_com.orientechnologies.orient.core.metadata.security.ORestricetedUserCleanUpTest@testAutoCleanUserAfterDelate_1438527703725,Trace_com.orientechnologies.orient.core.index.sbtree.local.SBTreeNonLeafBucketTest@testInitialization_1438528800792
+FileNames
+core\src\main\java\com\orientechnologies\orient\core\serialization\serializer\OStringSerializerHelper.java$split,core\src\main\java\com\orientechnologies\orient\core\config\OGlobalConfiguration.java$getValueAsInteger,core\src\main\java\com\orientechnologies\orient\core\db\ODatabaseRecordThreadLocal.java$getIfDefined,core\src\main\java\com\orientechnologies\orient\core\db\document\ODatabaseDocumentTx.java$getDefaultSerializer,core\src\main\java\com\orientechnologies\orient\core\db\record\OMultiValueChangeEvent.java$getChangeType,core\src\main\java\com\orientechnologies\orient\core\db\record\OMultiValueChangeEvent.java$getValue,core\src\main\java\com\orientechnologies\orient\core\id\ORecordId.java$checkClusterLimits,core\src\main\java\com\orientechnologies\orient\core\metadata\schema\OType.java$convert

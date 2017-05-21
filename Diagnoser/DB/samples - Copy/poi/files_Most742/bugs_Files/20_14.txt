@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5
+Bugged
+0
+BugsIds
+-1,55081,55001,54210,53372,55047,55560
+TestsCount
+10
+pack
+"['src\\java\\org\\apache\\poi\\ddf', 'src\\testcases\\org\\apache\\poi', 'src\\scratchpad\\src\\org\\apache\\poi\\hslf', 'src\\scratchpad\\testcases', 'src\\ooxml\\java\\org\\apache\\poi\\openxml4j\\opc\\internal']"
+testsChoosedNames
+Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439121200640,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439119065302,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439121132438,Trace_org.apache.poi.ss.format.TestCellFormatPart@testNumberApproxFormat_1439122055938,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testFo_1439121336358,Trace_org.apache.poi.ss.usermodel.BaseTestCell@testSetBlank_bug47028_1439125039730,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439121014441,Trace_org.apache.poi.hslf.model.TestTextRun@testSetTextWhereNotRich_1439118546691,Trace_org.apache.poi.openxml4j.opc.TestPackage@testReplaceContentType_1439122046990,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439119742007
+FileNames
+src\ooxml\java\org\apache\poi\xslf\usermodel\XSLFTextShape.java,src\ooxml\java\org\apache\poi\POIXMLDocument.java,src\ooxml\java\org\apache\poi\POIXMLDocumentPart.java,src\ooxml\java\org\apache\poi\openxml4j\opc\ZipPackagePart.java,src\ooxml\java\org\apache\poi\xslf\model\ParagraphPropertyFetcher.java,src\testcases\org\apache\poi\POIDataSamples.java

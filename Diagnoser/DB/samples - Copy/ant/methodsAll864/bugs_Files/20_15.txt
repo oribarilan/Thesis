@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+Bugged
+0,1,2,3
+BugsIds
+-1,50716,51035,50716,51044,50716,52382
+TestsCount
+15
+pack
+"['main\\org\\apache\\tools\\ant\\types', 'main\\org\\apache\\tools\\ant\\filters', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional\\junit', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional', 'main\\org\\apache\\tools\\ant\\taskdefs\\condition']"
+testsChoosedNames
+Trace_org.apache.tools.ant.types.selectors.TokenizedPatternTest@testMatchPath_1438962301231,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438960226657,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961415029,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438962296588,Trace_org.apache.tools.ant.AntClassLoaderTest@testJarWithManifestInNonAsciiDir_1438960228072,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961113830,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961522793,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438960312491,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961321516,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961478388,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438962328077,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961084165,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961259567,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438960980619,Trace_org.apache.tools.ant.types.DescriptionTest@test3_1438961826406
+FileNames
+src\main\org\apache\tools\ant\IntrospectionHelper.java$findMatchingMethod,src\main\org\apache\tools\ant\Target.java$execute,src\main\org\apache\tools\ant\taskdefs\Delete.java$execute,src\main\org\apache\tools\ant\taskdefs\MacroDef.java$addConfiguredAttribute,src\main\org\apache\tools\ant\AntClassLoader.java$access$000,src\main\org\apache\tools\ant\IntrospectionHelper.java$create,src\main\org\apache\tools\ant\Project.java$executeSortedTargets,src\main\org\apache\tools\ant\Project.java$getProject,src\main\org\apache\tools\ant\Project.java$setDefault,src\main\org\apache\tools\ant\Target.java$setIf,src\main\org\apache\tools\ant\taskdefs\condition\Os.java$isFamily,src\main\org\apache\tools\ant\taskdefs\condition\Os.java$isOs,src\main\org\apache\tools\ant\taskdefs\optional\junit\JUnitTestRunner.java$access$000,src\main\org\apache\tools\ant\types\resources\FailFast.java$add,src\main\org\apache\tools\ant\util\FileUtils.java$close,src\main\org\apache\tools\ant\util\FileUtils.java$dissect

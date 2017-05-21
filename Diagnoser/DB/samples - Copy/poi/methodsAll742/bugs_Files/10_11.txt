@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
+Bugged
+0,1
+BugsIds
+-1,53950,53644,53475,54625,54402,55080
+TestsCount
+7
+pack
+"['src\\scratchpad\\src\\org\\apache\\poi\\hmef', 'src\\java\\org\\apache\\poi\\ss\\formula\\udf', 'src\\java\\org\\apache\\poi', 'src\\scratchpad\\src\\org\\apache\\poi\\hslf\\blip', 'src\\ooxml\\testcases']"
+testsChoosedNames
+Trace_org.apache.poi.hslf.model.TestTextRunReWrite@testWritesOutTheSameRich_1439118548998,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testHtml_1439121432896,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testHtml_1439121622304,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439119466029,Trace_org.apache.poi.hslf.record.TestComment2000Atom@testCreate_1439118549851,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testText_1439121300091,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439118879719,Trace_org.apache.poi.hmef.TestHMEFMessage@testBasicMessageMAPIAttributes_1439118518232,Trace_org.apache.poi.xslf.usermodel.TestXSLFSlideShow@testCreateSlide_1439124653811
+FileNames
+src\java\org\apache\poi\ss\usermodel\DateUtil.java$getJavaCalendar,src\java\org\apache\poi\ss\usermodel\DateUtil.java$isADateFormat,src\java\org\apache\poi\POIDocument.java$getPropertySet,src\java\org\apache\poi\hpsf\MutableSection.java$getProperties,src\java\org\apache\poi\hpsf\PropertySet.java$getFirstSection,src\java\org\apache\poi\hpsf\TypedPropertyValue.java$read,src\java\org\apache\poi\hssf\model\InternalWorkbook.java$getNameCommentRecord,src\java\org\apache\poi\poifs\filesystem\POIFSDocument.java$convertRawBlocksToSmallBlocks,src\java\org\apache\poi\poifs\storage\SmallDocumentBlock.java$getDataInputBlock,src\java\org\apache\poi\util\BitField.java$clear,src\java\org\apache\poi\util\BitField.java$getShortValue,src\java\org\apache\poi\util\BitField.java$isSet,src\java\org\apache\poi\util\BitField.java$set,src\java\org\apache\poi\util\IntList.java$growArray,src\scratchpad\src\org\apache\poi\hwpf\converter\HtmlDocumentFacade.java$addAuthor

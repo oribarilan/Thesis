@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11,12,13
+Bugged
+0,1
+BugsIds
+-1,51035,50960,51947,52382,50515,0
+TestsCount
+6
+pack
+"['main\\org\\apache\\tools\\ant\\util', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional', 'main\\org\\apache\\tools\\ant\\taskdefs\\cvslib', 'main\\org\\apache\\tools\\ant\\taskdefs', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional\\junit']"
+testsChoosedNames
+Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438962250931,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961457256,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961476738,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961087898,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438960254601,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961533312,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961684202,Trace_org.apache.tools.ant.taskdefs.SQLExecTest@testNull_1438961433141,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961236975,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961561286,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438962309906
+FileNames
+src\main\org\apache\tools\ant\AntTypeDefinition.java$getTypeClass,src\main\org\apache\tools\ant\property\ParseProperties.java$parsePropertyName,src\main\org\apache\tools\ant\BuildEvent.java$setException,src\main\org\apache\tools\ant\Project.java$getProject,src\main\org\apache\tools\ant\Project.java$initialValue,src\main\org\apache\tools\ant\Project.java$setBasedir,src\main\org\apache\tools\ant\Project.java$setDefault,src\main\org\apache\tools\ant\ProjectComponent.java$getProject,src\main\org\apache\tools\ant\RuntimeConfigurable.java$addChild,src\main\org\apache\tools\ant\Target.java$addDependency,src\main\org\apache\tools\ant\Target.java$setDescription,src\main\org\apache\tools\ant\types\DataType.java$setChecked,src\main\org\apache\tools\ant\util\FileUtils.java$isContextRelativePath,src\tests\junit\org\apache\tools\ant\taskdefs\SleepTest.java$setUp

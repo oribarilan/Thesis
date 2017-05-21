@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7
+Bugged
+0,1
+BugsIds
+-1,3113,1761,2572,3143,3342,3113
+TestsCount
+11
+pack
+"['src\\main\\java\\com\\orientechnologies\\orient\\core\\index', 'src\\main\\java\\com\\orientechnologies\\common\\console', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\db\\tool', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\index\\hashindex\\local', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\hook']"
+testsChoosedNames
+Trace_com.orientechnologies.orient.core.db.record.TrackedMapTest@testClearTwo_1438532800357,Trace_com.orientechnologies.orient.core.index.OCompositeIndexDefinitionTest@testCreateCollectionValueSuccessfulOne_1438528468622,Trace_com.orientechnologies.orient.core.sql.parser.ODeleteStatementTest@testDeleteFromIndexBinary_1438529454753,Trace_com.orientechnologies.common.console.ODFACommandStreamTest@test_1438528335751,Trace_com.orientechnologies.orient.core.sql.OCommandExecutorSQLSelectTest@testFlattenOnEmbedded_1438528437345,Trace_com.orientechnologies.orient.core.index.OPropertyMapIndexDefinitionTest@testProcessChangeEventRemoveValue_1438529400653,Trace_com.orientechnologies.orient.core.index.sbtreebonsai.local.OSBTreeBonsaiNonLeafBucketTest@testInitialization_1438529265113,Trace_com.orientechnologies.orient.core.db.record.ridbag.sbtree.ORidBagAtomicUpdateTest@testAddingDocsDontUpdateVersion_1438529950615,Trace_com.orientechnologies.orient.core.record.impl.ODocumentFieldConversionTest@testCollectionDoubleCoversion_1438528835635,Trace_com.orientechnologies.orient.core.index.OPropertyMapIndexDefinitionTest@testProcessChangeEventUpdateValue_1438529400687,Trace_com.orientechnologies.orient.core.sql.OChainedIndexProxyFindBestIndexTest@testDoNotUseCompositeHashIndex_1438527699839
+FileNames
+core\src\main\java\com\orientechnologies\orient\core\index\hashindex\local\cache\OWOWCache.java,core\src\main\java\com\orientechnologies\orient\core\index\sbtree\local\OSBTree.java,core\src\main\java\com\orientechnologies\common\directmemory\ODirectMemoryFactory.java,core\src\main\java\com\orientechnologies\common\serialization\types\OIntegerSerializer.java,core\src\main\java\com\orientechnologies\orient\core\config\OGlobalConfiguration.java,core\src\main\java\com\orientechnologies\orient\core\id\ORecordId.java,core\src\main\java\com\orientechnologies\orient\core\index\OAbstractIndexDefinition.java,core\src\main\java\com\orientechnologies\orient\core\metadata\schema\OType.java

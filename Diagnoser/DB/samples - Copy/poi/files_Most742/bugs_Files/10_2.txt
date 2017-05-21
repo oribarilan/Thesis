@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11,12,13
+Bugged
+0
+BugsIds
+-1,54607,53965,54916,53650,55066,54607
+TestsCount
+10
+pack
+"['src\\scratchpad\\src\\org\\apache\\poi\\hslf', 'src\\ooxml\\testcases\\org\\apache\\poi\\xssf\\usermodel', 'src\\ooxml\\testcases\\org\\apache\\poi', 'src\\ooxml\\testcases\\org\\apache', 'src\\ooxml\\testcases\\org']"
+testsChoosedNames
+Trace_org.apache.poi.hslf.record.TestStyleTextPropAtom@testCreateAFromScatch_1439118551300,Trace_org.apache.poi.hslf.record.TestComment2000@testText_1439118549809,Trace_org.apache.poi.ss.usermodel.BaseTestSheet@testCloneSheetMultipleTimes_1439126249490,Trace_org.apache.poi.xssf.usermodel.TestXSSFBugs@test49156_1439125480672,Trace_org.apache.poi.hslf.record.TestNotesAtom@testWrite_1439118550737,Trace_org.apache.poi.hslf.record.TestInteractiveInfoAtom@testGetNumber_1439118550721,Trace_org.apache.poi.ss.usermodel.BaseTestRow@testRowHeight_1439125087177,Trace_org.apache.poi.ss.usermodel.BaseTestCell@testChangeTypeStringToBool_1439125885599,Trace_org.apache.poi.xslf.usermodel.TestXSLFTable@testCreate_1439124686379,Trace_org.apache.poi.openxml4j.opc.compliance.TestOPCCompliancePackageModel@testAddPackageAlreadyAddFailure_1439122049621
+FileNames
+src\ooxml\java\org\apache\poi\xssf\streaming\SXSSFSheet.java,src\java\org\apache\poi\ss\SpreadsheetVersion.java,src\java\org\apache\poi\ss\usermodel\DateUtil.java,src\java\org\apache\poi\ss\usermodel\FontFamily.java,src\ooxml\java\org\apache\poi\openxml4j\opc\StreamHelper.java,src\ooxml\java\org\apache\poi\openxml4j\opc\ZipPackagePart.java,src\ooxml\java\org\apache\poi\openxml4j\opc\internal\MemoryPackagePart.java,src\ooxml\java\org\apache\poi\openxml4j\util\Nullable.java,src\ooxml\java\org\apache\poi\util\PackageHelper.java,src\ooxml\java\org\apache\poi\xssf\model\SharedStringsTable.java,src\ooxml\java\org\apache\poi\xssf\model\StylesTable.java,src\ooxml\java\org\apache\poi\xssf\usermodel\XSSFCreationHelper.java,src\ooxml\java\org\apache\poi\xssf\usermodel\XSSFRichTextString.java,src\testcases\org\apache\poi\ss\usermodel\BaseTestCell.java

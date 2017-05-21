@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5
+Bugged
+0,1
+BugsIds
+-1,55733,54206,55650,53798,49940,53568
+TestsCount
+8
+pack
+"['src\\java\\org\\apache\\poi\\ss\\formula\\constant', 'src\\ooxml\\java\\org\\apache\\poi\\openxml4j\\opc\\internal', 'src\\java\\org\\apache\\poi\\ss\\formula\\eval', 'src\\ooxml\\java\\org', 'src\\scratchpad']"
+testsChoosedNames
+Trace_org.apache.poi.hdgf.streams.TestStreamBasics@testUncompressedStream_1439118515875,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439121014328,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439121029114,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439119595856,Trace_org.apache.poi.xssf.usermodel.TestXSSFRichTextString@testCreate_1439126068356,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testText_1439121423154,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439119604809,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439119074422
+FileNames
+src\ooxml\java\org\apache\poi\xssf\model\StylesTable.java$getCellStyleXfAt,src\ooxml\java\org\apache\poi\xssf\model\StylesTable.java$writeTo,src\java\org\apache\poi\ss\SpreadsheetVersion.java$getLastRowIndex,src\java\org\apache\poi\ss\util\CellReference.java$getCol,src\ooxml\java\org\apache\poi\xssf\model\StylesTable.java$getCTStylesheet,src\ooxml\java\org\apache\poi\xssf\usermodel\XSSFRichTextString.java$getString

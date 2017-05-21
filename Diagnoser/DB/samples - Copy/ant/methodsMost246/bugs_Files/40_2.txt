@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+Bugged
+0,1,2,3,4
+BugsIds
+-1,51035,51462,41986,51668,51044,0
+TestsCount
+14
+pack
+"['main\\org\\apache\\tools\\ant\\taskdefs\\email', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional\\depend\\constantpool', 'main\\org\\apache\\tools\\ant\\filters', 'main\\org\\apache\\tools\\ant\\taskdefs', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional']"
+testsChoosedNames
+Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961534835,Trace_org.apache.tools.ant.types.FilterSetTest@testNestedFilterSets_1438961837400,Trace_org.apache.tools.ant.taskdefs.ConcatTest@testConcatNoNewlineEncoding_1438960899990,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961134075,Trace_org.apache.tools.ant.taskdefs.BUnzip2Test@testRealTest_1438960529419,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438961333320,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438960955224,Trace_org.apache.tools.ant.ExecutorTest@testIgnoreDependenciesFailure_1438960296636,Trace_org.apache.tools.ant.taskdefs.ZipTest@testRewriteZeroPermissions_1438961607111,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961432946,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961169374,Trace_org.apache.tools.ant.taskdefs.optional.junit.JUnitTaskTest@testNonForkedCapture_1438961749160,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438962279957,Trace_org.apache.tools.ant.taskdefs.FixCrLfTest@testCrCrLfSequenceUnix_1438961112737
+FileNames
+src\main\org\apache\tools\ant\AntTypeDefinition.java$getTypeClass,src\main\org\apache\tools\ant\ComponentHelper.java$getComponentClass,src\main\org\apache\tools\ant\IntrospectionHelper.java$createAttributeSetter,src\main\org\apache\tools\ant\property\ParseProperties.java$parsePropertyName,src\main\org\apache\tools\ant\taskdefs\Concat.java$addText,src\main\org\apache\tools\ant\AntTypeDefinition.java$getName,src\main\org\apache\tools\ant\AntTypeDefinition.java$isRestrict,src\main\org\apache\tools\ant\BuildEvent.java$setException,src\main\org\apache\tools\ant\ComponentHelper.java$getElementName,src\main\org\apache\tools\ant\Project.java$access$000,src\main\org\apache\tools\ant\Project.java$initialValue,src\main\org\apache\tools\ant\ProjectComponent.java$setProject,src\main\org\apache\tools\ant\PropertyHelper.java$evaluate,src\main\org\apache\tools\ant\property\LocalProperties.java$evaluate,src\main\org\apache\tools\ant\taskdefs\condition\Os.java$isFamily,src\main\org\apache\tools\ant\taskdefs\optional\junit\JUnitTestRunner.java$access$000,src\main\org\apache\tools\ant\types\resources\FileResource.java$getBaseDir

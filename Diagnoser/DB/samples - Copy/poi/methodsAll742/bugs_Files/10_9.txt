@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+Bugged
+0
+BugsIds
+-1,55560,54723,54356,53644,54673,55082
+TestsCount
+11
+pack
+"['src\\scratchpad', 'src\\java\\org\\apache\\poi\\hssf\\record\\aggregates', 'src\\scratchpad\\src\\org\\apache\\poi\\hslf\\record', 'src\\java\\org\\apache\\poi\\ss\\formula\\functions', 'src\\testcases\\org\\apache\\poi\\ss\\usermodel']"
+testsChoosedNames
+Trace_org.apache.poi.hslf.record.TestTxInteractiveInfoAtom@testChange_1439118551466,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testFo_1439121487885,Trace_org.apache.poi.hdgf.chunks.TestChunks@testAnotherChunk_1439118507527,Trace_org.apache.poi.xssf.usermodel.TestXSSFCell@testGetErrorCellValueFromFormulaCell_1439125880623,Trace_org.apache.poi.ss.usermodel.BaseTestRow@testRowHeight_1439125087177,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439119754598,Trace_org.apache.poi.hpbf.TestHPBFDocument@testOpen_1439118518786,Trace_org.apache.poi.hsmf.extractor.TestOutlookTextExtractor@testQuick_1439118607560,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testHtml_1439121301045,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439120894406,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testFo_1439121487513
+FileNames
+src\java\org\apache\poi\ss\usermodel\DateUtil.java$isADateFormat,src\java\org\apache\poi\POIDocument.java$getPropertySet,src\java\org\apache\poi\hpsf\Blob.java$getSize,src\java\org\apache\poi\hpsf\ClassID.java$getBytes,src\java\org\apache\poi\hssf\model\InternalSheet.java$createSheet,src\java\org\apache\poi\hssf\model\InternalWorkbook.java$createPalette,src\java\org\apache\poi\hssf\model\InternalWorkbook.java$getSSTString,src\java\org\apache\poi\hssf\record\DefaultColWidthRecord.java$getColWidth,src\java\org\apache\poi\poifs\filesystem\POIFSDocument.java$convertRawBlocksToSmallBlocks,src\java\org\apache\poi\poifs\storage\DataInputBlock.java$readUByte,src\java\org\apache\poi\poifs\storage\SmallDocumentBlock.java$getDataInputBlock,src\java\org\apache\poi\ss\SpreadsheetVersion.java$getLastRowIndex,src\java\org\apache\poi\util\BitField.java$getShortValue,src\java\org\apache\poi\util\IntList.java$growArray,src\java\org\apache\poi\util\NullLogger.java$check,src\scratchpad\src\org\apache\poi\hwpf\converter\HtmlDocumentFacade.java$addAuthor,src\scratchpad\src\org\apache\poi\hwpf\converter\HtmlDocumentFacade.java$addStyleClass,src\scratchpad\testcases\org\apache\poi\hssf\converter\TestExcelConverterSuite.java$testFo,src\scratchpad\testcases\org\apache\poi\hssf\converter\TestExcelConverterSuite.java$testHtml

@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+Bugged
+0,1
+BugsIds
+-1,55037,55081,53515,53182,53568,55057
+TestsCount
+11
+pack
+"['src\\scratchpad\\src\\org\\apache\\poi\\hwpf', 'src\\java\\org\\apache\\poi\\ss\\formula\\constant', 'src\\java\\org\\apache\\poi\\ss\\formula\\atp', 'src\\ooxml\\testcases\\org\\apache\\poi\\xssf', 'src\\testcases\\org\\apache\\poi\\ss\\usermodel']"
+testsChoosedNames
+Trace_org.apache.poi.xssf.usermodel.charts.TestXSSFManualLayout@testAccessorMethods_1439126348275,Trace_org.apache.poi.ss.usermodel.BaseTestConditionalFormatting@testSingleFormulaConditions_1439125919455,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439119752445,Trace_org.apache.poi.ss.usermodel.BaseTestSheet@testGetRepeatingRowsAndColumns_1439126246157,Trace_org.apache.poi.xssf.util.TestNumericRanges@testGetOverlappingType_1439126353721,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439121211933,Trace_org.apache.poi.hwpf.TestFieldsTables@testReadFields_1439121230903,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439119554979,Trace_org.apache.poi.hwpf.usermodel.TestBugs@testBug52032_3_1439121797821,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testText_1439121476442,Trace_org.apache.poi.ss.usermodel.BaseTestSheet@testSetRepeatingRowsAndColumnsBug47294_1439125089177
+FileNames
+src\scratchpad\src\org\apache\poi\hwpf\model\CHPX.java$getCharacterProperties,src\scratchpad\src\org\apache\poi\hwpf\sprm\CharacterSprmUncompressor.java$applySprms,src\java\org\apache\poi\POIDocument.java$getPropertySet,src\java\org\apache\poi\hpsf\ClassID.java$read,src\java\org\apache\poi\poifs\filesystem\DirectoryNode.java$createDirectory,src\java\org\apache\poi\poifs\filesystem\POIFSDocument.java$convertRawBlocksToSmallBlocks,src\java\org\apache\poi\poifs\storage\SmallDocumentBlock.java$getDataInputBlock,src\java\org\apache\poi\util\BitField.java$clear,src\java\org\apache\poi\util\BitField.java$getRawValue,src\java\org\apache\poi\util\BitField.java$getShortValue,src\java\org\apache\poi\util\BitField.java$setBoolean,src\java\org\apache\poi\util\BitField.java$setValue,src\scratchpad\src\org\apache\poi\hwpf\model\FIBFieldHandler.java$getFieldOffset,src\scratchpad\src\org\apache\poi\hwpf\model\FieldDescriptor.java$getBoundaryType,src\scratchpad\src\org\apache\poi\hwpf\model\types\PAPAbstractType.java$setFNoAutoHyph,src\testcases\org\apache\poi\POIDataSamples.java$getDocumentInstance,src\testcases\org\apache\poi\POIDataSamples.java$getFile

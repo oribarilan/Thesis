@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4
+Bugged
+0,1
+BugsIds
+-1,401961,45203,401961,395302,406456,45203
+TestsCount
+6
+pack
+"['org.eclipse.cdt.core\\model\\org\\eclipse\\cdt\\core\\settings\\model\\extension', 'org.eclipse.cdt.core\\parser\\org\\eclipse\\cdt\\internal\\core\\parser\\scanner', 'org.eclipse.cdt.core\\model\\org\\eclipse\\cdt\\internal\\core\\language\\settings\\providers', 'org.eclipse.cdt.core\\parser\\org\\eclipse\\cdt\\core\\index', 'org.eclipse.cdt.core\\model\\org\\eclipse\\cdt\\internal\\core\\model']"
+testsChoosedNames
+Trace_org.eclipse.cdt.core.cdescriptor.tests.CDescriptorOldTests@testDescriptorCreation_1439131695787,Trace_org.eclipse.cdt.core.internal.errorparsers.tests.ErrorParserFileMatchingTest@testPopDirectory_1439200898147,Trace_org.eclipse.cdt.core.parser.tests.scanner.InclusionTests@testIncludePathOrdering_1439131953646,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2TemplateTests@testNonTypeTemplateParameter_252108_1439132716283,Trace_org.eclipse.cdt.core.parser.tests.scanner.PortedScannerTests@testConcatenation_1439131924000,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2TemplateTests@testTypedef_1439132765867
+FileNames
+core\org.eclipse.cdt.core\model\org\eclipse\cdt\core\language\settings\providers\ScannerDiscoveryLegacySupport.java,core\org.eclipse.cdt.core\model\org\eclipse\cdt\internal\core\language\settings\providers\LanguageSettingsProvidersSerializer.java,build\org.eclipse.cdt.managedbuilder.core\src\org\eclipse\cdt\managedbuilder\core\ManagedBuildManager.java,core\org.eclipse.cdt.core\model\org\eclipse\cdt\internal\core\model\CModelStatus.java,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\internal\core\pdom\JobChangeListener.java

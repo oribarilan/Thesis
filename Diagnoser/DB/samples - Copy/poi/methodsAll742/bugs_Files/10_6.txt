@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10
+Bugged
+0,1
+BugsIds
+-1,53165,53028,53588,55294,52311,55047
+TestsCount
+5
+pack
+"['src\\ooxml\\java\\org\\apache\\poi\\xwpf\\extractor', 'src\\scratchpad\\testcases', 'src\\java\\org\\apache\\poi\\ss\\formula\\constant', 'src\\testcases\\org\\apache', 'src\\ooxml\\java\\org\\apache\\poi\\xssf\\usermodel\\helpers']"
+testsChoosedNames
+Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testFo_1439121505931,Trace_org.apache.poi.ss.usermodel.BaseTestFormulaEvaluator@testUpdateCachedFormulaResultFromErrorToNumber_bug46479_1439126012592,Trace_org.apache.poi.xssf.usermodel.helpers.TestColumnHelper@testGetOrCreateColumn_1439126350582,Trace_org.apache.poi.xssf.usermodel.TestXSSFBugs@test49941_1439125474530,Trace_org.apache.poi.hpbf.model.TestEscherParts@testBasics_1439118520155,Trace_org.apache.poi.hwpf.TestHWPFPictures@testMacImages_1439121231278,Trace_org.apache.poi.ss.formula.BaseTestExternalFunctions@testExternalFunctions_1439125969929
+FileNames
+src\ooxml\java\org\apache\poi\xssf\usermodel\XSSFSheet.java$write,src\ooxml\testcases\org\apache\poi\xssf\XSSFTestDataSamples.java$writeOutAndReadBack,src\java\org\apache\poi\ss\SpreadsheetVersion.java$getLastColumnIndex,src\java\org\apache\poi\ss\util\CellReference.java$convertColStringToIndex,src\ooxml\java\org\apache\poi\xssf\model\StylesTable.java$getCellStyleXfAt,src\ooxml\java\org\apache\poi\xssf\streaming\SXSSFCell.java$computeTypeFromFormula,src\ooxml\java\org\apache\poi\xssf\usermodel\XSSFCell.java$checkBounds,src\ooxml\java\org\apache\poi\xssf\usermodel\XSSFCell.java$getBaseCellType,src\ooxml\java\org\apache\poi\xssf\usermodel\XSSFCell.java$getCellFormula,src\ooxml\java\org\apache\poi\xssf\usermodel\XSSFCell.java$getNumericCellValue,src\ooxml\java\org\apache\poi\xssf\usermodel\XSSFWorkbook.java$createSheet

@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7
+Bugged
+0
+BugsIds
+-1,55058,53642,53972,54579,54111,55081
+TestsCount
+11
+pack
+"['src\\java\\org\\apache\\poi\\ss', 'src\\scratchpad\\testcases\\org', 'src\\java\\org\\apache\\poi\\hssf', 'src\\testcases\\org', 'src\\ooxml\\java\\org\\apache\\poi\\xslf\\usermodel']"
+testsChoosedNames
+Trace_org.apache.poi.hwpf.model.TestRevisionMarkAuthorTable@testSimpleDocument_1439121758407,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439121114494,Trace_org.apache.poi.hsmf.TestSimpleFileRead@testReadMessageClass_1439118606269,Trace_org.apache.poi.xssf.usermodel.TestXSSFSheet@testTestGetSetMargin_1439126233354,Trace_org.apache.poi.xssf.usermodel.extensions.TestXSSFBorder@testGetBorderStyle_1439126349480,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439118829198,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439119718004,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testHtml_1439121487640,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439118827504,Trace_org.apache.poi.xssf.usermodel.TestXSSFFormulaEvaluation@testSharedFormulas_1439125980490,Trace_org.apache.poi.hwpf.usermodel.TestPictures@testFloatingPictures_1439121821570
+FileNames
+src\java\org\apache\poi\ss\formula\WorkbookEvaluator.java$evaluateFormula,src\java\org\apache\poi\ss\SpreadsheetVersion.java$getLastRowIndex,src\java\org\apache\poi\ss\formula\FormulaParser.java$getRep,src\java\org\apache\poi\ss\util\CellReference.java$getCol,src\java\org\apache\poi\util\BitField.java$set,src\java\org\apache\poi\util\BitField.java$setValue,src\ooxml\java\org\apache\poi\POIXMLDocumentPart.java$incrementRelationCounter,src\testcases\org\apache\poi\POIDataSamples.java$getFile

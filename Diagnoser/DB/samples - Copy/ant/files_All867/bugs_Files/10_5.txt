@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4
+Bugged
+0,1,2
+BugsIds
+-1,52554,51035,50576,51044,50888,50716
+TestsCount
+3
+pack
+"['main\\org\\apache\\tools\\ant\\taskdefs\\optional', 'main\\org\\apache\\tools\\ant\\taskdefs\\condition', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional\\depend\\constantpool', 'main\\org\\apache\\tools\\ant\\filters', 'main\\org\\apache\\tools\\ant\\taskdefs\\optional\\i18n']"
+testsChoosedNames
+Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438960291894,Trace_org.apache.tools.ant.taskdefs.ZipTest@testDefaultExcludesAndUpdate_1438961610874,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438960367397,Trace_org.apache.tools.ant.taskdefs.StyleTest@testCustomMapper_1438961469139,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961399797,Trace_org.apache.tools.ant.taskdefs.AntTest@testUserPropertyWinsInheritAll_1438960423560,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438962244635,Trace_org.apache.tools.ant.taskdefs.optional.junit.JUnitTestListenerTest@testFullLogOutputMagicProperty_1438961764647,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438962328313,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testFinished_1438960340166,Trace_org.apache.tools.ant.taskdefs.optional.junit.CustomJUnit4TestAdapterCache$1@testStarted_1438961326555
+FileNames
+src\main\org\apache\tools\ant\IntrospectionHelper.java,src\main\org\apache\tools\ant\Main.java,src\main\org\apache\tools\ant\Target.java,src\main\org\apache\tools\ant\Project.java,src\main\org\apache\tools\ant\taskdefs\condition\Os.java

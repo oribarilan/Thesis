@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+Bugged
+0
+BugsIds
+-1,54436,53205,54524,55768,53182,55347
+TestsCount
+11
+pack
+"['src\\scratchpad\\src\\org', 'src\\scratchpad\\testcases\\org\\apache\\poi\\hslf\\extractor', 'src\\ooxml\\testcases\\org\\apache', 'src\\scratchpad\\src\\org\\apache\\poi\\hsmf\\extractor', 'src\\ooxml\\testcases\\org\\apache\\poi\\xssf\\extractor']"
+testsChoosedNames
+Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439121026163,Trace_org.apache.poi.hwpf.usermodel.TestBug46610@testUtf_1439121760456,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439121077896,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439121207075,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439121208204,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439119720227,Trace_org.apache.poi.hdgf.streams.TestStreamComplex@testTrailer_1439118516980,Trace_org.apache.poi.hmef.TestCompressedRTF@testFirstTwoBlocks_1439118517966,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testText_1439121549223,Trace_org.apache.poi.ss.format.TestCellFormatPart@testDateFormat_1439122117453,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testFo_1439121601489
+FileNames
+src\scratchpad\src\org\apache\poi\hwpf\model\CHPX.java$getCharacterProperties,src\java\org\apache\poi\POIDocument.java$getPropertySet,src\java\org\apache\poi\ddf\AbstractEscherOptRecord.java$fillFields,src\java\org\apache\poi\hpsf\ClassID.java$getBytes,src\java\org\apache\poi\poifs\filesystem\POIFSDocument.java$convertRawBlocksToBigBlocks,src\java\org\apache\poi\poifs\filesystem\POIFSDocument.java$convertRawBlocksToSmallBlocks,src\java\org\apache\poi\poifs\storage\SmallDocumentBlock.java$getDataInputBlock,src\java\org\apache\poi\util\BitField.java$getRawValue,src\java\org\apache\poi\util\BitField.java$getShortValue,src\java\org\apache\poi\util\BitField.java$isSet,src\java\org\apache\poi\util\BitField.java$set,src\java\org\apache\poi\util\IOUtils.java$closeQuietly,src\java\org\apache\poi\util\LittleEndian.java$getByteArray,src\scratchpad\src\org\apache\poi\hwpf\HWPFDocument.java$getBookmarks,src\scratchpad\src\org\apache\poi\hwpf\HWPFDocumentCore.java$verifyAndBuildPOIFS,src\scratchpad\src\org\apache\poi\hwpf\converter\AbstractWordUtils.java$loadDoc,src\testcases\org\apache\poi\POIDataSamples.java$getFile

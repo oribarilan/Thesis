@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8
+Bugged
+0,1
+BugsIds
+-1,54607,54696,54436,53380,52311,52991
+TestsCount
+10
+pack
+"['src\\scratchpad\\src\\org\\apache\\poi\\hwpf\\sprm', 'src\\ooxml\\java\\org\\apache\\poi\\xssf\\usermodel\\helpers', 'src\\scratchpad\\src\\org\\apache\\poi\\hslf\\record', 'src\\ooxml\\testcases\\org\\apache\\poi\\xssf\\usermodel', 'src\\scratchpad\\src\\org\\apache\\poi\\hwpf\\model\\types']"
+testsChoosedNames
+Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testFo_1439121295816,Trace_org.apache.poi.hwpf.model.TestNotesTables@test_1439121754992,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testHtml_1439121489008,Trace_org.apache.poi.xssf.usermodel.TestXSSFSheet@testSetAutoFilter_1439126238944,Trace_org.apache.poi.hslf.record.TestDocumentAtom@testWrite_1439118550195,Trace_org.apache.poi.ss.usermodel.BaseTestCell@testSetValues_1439125037666,Trace_org.apache.poi.xssf.usermodel.TestXSSFRichTextString@testUtfDecode_1439126068292,Trace_org.apache.poi.xssf.streaming.TestSXSSFRow@testCellBounds_1439125042458,Trace_org.apache.poi.ss.usermodel.BaseTestSheet@testCreateRow_1439126253174,Trace_org.apache.poi.TestXMLPropertiesTextExtractor@testGetFromMainExtractor_1439121953042
+FileNames
+src\ooxml\testcases\org\apache\poi\xssf\usermodel\TestXSSFSheet.java,src\scratchpad\src\org\apache\poi\hwpf\model\types\LFOAbstractType.java,src\java\org\apache\poi\POIDocument.java,src\java\org\apache\poi\hpsf\ClassID.java,src\java\org\apache\poi\ss\SpreadsheetVersion.java,src\java\org\apache\poi\ss\util\CellReference.java,src\java\org\apache\poi\util\BitField.java,src\java\org\apache\poi\util\LittleEndian.java,src\ooxml\java\org\apache\poi\POIXMLDocument.java

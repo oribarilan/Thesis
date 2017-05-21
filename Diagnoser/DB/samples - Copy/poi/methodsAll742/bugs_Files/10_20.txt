@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11,12,13
+Bugged
+0,1
+BugsIds
+-1,53282,49237,52583,53302,54400,47563
+TestsCount
+11
+pack
+"['src\\scratchpad\\testcases\\org\\apache', 'src\\java\\org\\apache\\poi\\hpsf', 'src\\scratchpad\\src\\org\\apache\\poi\\hdgf\\streams', 'src\\java\\org\\apache\\poi\\hssf\\record', 'src\\ooxml\\testcases\\org\\apache\\poi\\openxml4j']"
+testsChoosedNames
+Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439119052804,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439121117149,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testFo_1439121333086,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439118866482,Trace_org.apache.poi.hwpf.usermodel.TestRange@testBug46817_1439121825281,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testHtml_1439118828686,Trace_org.apache.poi.hsmf.TestBasics@test7BitDetection_1439118595551,Trace_org.apache.poi.hwpf.converter.TestWordToConverterSuite@testHtml_1439121604512,Trace_org.apache.poi.hdf.model.TestHDFDocument@testEmpty_1439118501336,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439119079304,Trace_org.apache.poi.hssf.converter.TestExcelConverterSuite@testFo_1439118787621
+FileNames
+src\scratchpad\src\org\apache\poi\hwpf\model\Sttb.java$fillFields,src\scratchpad\src\org\apache\poi\hwpf\sprm\CharacterSprmUncompressor.java$unCompressCHPOperation,src\java\org\apache\poi\POIDocument.java$getPropertySet,src\java\org\apache\poi\ddf\AbstractEscherOptRecord.java$fillFields,src\java\org\apache\poi\ddf\EscherClientAnchorRecord.java$fillFields,src\java\org\apache\poi\poifs\filesystem\DirectoryNode.java$createDirectory,src\java\org\apache\poi\poifs\filesystem\POIFSDocument.java$convertRawBlocksToSmallBlocks,src\java\org\apache\poi\poifs\storage\SmallDocumentBlock.java$getDataInputBlock,src\java\org\apache\poi\util\BitField.java$getRawValue,src\java\org\apache\poi\util\BitField.java$set,src\java\org\apache\poi\util\LittleEndian.java$getUnsignedByte,src\java\org\apache\poi\util\StringUtil.java$getFromUnicodeLE,src\scratchpad\src\org\apache\poi\hwpf\model\FieldDescriptor.java$getBoundaryType,src\testcases\org\apache\poi\POIDataSamples.java$getFile

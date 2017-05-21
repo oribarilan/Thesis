@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9,10,11,12
+Bugged
+0,1
+BugsIds
+-1,53904,54696,53475,55768,54407,49940
+TestsCount
+11
+pack
+"['src\\testcases\\org\\apache', 'src\\ooxml\\java\\org\\apache\\poi', 'src\\ooxml\\java\\org\\apache', 'src\\ooxml\\testcases\\org\\apache\\poi\\xssf\\model', 'src\\scratchpad\\src\\org\\apache\\poi\\hslf\\blip']"
+testsChoosedNames
+Trace_org.apache.poi.hslf.model.TestMovieShape@testCreate_1439118535523,Trace_org.apache.poi.extractor.TestExtractorFactory@testPOIFS_1439121987996,Trace_org.apache.poi.ss.usermodel.BaseTestCell@testSetFormulaValue_1439125885498,Trace_org.apache.poi.xwpf.usermodel.TestXWPFHeader@testImageInHeader_1439126502966,Trace_org.apache.poi.util.TestIdentifierManager@testReserve_1439122121334,Trace_org.apache.poi.xssf.usermodel.TestXSSFSheet@testCreateRowXSSF_1439126238161,Trace_org.apache.poi.hsmf.parsers.TestPOIFSChunkParser@testFindsMultipleRecipients_1439118608408,Trace_org.apache.poi.xssf.usermodel.TestXSSFRichTextString@testCreate_1439126068356,Trace_org.apache.poi.xssf.usermodel.TestXSSFSheet@testSetZoom_1439126241425,Trace_org.apache.poi.hslf.usermodel.TestRichTextRun@testBoldRich_1439118572279,Trace_org.apache.poi.openxml4j.opc.TestPackagingURIHelper@testRelativizeURI_1439122047867
+FileNames
+src\ooxml\java\org\apache\poi\openxml4j\opc\PackageRelationshipCollection.java,src\ooxml\java\org\apache\poi\xssf\model\StylesTable.java,src\java\org\apache\poi\ss\SpreadsheetVersion.java,src\java\org\apache\poi\ss\formula\FormulaParser.java,src\java\org\apache\poi\ss\util\CellReference.java,src\ooxml\java\org\apache\poi\openxml4j\opc\PackagingURIHelper.java,src\ooxml\java\org\apache\poi\openxml4j\opc\StreamHelper.java,src\ooxml\java\org\apache\poi\openxml4j\opc\ZipPackagePart.java,src\ooxml\java\org\apache\poi\util\IdentifierManager.java,src\ooxml\java\org\apache\poi\xssf\usermodel\XSSFFont.java,src\ooxml\java\org\apache\poi\xssf\usermodel\XSSFRichTextString.java,src\ooxml\java\org\apache\poi\xwpf\model\XWPFHeaderFooterPolicy.java,src\ooxml\testcases\org\apache\poi\xssf\usermodel\TestXSSFSheet.java

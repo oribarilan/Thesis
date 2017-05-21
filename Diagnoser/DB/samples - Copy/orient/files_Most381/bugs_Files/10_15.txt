@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7
+Bugged
+0,1
+BugsIds
+-1,3517,2713,2859,2772,3209,3074
+TestsCount
+11
+pack
+"['src\\main\\java\\com\\orientechnologies\\orient\\core\\storage\\impl\\local\\paginated', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\db\\document', 'src\\main\\java\\com\\orientechnologies\\orient\\core', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\sql\\filter', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\id']"
+testsChoosedNames
+Trace_com.orientechnologies.orient.core.db.record.TrackedMapTest@testPutFour_1438532800392,Trace_com.orientechnologies.common.serialization.types.DecimalSerializerTest@testSerializeNative_1438528836487,Trace_com.orientechnologies.orient.core.index.OSimpleKeyIndexDefinitionTest@testGetDocumentValueToIndex_1438527717036,Trace_com.orientechnologies.orient.core.db.record.TrackedMapTest@testClearTwo_1438532800357,Trace_com.orientechnologies.orient.core.record.impl.ODocumentFieldConversionTest@testCollectionDoubleCoversion_1438528835635,Trace_com.orientechnologies.orient.core.sql.parser.OCreateEdgeStatementTest@testRetrySet_1438529217896,Trace_com.orientechnologies.orient.core.index.hashindex.local.cache.ReadWriteDiskCacheTest@testCloseFileShouldFlushData_1438527578084,Trace_com.orientechnologies.orient.core.db.record.TrackedMapTest@testRemoveThree_1438532800442,Trace_com.orientechnologies.orient.core.record.impl.ODocumentSchemalessBinarySerializationTest@testMapOfEmbeddedDocument_1438529250113,Trace_com.orientechnologies.orient.core.index.hashindex.local.cache.LRUListTest@testAddTwo_1438528569878,Trace_com.orientechnologies.orient.core.index.sbtreebonsai.local.OSBTreeBonsaiLeafBucketTest@testUpdateValue_1438529185439
+FileNames
+core\src\main\java\com\orientechnologies\orient\core\config\OGlobalConfiguration.java,core\src\main\java\com\orientechnologies\orient\core\storage\impl\local\OAbstractPaginatedStorage.java,core\src\main\java\com\orientechnologies\common\concur\lock\ODistributedCounter.java,core\src\main\java\com\orientechnologies\common\hash\OMurmurHash3.java,core\src\main\java\com\orientechnologies\common\serialization\OUnsafeBinaryConverter.java,core\src\main\java\com\orientechnologies\common\serialization\types\OIntegerSerializer.java,core\src\main\java\com\orientechnologies\orient\core\db\ODatabaseRecordThreadLocal.java,core\src\main\java\com\orientechnologies\orient\core\index\hashindex\local\cache\OWOWCache.java

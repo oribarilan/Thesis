@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5
+Bugged
+0
+BugsIds
+-1,403455,389009,407807,408314,290631,389009
+TestsCount
+4
+pack
+"['org.eclipse.cdt.core\\parser\\org\\eclipse\\cdt\\internal\\core\\pdom', 'org.eclipse.cdt.core\\parser\\org\\eclipse\\cdt\\internal\\core\\dom\\parser\\cpp\\semantics', 'org.eclipse.cdt.core\\parser\\org\\eclipse\\cdt\\internal\\core\\pdom\\dom', 'org.eclipse.cdt.core\\model\\org\\eclipse\\cdt\\internal\\core\\language\\settings\\providers', 'org.eclipse.cdt.managedbuilder.core\\src\\org\\eclipse\\cdt\\managedbuilder\\internal\\envvar']"
+testsChoosedNames
+Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2CPPTests@testBug77967_1439132600895,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2TemplateTests@testDependentExpressions_395243c_1439132750966,Trace_org.eclipse.cdt.core.parser.tests.ast2.CompleteParser2Tests@testNestedClassReferenceVariable_1439132785012,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2TemplateTests@testBug316704_1439132766220,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2TemplateTests@testBasicClassTemplate_1439132683067,Trace_org.eclipse.cdt.core.parser.tests.ast2.AST2CPPSpecTest@test14_8_1s6_1439132855282
+FileNames
+core\org.eclipse.cdt.core\model\org\eclipse\cdt\internal\core\language\settings\providers\LanguageSettingsScannerInfoProvider.java$convertToLocations,build\org.eclipse.cdt.managedbuilder.core\src\org\eclipse\cdt\managedbuilder\core\ManagedBuildManager.java$doSetLoaddedInfo,core\org.eclipse.cdt.core.tests\model\org\eclipse\cdt\core\language\settings\providers\LanguageSettingsScannerInfoProviderTests.java$testEnvironmentVars,core\org.eclipse.cdt.core.tests\model\org\eclipse\cdt\core\language\settings\providers\LanguageSettingsScannerInfoProviderTests.java$testParentFolder,core\org.eclipse.cdt.core\model\org\eclipse\cdt\core\settings\model\util\CDataUtil.java$makeAbsolute,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\internal\core\pdom\PDOMIndexerJob.java$access$0

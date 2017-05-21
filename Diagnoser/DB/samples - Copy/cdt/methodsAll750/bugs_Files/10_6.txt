@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8
+Bugged
+0,1
+BugsIds
+-1,403405,395302,404125,382423,401116,357442
+TestsCount
+11
+pack
+"['org.eclipse.cdt.core\\model\\org\\eclipse\\cdt\\internal\\core\\model', 'org.eclipse.cdt.managedbuilder.core\\src\\org\\eclipse\\cdt\\managedbuilder\\language\\settings\\providers', 'org.eclipse.cdt.core\\model\\org\\eclipse\\cdt\\core\\settings\\model\\util', 'org.eclipse.cdt.managedbuilder.core\\src\\org\\eclipse\\cdt\\managedbuilder\\internal\\envvar', 'org.eclipse.cdt.core\\src\\org\\eclipse\\cdt\\internal\\core\\cdtvariables']"
+testsChoosedNames
+Trace_org.eclipse.cdt.core.language.settings.providers.LanguageSettingsSerializableProviderTests@testCIncludeFileEntryDOM_1439133458332,Trace_org.eclipse.cdt.core.settings.model.CProjectDescriptionDeltaTests@testDelta_SOURCE_EXTENSIONS_1439133417200,Trace_org.eclipse.cdt.core.parser.tests.ast2.DOMSelectionParseTest@test72220_1439132874842,Trace_org.eclipse.cdt.core.parser.tests.ast2.DOMSelectionParseTest@testMethodReference_1439132871345,Trace_org.eclipse.cdt.core.internal.errorparsers.tests.ErrorParserFileMatchingTest@testAbsolutePathSingle_1439131837799,Trace_org.eclipse.cdt.core.language.settings.providers.LanguageSettingsListenersTests@testNotification_cfgProvider_AddNonEmptyProvider_1439133465185,Trace_org.eclipse.cdt.core.internal.errorparsers.tests.ErrorParserFileMatchingTest@testUppercase3ResolveCase_1439200892191,Trace_org.eclipse.cdt.core.parser.tests.ast2.DOMSelectionParseTest@testBug80823_1439132871142,Trace_org.eclipse.cdt.internal.pdom.tests.RaceCondition157992Test@testRepeatedly_1439137614671,Trace_org.eclipse.cdt.core.internal.errorparsers.tests.GCCErrorParserTests@testGccErrorMessages_InstantiatedFromHere_1439200873557,Trace_org.eclipse.cdt.core.internal.errorparsers.tests.ErrorParserFileMatchingTest@testDuplicateInRoot_1439200885479
+FileNames
+core\org.eclipse.cdt.core\model\org\eclipse\cdt\core\settings\model\util\PathEntryTranslator.java$collectEntries,core\org.eclipse.cdt.core\model\org\eclipse\cdt\internal\core\model\CModelManager.java$run,core\org.eclipse.cdt.core.tests\suite\org\eclipse\cdt\core\testplugin\ResourceHelper.java$cleanUp,core\org.eclipse.cdt.core\model\org\eclipse\cdt\core\model\CoreModel.java$getDefault,core\org.eclipse.cdt.core\model\org\eclipse\cdt\core\model\LanguageManager.java$getInstance,core\org.eclipse.cdt.core\model\org\eclipse\cdt\core\settings\model\ACSettingEntry.java$equals,core\org.eclipse.cdt.core\model\org\eclipse\cdt\core\settings\model\ACSettingEntry.java$getValue,core\org.eclipse.cdt.core\model\org\eclipse\cdt\internal\core\settings\model\CConfigurationDescriptionCache.java$get,core\org.eclipse.cdt.core\parser\org\eclipse\cdt\internal\core\pdom\JobChangeListener.java$done

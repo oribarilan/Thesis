@@ -1,0 +1,14 @@
+Files
+0,1,2,3,4,5,6,7,8,9
+Bugged
+0
+BugsIds
+-1,3153,3002,3342,2781,3416,3146
+TestsCount
+11
+pack
+"['src\\test\\java\\com\\orientechnologies\\common\\concur\\lock', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\sql\\functions\\coll', 'src\\main\\java\\com\\orientechnologies\\common\\log', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\index\\hashindex\\local\\cache', 'src\\main\\java\\com\\orientechnologies\\orient\\core\\serialization\\serializer\\record\\binary']"
+testsChoosedNames
+Trace_com.orientechnologies.orient.core.record.impl.ODocumentSchemafullSerializationTest@testSimpleLiteralList_1438529065156,Trace_com.orientechnologies.orient.core.record.impl.ODocumentFieldConversionTest@testLiteralToSchemaConvertionDouble_1438528835805,Trace_com.orientechnologies.orient.core.record.impl.BytesContainerTest@testReadSimple_1438528387551,Trace_com.orientechnologies.orient.core.index.OCompositeIndexDefinitionTest@testClassName_1438528451684,Trace_com.orientechnologies.orient.core.db.record.ridbag.sbtree.ORidBagAtomicUpdateTest@testFromEmbeddedToSBTreeWithCME_1438529951560,Trace_com.orientechnologies.orient.core.metadata.security.ORestricetedUserCleanUpTest@testAutoCleanUserAfterDelate_1438527703725,Trace_com.orientechnologies.orient.core.db.hook.HookChangeValidationTest@testHookUpdateChange_1438528873491,Trace_com.orientechnologies.orient.core.record.impl.ODocumentFieldConversionTest@testLiteralToSchemaConvertionInteger_1438528835825,Trace_com.orientechnologies.orient.core.metadata.ClassTest@testRename_1438529417458,Trace_com.orientechnologies.orient.core.metadata.ClassTest@testShortName_1438529440751,Trace_com.orientechnologies.orient.core.index.hashindex.local.cache.LRUListTest@testAddThreePutMiddleToTop_1438528569855
+FileNames
+core\src\main\java\com\orientechnologies\orient\core\index\hashindex\local\cache\OWOWCache.java,core\src\main\java\com\orientechnologies\common\collection\OIterableObjectArray.java,core\src\main\java\com\orientechnologies\common\directmemory\OUnsafeMemoryJava7.java,core\src\main\java\com\orientechnologies\common\io\OFileUtils.java,core\src\main\java\com\orientechnologies\common\serialization\types\OIntegerSerializer.java,core\src\main\java\com\orientechnologies\common\serialization\types\OLongSerializer.java,core\src\main\java\com\orientechnologies\orient\core\db\ODatabaseRecordThreadLocal.java,core\src\main\java\com\orientechnologies\orient\core\index\sbtree\local\OSBTreeBucket.java,core\src\main\java\com\orientechnologies\orient\core\serialization\serializer\binary\impl\OLinkSerializer.java,core\src\main\java\com\orientechnologies\orient\core\sql\parser\OClusterList.java
